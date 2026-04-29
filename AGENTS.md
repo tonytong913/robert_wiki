@@ -23,8 +23,8 @@ wiki/
 │   ├── learnings.md   ← 经验教训
 │   └── feature_requests.md
 ├── raw/               ← 原始资料层（只读，不可变）
-│   ├── articles/      ← 文章
-│   ├── books/         ← 书籍/课程
+│   ├── articles/      ← 单篇文章（和菜头专栏、其他文章）
+│   ├── books/         ← 书籍/课程（按章节学习）
 │   ├── papers/        ← 论文
 │   └── assets/        ← 图片/附件
 ├── pages/             ← Wiki 知识层（LLM 生成和维护）
@@ -41,7 +41,7 @@ wiki/
 
 | 层 | 目录 | 职责 | 谁来写 |
 |----|------|------|--------|
-| **Raw Sources** | `raw/` | 原始文档，不可变，事实源 | 用户 |
+| **Raw Sources** | `raw/` | 原始文档，不可变，事实源。必须先保存再编译 | 用户 + LLM |
 | **Wiki** | `pages/` | LLM 生成的知识页面，带交叉引用 | LLM |
 | **Schema** | `AGENTS.md` | 定义结构、规范、工作流 | 用户 + LLM 共演 |
 
@@ -127,8 +127,8 @@ confidence: high       # high | medium | low
 | **概念页** | 英文，PascalCase，下划线分隔 | `Binary_Thinking.md` |
 | **课程页** | 编号 + 英文描述 | `Leadership/L01_Why_You_Need_Leadership.md` |
 | **中文概念** | 英文翻译优先；如已有中文名则保持一致 | `"骂醒": Scolding_to_Wake.md` |
-| **源文件** | `YYYY-MM-DD-来源简称.md` 或保留原文件名 | `hct-0121-我问和菜头...md` |
-| **日期文件** | `YYYY-MM-DD.md` | `memory/2026-04-29.md` |
+| **源文件** | `raw/articles/YYYY-MM-DD-来源简称.md` 或 `raw/books/编号_章节名.md` | `hct-0121-我问和菜头...md` |
+| **日期文件** | `memory/YYYY-MM-DD.md` | `memory/2026-04-29.md` |
 
 ### 页面类型定义
 
@@ -148,17 +148,24 @@ confidence: high       # high | medium | low
 
 当用户添加新资料：
 
-1. 读取 `raw/` 中的原始文档
-2. 与用户讨论关键要点（可选，视情况而定）
-3. **创建/更新 pages/ 中的相关页面** — 一篇源文档应触达 **5-15 个已有页面**
+1. **先保存源文件到 raw/ 对应目录**（这是第一步，不可省略）
+   - 单篇文章 → `raw/articles/YYYY-MM-DD-来源简称.md`
+   - 书籍/课程 → `raw/books/编号_章节名.md`
+   - 论文 → `raw/papers/YYYY-作者-简称.md`
+   - 图片/附件 → `raw/assets/`
+   - 如果用户提供了全文内容，将其完整保存到 raw/ 后再处理
+2. 读取 `raw/` 中的原始文档
+3. 与用户讨论关键要点（可选，视情况而定）
+4. **创建/更新 pages/ 中的相关页面** — 一篇源文档应触达 **5-15 个已有页面**
    - 创建源摘要页（如需要）
    - 新建概念页
    - 更新已有相关页面的内容或交叉引用
    - 标记与新源矛盾或补充的声明
-4. 更新 `pages/index.md`
-5. 记录到 `pages/log.md`（格式：`## [YYYY-MM-DD] ingest | 描述`）
+5. 更新 `pages/index.md`
+6. 记录到 `pages/log.md`（格式：`## [YYYY-MM-DD] ingest | 描述`）
 
 **关键**: Ingest 不是"创建 1 个新页面"，而是**级联更新**整个相关知识图谱。
+**关键**: 源文件必须先保存到 raw/，再编译页面。raw/ 是完整的事实源，不可省略这一步。
 
 ### 2. Query（查询回答）
 

@@ -1,5 +1,15 @@
 # Wiki 操作日志
 
+## [2026-04-29] lint/refactor | 首次全面健康检查 + 批量修复断链
+
+- 初始化 Git 版本控制
+- 创建 outputs/ 目录（存放 lint 报告和衍生输出）
+- 更新 AGENTS.md schema：添加 YAML frontmatter 模板、命名规范、页面类型定义、详细工作流
+- 执行全面 lint：发现 91 个页面无 frontmatter、22 个孤立页、110+ 断链
+- 批量修复断链 55 个文件：中文引用 → 英文页面名、路径问题修复
+- 保存 lint 报告：outputs/lint-2026-04-29.md
+- 剩余待处理：添加 frontmatter 到所有页面、创建缺失概念页（批判性思维、群体思维等）
+
 ## [2026-04-28] ingest | 添加安心系列：第三方立场与心的安放（hct-0125）
 
 - 创建源文档: raw/articles/hct-0125-安心怎样才能把心安放在合适的位置上.md

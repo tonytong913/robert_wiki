@@ -8,6 +8,14 @@
 - 来源: Telegram @aiindi 频道
 - 交叉引用: Professional_Expertise, Career_Transition, Career_Plateau
 
+## [2026-04-29] refactor | 更新 Schema：Ingest 必须先保存源文件
+
+- 更新 AGENTS.md Ingest 流程：明确第一步是保存源文件到 raw/ 对应目录
+- 更新 raw/ 目录结构说明：articles/（单篇文章）、books/（书籍/课程）、papers/（论文）、assets/（图片）
+- 更新命名规范，包含完整 raw/ 路径
+- 更新三层架构表，明确 raw/ 由用户 + LLM 共同写入
+- 原则：源文件必须先保存到 raw/，再编译页面。raw/ 是完整的事实源
+
 ## [2026-04-29] lint/refactor | 首次全面健康检查 + 批量修复断链
 
 - 初始化 Git 版本控制

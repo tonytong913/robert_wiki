@@ -1,5 +1,13 @@
 # Wiki 操作日志
 
+## [2026-04-29] ingest | 添加面试准备提示词模板（中英双语）
+
+- 创建页面: pages/Interview_Prep_Prompt.md (英文版)
+- 创建页面: pages/Interview_Prep_Prompt_CN.md (中文版)
+- 更新 pages/index.md — 职业发展与转型分类
+- 来源: Telegram @aiindi 频道
+- 交叉引用: Professional_Expertise, Career_Transition, Career_Plateau
+
 ## [2026-04-29] lint/refactor | 首次全面健康检查 + 批量修复断链
 
 - 初始化 Git 版本控制

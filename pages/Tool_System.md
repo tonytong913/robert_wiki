@@ -94,5 +94,5 @@ Agent 除了生成文本外的所有操作都通过**工具**完成。工具是 
 - [[OpenClaw]]
 
 ## 相关概念
-- [[Agent 运行时]]
-- [[多 Agent 路由]]
+- [[Agent_Runtime]]
+- [[Multi_Agent_Routing]]

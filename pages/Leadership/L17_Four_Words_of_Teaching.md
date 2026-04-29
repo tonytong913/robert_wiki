@@ -245,13 +245,13 @@
 ## 六、关联内容
 
 ### 相关口诀
-- [["我来"]] — 承担责任，从用人开始
-- [["我不知道"]] — 承认不足，才能更好识人之长
-- [["你觉得呢"]] — 了解他人，发现其独特之处
+- [[Leadership/L03_Mantra_1_I_Come]] — 承担责任，从用人开始
+- [[Leadership/L06_Mantra_2_I_Dont_Know]] — 承认不足，才能更好识人之长
+- [[Leadership/L11_Mantra_3_What_Do_You_Think]] — 了解他人，发现其独特之处
 
 ### 相关课程
-- [[ll0717-15-伟大老师的三个动作]] — 培养人才的具体方法
-- [[ll0712-11-领导力第三句口诀_你觉得呢]] — 倾听发现人才
+- [[Leadership/L15_Three_Actions_of_Great_Teachers]] — 培养人才的具体方法
+- [[Leadership/L11_Mantra_3_What_Do_You_Think]] — 倾听发现人才
 
 ### 延伸阅读
 - 彼得·德鲁克《管理的实践》

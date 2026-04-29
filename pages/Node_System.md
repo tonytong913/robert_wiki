@@ -59,4 +59,4 @@ openclaw node run --host <gateway-host> --port 18789
 - [[OpenClaw]]
 
 ## 相关概念
-- [[Gateway架构]]
+- [[Gateway_Architecture]]

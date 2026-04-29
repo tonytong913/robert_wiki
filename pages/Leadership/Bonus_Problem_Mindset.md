@@ -4,8 +4,8 @@
 > **主题**：具备问题心智
 > **课程系列**：刘澜领导力课程
 > **前置知识**：
-> - [[ll0707-06-区分领导与管理]]（第06讲）
-> - [[ll0712-11-领导力第三句口诀_你觉得呢]]（第11讲）
+> - [[Leadership/L07_Leadership_vs_Management]]（第06讲）
+> - [[Leadership/L11_Mantra_3_What_Do_You_Think]]（第11讲）
 
 ---
 
@@ -374,9 +374,9 @@
 
 ## 九、关联知识
 
-- [[ll0707-06-区分领导与管理]] —— 领导vs管理、技术性问题vs适应性问题
-- [[ll0712-11-领导力第三句口诀_你觉得呢]] —— 倾听他人，集思广益
-- [[ll0720-18-领导力第五句口诀_我教你]] —— "我教你"的五种说法
+- [[Leadership/L07_Leadership_vs_Management]] —— 领导vs管理、技术性问题vs适应性问题
+- [[Leadership/L11_Mantra_3_What_Do_You_Think]] —— 倾听他人，集思广益
+- [[Leadership/L18_Mantra_5_I_Teach_You]] —— "我教你"的五种说法
 - [[_concepts.md]] —— 核心概念索引
 
 ---

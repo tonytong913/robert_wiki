@@ -176,6 +176,6 @@ OpenClaw 使用"龙虾调色板":
 - [[OpenClaw]]
 
 ## 相关概念
-- [[Gateway架构]]
-- [[多Agent路由]]
-- [[Agent运行时]]
+- [[Gateway_Architecture]]
+- [[Multi_Agent_Routing]]
+- [[Agent_Runtime]]

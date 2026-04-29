@@ -92,8 +92,8 @@
 
 ## 关联内容
 
-- [[ll0702_发刊词_你为什么需要领导力]] - 领导力的基础认知
-- [[ll0702_导论01讲_领导力其实是领袖力1]] - 领导力的本质理解
+- [[Leadership/L01_Why_You_Need_Leadership]] - 领导力的基础认知
+- [[Leadership/L02_Leadership_is_Leadership]] - 领导力的本质理解
 - **下一讲预告**：魅力不是前提，而是结果
 
 ---

@@ -69,4 +69,4 @@ openclaw browser --browser-profile openclaw snapshot
 - [[OpenClaw]]
 
 ## 相关概念
-- [[工具系统]]
+- [[Tool_System]]

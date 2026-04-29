@@ -86,5 +86,5 @@ openclaw sessions history <key>           # 获取会话历史
 - [[OpenClaw]]
 
 ## 相关概念
-- [[Agent循环]]
-- [[多Agent路由]]
+- [[Agent_Loop]]
+- [[Multi_Agent_Routing]]

@@ -72,5 +72,5 @@ await sessions_spawn({
 - [[OpenClaw]]
 
 ## 相关概念
-- [[多Agent路由]]
-- [[Agent循环]]
+- [[Multi_Agent_Routing]]
+- [[Agent_Loop]]

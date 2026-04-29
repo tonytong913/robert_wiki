@@ -101,5 +101,5 @@ Gateway 监视配置文件并在更改时自动应用（无需重启）。
 - [[OpenClaw]]
 
 ## 相关概念
-- [[Gateway架构]]
-- [[CLI命令参考]]
+- [[Gateway_Architecture]]
+- [[CLI_Reference]]

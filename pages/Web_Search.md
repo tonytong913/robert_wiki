@@ -51,4 +51,4 @@ OpenClaw 按以下顺序自动检测：
 - [[OpenClaw]]
 
 ## 相关概念
-- [[工具系统]]
+- [[Tool_System]]

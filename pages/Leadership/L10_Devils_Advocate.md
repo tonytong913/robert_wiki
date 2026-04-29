@@ -416,9 +416,9 @@
 ## 八、关联概念
 
 - [[领导力]]
-- [[领导力中的两种关系]]
-- [[领导力的希特勒问题]]
-- [[区分领导与管理]]
+- [[Leadership/L09_Two_Relationships]]
+- [[Leadership/L08_The_Hitler_Problem]]
+- [[Leadership/L07_Leadership_vs_Management]]
 - [[群体思维]]
 - [[批判性思维]]
 - [[组织文化]]

@@ -35,10 +35,10 @@ OpenClaw 是一个自托管的多通道 AI Agent 网关，支持 Discord、Teleg
 
 ## 相关实体
 - [[OpenClaw]]
-- [[Pi Agent]]
+- [[Multi_Agent_Routing]]
 - [[Gateway]]
 
 ## 相关概念
-- [[多 Agent 路由]]
-- [[会话管理]]
-- [[工具系统]]
+- [[Multi_Agent_Routing]]
+- [[Session_Management]]
+- [[Tool_System]]

@@ -4,8 +4,8 @@
 > **主题**：反思的本质与实践
 > **课程系列**：刘澜领导力课程
 > **前置知识**：
-> - [[ll0723-21-领导力第六句口诀_失败了恭喜你]]（失败的重新定义）
-> - [[ll0722-20-组织要学会聪明的失败]]（聪明的失败六大要点）
+> - [[Leadership/L21_Mantra_6_Congrats_on_Failure]]（失败的重新定义）
+> - [[Leadership/L20_Smart_Failure]]（聪明的失败六大要点）
 
 ---
 
@@ -606,10 +606,10 @@
 
 ### 相关文章
 
-- [[ll0723-21-领导力第六句口诀_失败了恭喜你]] —— 失败的重新定义
-- [[ll0722-20-组织要学会聪明的失败]] —— 聪明的失败六大要点
-- [[ll0721-加餐-直播复盘_具备问题心智1]] —— 问题心智的培养
-- [[../Reflection_Approaching_Correct_Answer|反思：如何一步步迫近正确答案]] —— 和菜头视角：直接与间接经验的循环，真假反思的辨别
+- [[Leadership/L21_Mantra_6_Congrats_on_Failure]] —— 失败的重新定义
+- [[Leadership/L20_Smart_Failure]] —— 聪明的失败六大要点
+- [[Leadership/Bonus_Problem_Mindset]] —— 问题心智的培养
+- [[Reflection_Approaching_Correct_Answer|反思：如何一步步迫近正确答案]] —— 和菜头视角：直接与间接经验的循环，真假反思的辨别
 
 ### 相关概念
 

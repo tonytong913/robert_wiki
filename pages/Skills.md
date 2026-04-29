@@ -64,4 +64,4 @@ skill-name/
 - [[OpenClaw]]
 
 ## 相关概念
-- [[工具系统]]
+- [[Tool_System]]

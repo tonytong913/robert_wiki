@@ -82,4 +82,4 @@ Telegram bots 默认为**隐私模式**，限制接收的群组消息。
 - [[OpenClaw]]
 
 ## 相关概念
-- [[聊天通道]]
+- [[Chat_Channels]]

@@ -77,5 +77,5 @@ openclaw dashboard
 - [[OpenClaw]]
 
 ## 相关概念
-- [[Gateway配置]]
-- [[聊天通道]]
+- [[Gateway_Configuration]]
+- [[Chat_Channels]]

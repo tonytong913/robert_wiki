@@ -86,4 +86,4 @@ openclaw cron run <id>        # 立即运行
 - [[OpenClaw]]
 
 ## 相关概念
-- [[Gateway配置]]
+- [[Gateway_Configuration]]

@@ -168,5 +168,5 @@ Bindings 是**确定性**的，**最具体匹配优先**：
 - [[OpenClaw]]
 
 ## 相关概念
-- [[Agent 运行时]]
-- [[Gateway 架构]]
+- [[Agent_Runtime]]
+- [[Gateway_Architecture]]

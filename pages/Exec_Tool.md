@@ -64,4 +64,4 @@ Gateway/Node 执行批准由 `~/.openclaw/exec-approvals.json` 控制。
 - [[OpenClaw]]
 
 ## 相关概念
-- [[工具系统]]
+- [[Tool_System]]

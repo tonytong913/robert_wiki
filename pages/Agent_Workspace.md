@@ -85,5 +85,5 @@ git commit -m "Initial backup"
 - [[OpenClaw]]
 
 ## 相关概念
-- [[Agent运行时]]
-- [[记忆系统]]
+- [[Agent_Runtime]]
+- [[Memory_System]]

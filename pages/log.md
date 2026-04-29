@@ -1,5 +1,25 @@
 # Wiki 操作日志
 
+## [2026-04-29] ingest | 添加"我问和菜头"系列：反思与反省的区别（hct-0127）
+
+- 创建源文档: raw/articles/hct-0127-我问和菜头反思和反省有什么本质的区别.md
+- 创建页面: pages/Reflection_vs_Self_Examination.md — 反思三层面（动机、价值、认识），反省偏负面
+- 创建页面: pages/Learning_Burnout.md — 学习倦怠是心失去合适的松紧度
+- 创建页面: pages/Heart_Rate_vs_Peace_of_Mind.md — 心跳是生理现象，心安是心理状态
+- 创建页面: pages/Mastery_Before_Balance.md — 先有功力再谈火候
+- 更新页面: Peace_of_Mind_Settling_the_Heart — 添加交叉引用
+- 核心洞察：反思始终是自己的事；被要求反思只是认错变形；反省可能是结果导向的伪反思
+- 交叉引用: Reflection_Approaching_Correct_Answer, L22_Reflection_Essence, Third_Party_Perspective
+
+## [2026-04-29] ingest | 添加"我问和菜头"系列：怎样解决刷视频带来的情绪波动（hct-0128）
+
+- 创建源文档: raw/articles/hct-0128-我问和菜头怎样解决刷视频带来的情绪波动.md
+- 创建页面: pages/Fake_Peace_of_Mind.md — 强行让心安下来是自我催眠
+- 创建页面: pages/Information_Emotional_Hunger.md — 信息饥渴+情感饥渴是刷视频成瘾根因
+- 更新页面: Peace_of_Mind_Settling_the_Heart — 添加交叉引用
+- 核心洞察：安静的心以清醒认知和直面问题为前提；人可以和饥渴共存；拿回生活主导权
+- 交叉引用: Peace_of_Mind_Settling_the_Heart, Third_Party_Perspective, Reversal_Escaping_the_Drama
+
 ## [2026-04-29] ingest | 添加面试准备提示词模板（中英双语）
 
 - 创建页面: pages/Interview_Prep_Prompt.md (英文版)

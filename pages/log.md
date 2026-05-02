@@ -1,5 +1,11 @@
 # Wiki 操作日志
 
+## [2026-05-02] ingest | 添加 LiteLLM 多 Provider 统一代理技术教程
+
+- 创建页面: pages/LiteLLM_Multi_Provider.md — 使用 LiteLLM 搭建多 Provider LLM 统一代理，聚合通义千问、Kimi、智谱 GLM、DeepSeek
+- 更新页面: index.md
+- 统计: 源文档 22，页面 80+
+
 ## [2026-05-02] ingest | 添加我问和菜头：我们该去了解什么程度的答案（hct-0211，第二季 Q&A 合集）
 
 - 创建源文档: raw/articles/hct-0211-我问和菜头-我们该去了解什么程度的答案.md（DOCX 全文提取）

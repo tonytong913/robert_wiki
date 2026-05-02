@@ -2,7 +2,7 @@
 title: Information_Emotional_Hunger
 type: concept
 sources:
-  - raw/articles/hct-0128-我问和菜头怎样解决刷视频带来的情绪波动.md
+  - raw/articles/2026-04-30-hct-0128-刷视频情绪波动.md
 related:
   - "[[Reversal_Escaping_the_Drama]]"
   - "[[Peace_of_Mind_Settling_the_Heart]]"
@@ -81,7 +81,7 @@ confidence: high
 
 ## 来源
 
-- [hct-0128 我问和菜头：怎样解决刷视频带来的情绪波动？](../raw/articles/hct-0128-我问和菜头怎样解决刷视频带来的情绪波动.md)
+- [hct-0128 我问和菜头：怎样解决刷视频带来的情绪波动？](../raw/articles/2026-04-30-hct-0128-刷视频情绪波动.md)
 
 ---
 

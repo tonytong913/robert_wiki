@@ -1,11 +1,11 @@
 # Wiki 索引
 
-*最后更新: 2026-05-02 — 添加 hct-0211（我问和菜头：我们该去了解什么程度的答案）+ 5个新概念页面
+*最后更新: 2026-05-02 — 添加 LiteLLM 多 Provider 统一代理技术教程
 
 ## 统计
 
 - **源文档:** 22
-- **页面:** 79+
+- **页面:** 80+
 
 ## 源文档
 
@@ -42,6 +42,9 @@
 ---
 
 ## 页面目录
+
+### 技术工具与运维
+- [[LiteLLM_Multi_Provider|LiteLLM 多 Provider 统一代理]] - 使用 LiteLLM 聚合通义千问、Kimi、智谱 GLM、DeepSeek，提供 OpenAI 兼容 API
 
 ### OpenClaw
 - [[OpenClaw]] - OpenClaw 多通道 AI Agent 网关

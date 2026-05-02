@@ -79,6 +79,7 @@
 
 ## 相关页面
 
+- [[Return_Gift_Reciprocity|回礼：如何正确地接受善意]] — 接受方如何正确回应善意，让善意流动而非阻断
 - [[Leadership/L09_Two_Relationships|L09: 两种关系]] — 领导力中的关系类型
 - [[Leadership/L11_Mantra_3_What_Do_You_Think|L11: 口诀3 - 你觉得呢]] — 理解他人视角
 - [[Intelligence_vs_Wisdom|聪明与智慧]] — 智慧比聪明看得更深更远

@@ -147,6 +147,7 @@
 
 ## 相关页面
 
+- [[Scolding_Shuluo|数落：怎样避免让沟通成为灾难]] — 另一种负面沟通方式，应用批评和对话取代
 - [[The_Art_of_Persuasion|说服的艺术]] - 五个层次的说服策略
 - [[Equal_Dialogue|平等对话]] - 承认双方观点都有事实基础的沟通方式
 - [[Intellectual_Humility|智识谦逊]] - 承认认知有限，愿意接受质疑

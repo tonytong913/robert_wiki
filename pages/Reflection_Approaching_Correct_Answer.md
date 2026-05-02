@@ -109,11 +109,13 @@
 - 与 [[L22_Reflection_Essence]] 的关系：本文强调反思作为经验转化的工具性价值，L22 强调反思作为"对思之再思"的元认知本质
 - 与 [[L23_Four_Elements_of_Reflection]] 的关系：本文的"反复验证"与L23的"指导未来"呼应，本文的"真假反思"可作为判断四大要素是否到位的标准
 - 与 [[Innovation_Lessons_from_Failure]] 的关系：两者都强调从失败中提炼可用知识
+- 与 [[Answers_as_Temporary_Stops]] 的关系：反思是逼近正确答案的方法，答案本身只是临时停靠站
 
 ---
 
 ## 相关页面
 
+- [[Answers_as_Temporary_Stops|答案：临时停靠站]] — 答案本身只是临时结果，追问揭示无知
 - [[L22_Reflection_Essence|反思的本质是对思之再思]] - 刘澜领导力第22讲
 - [[L23_Four_Elements_of_Reflection|反思的四大要素]] - 刘澜领导力第23讲
 - [[L20_Smart_Failure|聪明的失败]] - 刘澜领导力第20讲

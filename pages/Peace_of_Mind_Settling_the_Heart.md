@@ -82,27 +82,14 @@
 
 - [[Third_Party_Perspective|第三方立场]] - 安心所需安放的核心位置
 - [[Emotional_Intelligence|情感智能]] - 识别、理解和运用情感的能力
-- [[Becoming_Yourself_True_Meaning|成为自己]] - 去掉不属于自我的部分，面对真实的内心（与"去掉表演"高度关联）
-- [[True_Learning_Attitude|真正的学习态度]] - 驱逐表演式学习，面对真实自我（"去掉表演"的同类主题）
+- [[Becoming_Yourself_True_Meaning|成为自己]] - 去掉不属于自我的部分，面对真实的内心
+- [[True_Learning_Attitude|真正的学习态度]] - 驱逐表演式学习，面对真实自我
 - [[Self_Doubt|自我怀疑]] - 建设性质疑是突破局限的契机
 - [[Intellectual_Humility|智识谦逊]] - 承认认知有限，愿意接受质疑
-- [[Fake_Peace_of_Mind|虚假的安心]] - 强行让心安下来是自我催眠，真正的安心需要清醒认知和直面问题
-- [[Information_Emotional_Hunger|信息与情感饥渴]] - 刷视频情绪波动的根因：不能没有新消息/情绪刺激就活不下去
-- [[Fake_Peace_of_Mind|虚假的安心]] - 强行让心安下来是自我催眠，真正的安心需要清醒认知和直面问题
-- [[Information_Emotional_Hunger|信息与情感饥渴]] - 刷视频情绪波动的根因：不能没有新消息/情绪刺激就活不下去
-- [[Fake_Peace_of_Mind|虚假的安心]] - 强行让心安下来是自我催眠，真正的安心需要清醒认知和直面问题
-- [[Information_Emotional_Hunger|信息与情感饥渴]] - 刷视频情绪波动的根因：不能没有新消息/情绪刺激就活不下去
-- [[Fake_Peace_of_Mind|虚假的安心]] - 强行让心安下来是自我催眠，真正的安心需要清醒认知和直面问题
-- [[Information_Emotional_Hunger|信息与情感饥渴]] - 刷视频情绪波动的根因：不能没有新消息/情绪刺激就活不下去
-- [[Fake_Peace_of_Mind|虚假的安心]] - 强行让心安下来是自我催眠，真正的安心需要清醒认知和直面问题
-- [[Information_Emotional_Hunger|信息与情感饥渴]] - 刷视频情绪波动的根因：不能没有新消息/情绪刺激就活不下去
-- [[Fake_Peace_of_Mind|虚假的安心]] - 强行让心安下来是自我催眠，真正的安心需要清醒认知和直面问题
-- [[Information_Emotional_Hunger|信息与情感饥渴]] - 刷视频情绪波动的根因：不能没有新消息/情绪刺激就活不下去
-- [[Fake_Peace_of_Mind|虚假的安心]] - 强行让心安下来是自我催眠，真正的安心以清醒认知和直面问题为前提
-- [[Information_Emotional_Hunger|信息与情感饥渴]] - 刷视频情绪波动的根因：不能没有新消息就不能活
+- [[Fake_Peace_of_Mind|虚假的安心]] - 强行让心安下来是自我催眠
+- [[Information_Emotional_Hunger|信息与情感饥渴]] - 刷视频情绪波动的根因
 - [[Media_Reader_Symbiosis|媒体与读者的共生]] - 反转长期存在，大众文化兴起
-- [[Fake_Peace_of_Mind|虚假的安心]] - 强行让心安下来是自我催眠，真正的安心需要清醒认知和直面问题
-- [[Information_Emotional_Hunger|信息与情感饥渴]] - 刷视频情绪波动的根因：不能没有新消息/情绪刺激就活不下去
+- [[Concept_Overload|概念过多]] - 内心概念过多是安心的障碍
 - [[Learning_Burnout|学习倦怠]] - 学习倦怠是心失去合适的松紧度
 
 ## 来源

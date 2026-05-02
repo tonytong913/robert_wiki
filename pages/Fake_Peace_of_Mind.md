@@ -2,7 +2,7 @@
 title: Fake_Peace_of_Mind
 type: concept
 sources:
-  - raw/articles/hct-0128-我问和菜头怎样解决刷视频带来的情绪波动.md
+  - raw/articles/2026-04-30-hct-0128-刷视频情绪波动.md
 related:
   - "[[Peace_of_Mind_Settling_the_Heart]]"
   - "[[Third_Party_Perspective]]"
@@ -68,7 +68,7 @@ confidence: high
 
 ## 来源
 
-- [hct-0128 我问和菜头：怎样解决刷视频带来的情绪波动？](../raw/articles/hct-0128-我问和菜头怎样解决刷视频带来的情绪波动.md)
+- [hct-0128 我问和菜头：怎样解决刷视频带来的情绪波动？](../raw/articles/2026-04-30-hct-0128-刷视频情绪波动.md)
 
 ---
 

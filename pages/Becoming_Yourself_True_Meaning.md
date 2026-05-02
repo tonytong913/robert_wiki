@@ -98,6 +98,8 @@
 
 ## 相关页面
 
+- [[Hero_vs_General|英雄 vs 将军]] — 李广的悲剧是没有"成为自己"，他是英雄却想成为将军
+- [[Self_Discipline_Illusion|自律：美好的假象]] — 自律是假象，内心自由才是成为自己的前提
 - [[L30_Becoming_Yourself|L30: 成为领导者就是成为自己]] — 领导力课程中的"成为自己"
 - [[L29_Three_Circles|L29: 从平庸到伟大的三环]] — 热爱、擅长、机会的交集
 - [[New_Year_Three_Questions|新年：三个问题发现未来线索]] — 发现真正属于自己的事情

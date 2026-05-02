@@ -1,5 +1,127 @@
 # Wiki 操作日志
 
+## [2026-05-02] ingest | 添加我问和菜头：我们该去了解什么程度的答案（hct-0211，第二季 Q&A 合集）
+
+- 创建源文档: raw/articles/hct-0211-我问和菜头-我们该去了解什么程度的答案.md（DOCX 全文提取）
+- 创建页面（5个）:
+  - pages/Root_Question_Clarification.md — 厘清原问题：追问去掉遮蔽找到真问题
+  - pages/How_to_Ask_Good_Questions.md — 好问题来自思考，打到关键点
+  - pages/Exploration_Drive.md — 探索原动力根植于个体，摆脱束缚获得自由
+  - pages/Image_Anxiety.md — 分出事情本身和他人眼中的形象
+  - pages/Freedom_and_Discipline.md — 自由概念不重要，回到自身感受
+- 更新页面（2个）:
+  - pages/Answers_as_Temporary_Stops.md — 添加 Q&A 深入：答案程度、更进一步答案、真理与答案、优雅追问
+  - pages/Self_Discipline_Illusion.md — 添加 Q&A 深入：盲人摸象、实践出真知、不勉强
+- 更新页面: index.md
+- 统计: 源文档 22，页面 79+
+
+## [2026-05-01] ingest | 添加回礼：如何正确地接受善意（hct-0210-05，第二季第05讲）
+
+- 创建源文档: raw/articles/hct-0210-05-回礼如何正确地接受善意.md（DOCX 全文提取）
+- 创建页面: pages/Return_Gift_Reciprocity.md — 布尔迪厄四种礼物交换模式，正确回礼：不等值、不立即、过些时候且价值略低
+- 更新页面: index.md — 添加 hct-0210-05 源文档和 Return_Gift_Reciprocity 页面
+- 统计: 源文档 21，页面 74+
+
+## [2026-05-01] ingest | 添加李广：你想做英雄，还是做将军？（hct-0209-04，第二季第04讲）
+
+- 创建源文档: raw/articles/hct-0209-04-李广你想做英雄还是做将军.md（DOCX 全文提取）
+- 创建页面: pages/Hero_vs_General.md — 英雄在系统外，将军在系统内，身份冲突导致悲剧，李广百人vs数千匈奴战役分析
+- 更新页面: index.md — 添加 hct-0209-04 源文档和 Hero_vs_General 页面
+- 统计: 源文档 20，页面 73+
+
+## [2026-05-01] ingest | 添加默杀：面对恶意时的最强进攻（hct-0207-03，第二季第03讲）
+
+- 创建源文档: raw/articles/hct-0207-03-默杀面对恶意时的最强进攻.md（DOCX 全文提取）
+- 创建页面: pages/Mokill_Silent_Killing.md — 默杀是主动进攻非防御，三层断绝（语言/接触/思维），杀的是内心魔化部分
+- 更新页面: index.md — 添加 hct-0207-03 源文档和 Mokill_Silent_Killing 页面
+- 统计: 源文档 19，页面 72+
+
+## [2026-05-01] ingest | 添加自律：一个美好的假象（hct-0207-02，第二季第02讲）
+
+- 创建源文档: raw/articles/hct-0207-02-自律一个美好的假象.md（DOCX 全文提取）
+- 创建页面: pages/Self_Discipline_Illusion.md — 自律是假象，内心自由才是真相，三重自由（意志/实质/行动），不坚持而坚持
+- 更新页面: index.md — 添加 hct-0207-02 源文档和 Self_Discipline_Illusion 页面
+- 统计: 源文档 18，页面 71+
+
+## [2026-05-01] ingest | 添加答案：我能多问你几个"为什么"吗？（hct-0207-01，第二季第01讲）
+
+- 创建源文档: raw/articles/hct-0207-01-答案我能多问你几个为什么吗.md（DOCX 全文提取）
+- 创建页面: pages/Answers_as_Temporary_Stops.md — 答案是临时停靠站，追问揭示无知，概念替换概念，人类寻找答案历程
+- 更新页面: index.md — 添加 hct-0207-01 源文档和 Answers_as_Temporary_Stops 页面
+- 统计: 源文档 17，页面 70+
+
+## [2026-05-01] ingest | 添加恐惧：怎样从恐惧中解脱出来（hct-0208）
+
+- 创建源文档: raw/articles/hct-0208-恐惧怎样从恐惧中解脱出来.md（DOCX 全文提取）
+- 创建页面: pages/Freedom_from_Fear.md — 恐惧是想象出来的情感，登山故事、三把钥匙（具体化/熟悉/观众视角）
+- 更新页面: Fear_Management — 添加 Freedom_from_Fear 交叉引用
+- 更新页面: index.md — 添加 hct-0208 源文档和 Freedom_from_Fear 页面
+- 统计: 源文档 16，页面 69+
+
+## [2026-05-01] ingest | 添加倦怠：为什么说倦怠是一个很好的信号（hct-0207）
+
+- 创建源文档: raw/articles/hct-0207-倦怠为什么说倦怠是一个很好的信号.md（DOCX 全文提取）
+- 创建页面: pages/Burnout_as_Signal.md — 倦怠是人生常态、两个主因（失去精进心/自满）、破自满三法、机器比喻
+- 更新页面: Learning_Burnout — 添加 Burnout_as_Signal 交叉引用
+- 更新页面: index.md — 添加 hct-0207 源文档和 Burnout_as_Signal 页面
+- 统计: 源文档 15，页面 68+
+
+## [2026-05-01] ingest | 添加良友：你最应该结交怎样的朋友（hct-0202）
+
+- 创建源文档: raw/articles/hct-0202-良友你最应该结交怎样的朋友.md（DOCX 全文提取）
+- 创建页面: pages/Good_Friends_Liangyou.md — 良友新定义：组织者、让一群人拥有行动力和归属感、90年代大学宿舍故事
+- 更新页面: index.md — 添加 hct-0202 源文档和 Good_Friends_Liangyou 页面
+- 统计: 源文档 14，页面 67+
+
+## [2026-05-01] ingest | 添加数落：怎样避免让春节成为"灾难"（hct-0201，大年初一）
+
+- 创建源文档: raw/articles/hct-0201-数落怎样避免让春节成为灾难.md（DOCX 全文提取）
+- 创建页面: pages/Scolding_Shuluo.md — 数落vs批评、三种扭曲心理根源（不信任/情感压抑/忧患意识）、一事一议原则
+- 更新页面: Spring_Festival_Meaning — 添加数落交叉引用（春节期间避免数落）
+- 更新页面: index.md — 添加 hct-0201 源文档和 Scolding_Shuluo 页面
+- 统计: 源文档 13，页面 66+
+
+## [2026-04-30] ingest | 添加及时止损和完成的关系（hct-0210，第一季收官问答）
+
+- 创建源文档: raw/articles/2026-04-30-hct-0210-我问和菜头及时止损和完成的关系.md（DOCX 全文提取）
+- 创建页面: pages/Fear_Management.md — 恐惧管理：不可知+不可控=恐惧，切分法应对连续打击
+- 创建页面: pages/Stop_Loss_vs_Completion.md — 及时止损 vs 完成：旁观者不能替当事人做决断
+- 创建页面: pages/Creator_vs_Evaluator.md — 创作者 vs 评判者：同时扮演两角色导致无法完成
+- 更新页面: Power_of_Completion — 补充及时止损关系、完成中的杂念（道德偏好无助于完成）
+- 更新页面: Learning_Burnout — 补充倦怠扩展认知（≠舒适区、大脑错误信号、小故障检修机会）
+- 核心洞察：太多说及时止损的人欠缺完成经验；不曾全力投入不知能力边界；多去想什么是什么而非我感觉我是什么
+- 交叉引用: Power_of_Completion, Learning_Burnout, Third_Party_Perspective, Binary_Thinking
+
+## [2026-04-30] ingest | 添加完成：做事最重要的就是完成（hct-0209）
+
+- 创建源文档: raw/articles/2026-04-30-hct-0209-完成做事最重要的就是完成.md（DOCX 全文提取）
+- 创建页面: pages/Power_of_Completion.md — 完成的力量：99%不开始、完成是习惯、靠谱=完成、意义是后见之明
+- 创建页面: pages/Reliability_Is_Habit_of_Completion.md — 靠谱就是习惯于完成
+- 创建页面: pages/Meaning_Is_Hindsight.md — 未完成之前谈意义是奢谈
+- 更新 index.md
+- 核心洞察：开始即淘汰 99%；完成是中性动词，加形容词就是找借口；合作是拣选习惯完成的人
+- 交叉引用: Becoming_Yourself_Through_Action, True_Learning_Attitude, Understanding_Comprehension, Professional_Expertise
+
+## [2026-04-30] ingest | 添加春节：三个建议帮你找回年味（hct-0131）
+
+- 创建源文档: raw/articles/2026-04-30-hct-0131-春节三个建议找回年味.md（DOCX 全文提取）
+- 创建页面: pages/Spring_Festival_Meaning.md — 春节的意义：年味变淡根源、祭祖/采青/拜年三建议、春节三层意义
+- 更新 index.md
+- 核心洞察：春节意义不是恢复旧风俗或创造新风俗，而是为疲惫灵魂找安放之处；年味淡=人味淡；塑料亲情
+- 交叉引用: New_Year_Three_Questions, Becoming_Yourself_True_Meaning
+
+## [2026-04-30] ingest | 重新摄入 hct-0128 刷视频情绪波动（DOCX 全文）
+
+- 创建源文档: raw/articles/2026-04-30-hct-0128-刷视频情绪波动.md（DOCX 全文提取）
+- 创建页面: pages/Concept_Overload.md — 内心概念过多、对世界期待过多是安心的障碍
+- 更新页面: Fake_Peace_of_Mind — 修正源文件路径
+- 更新页面: Information_Emotional_Hunger — 修正源文件路径
+- 更新页面: Media_Reader_Symbiosis — 修正源文件路径
+- 更新页面: Reversal_Escaping_the_Drama — 补充"反转三问"检验标准
+- 更新页面: Peace_of_Mind_Settling_the_Heart — 清理重复的交叉引用（从14条去重为11条）
+- 更新 index.md 和 log.md
+- 核心洞察：事不关己问题的本质是概念过多；反转三问检验认知是否真诚；成熟是戴缺陷眼镜继续前行
+
 ## [2026-04-29] ingest | 添加"我问和菜头"系列：反思与反省的区别（hct-0127）
 
 - 创建源文档: raw/articles/hct-0127-我问和菜头反思和反省有什么本质的区别.md

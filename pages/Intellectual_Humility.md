@@ -91,6 +91,9 @@
 
 ## 相关页面
 
+- [[Answers_as_Temporary_Stops|答案：临时停靠站]] — 追问揭示无知，承认答案是临时的
+- [[Root_Question_Clarification|厘清原问题]] — 追问去掉遮蔽，厘清真正的问题
+- [[Exploration_Drive|探索原动力]] — 承认无知是继续探索的前提
 - [[Limitation_as_Gift|局限：为什么说它是一件礼物]] — 局限作为认知升级的契机
 - [[Cognitive_Limitation|认知局限]] — 认知边界的形成与突破
 - [[True_Learning_Attitude|真正的学习态度]] — 内在求知心态的建立

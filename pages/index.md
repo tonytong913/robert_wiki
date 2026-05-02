@@ -32,6 +32,9 @@
 - [我问和菜头：怎样看待"骂醒"这种说服方式？](../raw/articles/hct-0121-我问和菜头怎样看待骂醒这种说服方式.md) - "骂醒"的危险性、认知局限突破、关系不佳时的说服策略
 - [说服：怎样从五个层次来理解说服](../raw/articles/hct-0118-说服怎样从五个层次来理解说服.md) - 五个层次的说服策略，情感比理性更具说服力
 
+### 技术文档
+- [LiteLLM 多 Provider 统一代理配置指南](../raw/articles/litellm-multi-provider-guide.md) - 在 Alibaba Cloud Linux 3 上搭建 LiteLLM 聚合通义千问/Kimi/智谱/DeepSeek
+
 ### 领导力课程（刘澜《领导力30讲》）
 - [发刊词：你为什么需要领导力](../raw/books/ll0702_发刊词_你为什么需要领导力.md) - 刘澜领导力30讲发刊词
 - [导论01讲：领导力其实是领袖力](../raw/books/ll0702_导论01讲_领导力其实是领袖力1.md) - 领导力与职位的区别
@@ -57,6 +60,7 @@
 - [[Chat_Channels]] - 聊天通道
 - [[Telegram_Channel]] - Telegram 通道
 - [[Model_Providers]] - 模型提供商
+- [[LiteLLM_Multi_Provider|LiteLLM 多 Provider 代理]] — 统一聚合多 LLM 提供商为 OpenAI 兼容 API
 
 ### 工具和系统
 - [[Tool_System]] - 工具、Skills 和 Plugins
@@ -157,6 +161,9 @@
 
 ### 副业与多元发展
 - [[Side_Income_Action_Steps|行动技能升级：赚工资外收入的操作步骤]] - 科学挖掘副业收入的五步指南
+
+### 技术文档
+- [LiteLLM 多 Provider 统一代理配置指南](../raw/articles/litellm-multi-provider-guide.md) - 在 Alibaba Cloud Linux 3 上搭建 LiteLLM 聚合通义千问/Kimi/智谱/DeepSeek
 
 ### 领导力课程（刘澜《领导力30讲》）
 

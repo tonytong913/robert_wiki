@@ -32,6 +32,9 @@
 - [我问和菜头：怎样看待"骂醒"这种说服方式？](../raw/articles/hct-0121-我问和菜头怎样看待骂醒这种说服方式.md) - "骂醒"的危险性、认知局限突破、关系不佳时的说服策略
 - [说服：怎样从五个层次来理解说服](../raw/articles/hct-0118-说服怎样从五个层次来理解说服.md) - 五个层次的说服策略，情感比理性更具说服力
 
+### 和菜头专栏（续）
+- [我问和菜头：默杀的反义词是什么（hct-0212）](../raw/articles/hct-0212-我问和菜头-默杀的反义词是什么.md) - 受苦通往内心自由、有效vs最优、默杀反义词：追尾、联合防御、人生由可选择部分构成
+
 ### 技术文档
 - [LiteLLM 多 Provider 统一代理配置指南](../raw/articles/litellm-multi-provider-guide.md) - 在 Alibaba Cloud Linux 3 上搭建 LiteLLM 聚合通义千问/Kimi/智谱/DeepSeek
 
@@ -116,13 +119,15 @@
 
 ### 人际关系与心态
 - [[Return_Gift_Reciprocity|回礼：如何正确地接受善意]] — 四种礼物交换模式，正确回礼：不等值、不立即、过些时候
-- [[Mokill_Silent_Killing|默杀：面对恶意时的最强进攻]] — 默杀是主动进攻，三层断绝（语言/接触/思维），杀的是内心魔化
+- [[Mokill_Silent_Killing|默杀：面对恶意时的最强进攻]] — 默杀是主动进攻。含 Q&A 深入：追尾/反义词、校园暴力、联合防御、预防胜于应对，三层断绝（语言/接触/思维），杀的是内心魔化
+- [[Life_by_Choice|人生由可选择部分构成]] — 分清可选与不可选，让人生由可选择部分构成
 - [[Good_Friends_Liangyou|良友：你最应该结交怎样的朋友]] — 良友是组织者，让一群人拥有行动力和归属感
 - [[Gratitude_Right_Attitude|感恩：怎样正确对待感恩]] - 给予应出于自愿且不求回报，厘清给予方与接受方的心态边界
 
 ### 自我反思与成长
 - [[Hero_vs_General|英雄 vs 将军]] — 英雄在系统外，将军在系统内，身份冲突导致悲剧
-- [[Self_Discipline_Illusion|自律：美好的假象]] — 自律是假象，内心自由才是真相。含 Q&A 深入：盲人摸象、实践出真知、不勉强
+- [[Self_Discipline_Illusion|自律：美好的假象]] — 自律是假象，内心自由才是真相。含 Q&A 深入：盲人摸象、实践出真知、不勉强、受苦、有效vs最优
+- [[Suffering_as_Teacher|受苦：通往内心自由的必经之路]] — 缘木求鱼，吃尽苦头才听见另外一种可能
 - [[Freedom_and_Discipline|自由与自律]] — 概念不重要，重要的是你是否感受到身心不自由
 - [[Image_Anxiety|形象焦虑]] — 分清事情本身和他人眼中的形象，向内找答案
 - [[Becoming_Yourself_True_Meaning|成为自己：当我们谈论成为自己时我们在说什么]] - 在全面认知自己的前提下，用不完美的自己达成一些美好
@@ -161,6 +166,9 @@
 
 ### 副业与多元发展
 - [[Side_Income_Action_Steps|行动技能升级：赚工资外收入的操作步骤]] - 科学挖掘副业收入的五步指南
+
+### 和菜头专栏（续）
+- [我问和菜头：默杀的反义词是什么（hct-0212）](../raw/articles/hct-0212-我问和菜头-默杀的反义词是什么.md) - 受苦通往内心自由、有效vs最优、默杀反义词：追尾、联合防御、人生由可选择部分构成
 
 ### 技术文档
 - [LiteLLM 多 Provider 统一代理配置指南](../raw/articles/litellm-multi-provider-guide.md) - 在 Alibaba Cloud Linux 3 上搭建 LiteLLM 聚合通义千问/Kimi/智谱/DeepSeek

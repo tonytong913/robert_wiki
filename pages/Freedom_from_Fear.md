@@ -7,9 +7,9 @@ related:
   - "[[Fear_Management]]"
   - "[[Third_Party_Perspective]]"
   - "[[Burnout_as_Signal]]"
-tags: [恐惧, 解脱, 具体化, 熟悉, 观众视角, 情感]
+tags: [恐惧, 解脱, 具体化, 熟悉, 观众视角, 情感, 焦虑]
 created: 2026-05-01
-updated: 2026-05-01
+updated: 2026-05-04
 confidence: high
 ---
 
@@ -132,7 +132,10 @@ confidence: high
 ## 相关页面
 
 - [[Fear_Management|恐惧管理]] — 不可知+不可控=恐惧，通过逐步探查驱逐恐惧
+- [[Anxiety_as_Friend|焦虑：好朋友]] — 焦虑和恐惧都是自己制造的情感，但焦虑指向结果而恐惧指向危险
+- [[Meditation_And_Then|冥想：可是然后呢？]] — 旁观者状态：从情绪中抽身观察；恐惧也可通过旁观者视角解绑
 - [[Third_Party_Perspective|第三方立场]] — 从自身抽离以旁观者视角观察
+- [[Fear_as_Fuel|恐惧也能作为燃料]] — 一切负面情绪都可作燃料，焦虑是慢火，恐惧是烈性燃料
 - [[Burnout_as_Signal|倦怠：很好的信号]] — 另一种负面情感的正确态度
 
 ## 来源

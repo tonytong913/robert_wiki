@@ -4,6 +4,9 @@ type: concept
 sources:
   - raw/articles/hct-0212-我问和菜头-默杀的反义词是什么.md
 related:
+  - "[[Family_of_Origin]]"
+  - "[[Stop_at_Me]]"
+  - "[[Choose_Bear_Receive]]"
   - "[[Becoming_Yourself_True_Meaning]]"
   - "[[Freedom_and_Discipline]]"
   - "[[Mokill_Silent_Killing]]"
@@ -85,6 +88,9 @@ confidence: high
 
 - [[Mokill_Silent_Killing|默杀：面对恶意的最强进攻]] — 面对恶意时的三层断绝 + 联合防御
 - [[Becoming_Yourself_True_Meaning|成为自己]] — 选择自己能成为的样子
+- [[Family_of_Origin|原生家庭]] — 出生不可选，但人可以通过选择和承担彻底脱离原生家庭
+- [[Stop_at_Me|及身而止]] — 不幸到自己这停止，不传给下一代
+- [[Choose_Bear_Receive|你选择，你承担，你得到]] — 选择自由与责任承担的统一
 - [[Suffering_as_Teacher|受苦：通往内心自由的必经之路]] — 分清可选和不可选是内心自由的一部分
 - [[Freedom_and_Discipline|自由与自律]] — 回到自身感受，关注可选的部分
 

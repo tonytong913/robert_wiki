@@ -7,9 +7,9 @@ related:
   - "[[Power_of_Completion]]"
   - "[[Third_Party_Perspective]]"
   - "[[Learning_Burnout]]"
-tags: [创作, 评判, 倦怠, 角色冲突, 完成]
+tags: [创作, 评判, 倦怠, 角色冲突, 完成, 感性, 理性]
 created: 2026-04-30
-updated: 2026-04-30
+updated: 2026-05-04
 confidence: high
 ---
 
@@ -66,8 +66,21 @@ confidence: high
 
 ---
 
+## 与两个小人模型的关系
+
+[[Emotional_vs_Rational_Self|感性小人 vs 理性小人]] 是同一个自我分裂的另一个表述：
+
+| 两个小人 | 创作者/评判者 | 本质 |
+|---------|-------------|------|
+| 感性小人 | 创作者 | 行动者，想要产出 |
+| 理性小人 | 评判者 | 审视者，严苛评判 |
+
+两个模型的区别：两个小人模型源自[[Anxiety_as_Friend|焦虑理论]]，解释了为什么会有两种倾向；创作者/评判者模型聚焦于创作场景中来回切换的危害。
+
 ## 相关页面
 
+- [[Emotional_vs_Rational_Self|感性小人 vs 理性小人]] — 同一自我分裂的另一种表述
+- [[Anxiety_as_Friend|焦虑：好朋友]] — 理性小人空转 = 过度焦虑
 - [[Hero_vs_General|英雄 vs 将军]] — 同样角色冲突：同时扮演两个冲突身份导致痛苦
 - [[Power_of_Completion|完成的力量]] — 完成需要排除内部杂念
 - [[Third_Party_Perspective|第三方立场]] — 评判需要第三方视角，但不能用在创作过程中

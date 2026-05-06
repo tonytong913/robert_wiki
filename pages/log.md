@@ -1,5 +1,91 @@
 # Wiki 操作日志
 
+## [2026-05-06] ingest | 摄入和菜头 hct-0303 社交：从批发到零售
+
+- 创建源文档: raw/articles/hct-0303-社交-从批发到零售.md（DOCX 全文提取）
+- 创建页面（2个）:
+  - pages/Wholesale_to_Retail_Socializing.md — 批发式社交 vs 零售式社交：追求数量还是深度
+  - pages/Socializing_Salt_of_Life.md — 社交是人类社会的盐：进化基础、两极端、找到咸度
+- 更新已有页面（2个）:
+  - pages/Good_Friends_Liangyou.md — 添加交叉引用（良友存在于零售式小圈子）
+  - pages/index.md — 新增源文档和2个页面索引
+
+## [2026-05-05] ingest | 摄入和菜头 hct-0302 原生家庭：你选择，你承担，你得到
+
+- 创建源文档: raw/articles/hct-0302-原生家庭-你选择你承担你得到.md（DOCX 全文提取）
+- 创建页面（3个）:
+  - pages/Family_of_Origin.md — 原生家庭：影响真实但非决定性，选择+承担可脱离
+  - pages/Stop_at_Me.md — 及身而止：不幸到自己这停止，不传给下一代
+  - pages/Choose_Bear_Receive.md — 你选择，你承担，你得到：脱离原生家庭的核心公式
+- 更新已有页面（5个）:
+  - pages/Life_by_Choice.md — 添加原生家庭交叉引用（"出生不可选"）
+  - pages/Becoming_Yourself_True_Meaning.md — 新增"成为自己 vs 成为父母反面"小节
+  - pages/Gratitude_Right_Attitude.md — 新增"幸福只需感恩"小节
+  - pages/Choice_Has_Cost.md — 添加交叉引用
+  - pages/index.md — 新增源文档和3个页面索引
+
+## [2026-05-04] ingest | 摄入和菜头 hct-0226 我问和菜头：恐惧也能作为燃料吗
+
+- 创建源文档: raw/articles/hct-0226-我问和菜头-恐惧也能作为燃料吗.md（DOCX 全文提取）
+- 创建页面（4个）:
+  - pages/Fear_as_Fuel.md — 恐惧也能作为燃料：焦虑是慢火，恐惧是烈性燃料
+  - pages/Deliberate_Practice_Limits.md — 刻意练习的局限：上限职业水平，突破不到顶尖；跳过次第是伪问题
+  - pages/Public_Speaking_Six_Words.md — 演讲恐惧六字诀："不要脸、不是人"，从恐惧到控场
+  - pages/Choice_Has_Cost.md — 选择皆有代价：每种选择自带焦虑套餐
+- 更新页面（3个）:
+  - pages/Freedom_from_Fear.md — 补充恐惧作为燃料的对比
+  - pages/Tacit_Knowledge.md — 补充刻意练习局限的连接
+  - pages/Sequential_Learning.md — 补充跳过次第的讨论
+- 更新: index.md
+- 统计: 源文档 27，页面 94+
+
+## [2026-05-04] ingest | 摄入 ReAct 模式：AI Agent 推理+行动架构
+
+- 创建源文档: raw/articles/2026-05-04-ReAct-pattern.md（用户提供全文）
+- 创建页面: pages/ReAct_Pattern.md — ReAct 模式：Thought→Action→Observation 四步闭环，减少幻觉、支持纠错
+- 更新页面: pages/Agent_Loop.md — 补充与 ReAct 模式的对应关系
+- 更新: index.md
+- 统计: 源文档 26，页面 90+
+
+## [2026-05-04] ingest | 摄入和菜头 hct-0225 我问和菜头：所有技能都有次第吗
+
+- 创建源文档: raw/articles/hct-0225-我问和菜头-所有技能都有次第吗.md（DOCX 全文提取）
+- 创建页面（3个）:
+  - pages/Sequential_Learning.md — 次第学习：所有技能都有次第，次第≠顺序，包含默会知识的可外推路径
+  - pages/Tacit_Knowledge.md — 默会知识：书传 vs 心传，默会知识只能通过师徒关系获取
+  - pages/Passion_Is_Self_Knowledge.md — 热爱其实是认识自己：找不到热爱是因为不认识自己
+- 更新: index.md
+- 统计: 源文档 25，页面 89+
+
+## [2026-05-04] ingest | 摄入和菜头 hct-0224 冥想：放松心情，可是然后呢？
+
+- 创建源文档: raw/articles/hct-0224-冥想-放松心情-可是然后呢.md（DOCX 全文提取）
+- 创建页面（3个）:
+  - pages/Meditation_And_Then.md — 冥想是寻找源头的工具，不只是放松，要问"然后呢"
+  - pages/Unbinding_the_Heart.md — 解绑：心与念头分离，念头的归念头，内心的归内心
+  - pages/Spiritual_Marketplace.md — 心灵的生意：螺丝刀修心灵的警告
+- 更新页面（3个）:
+  - pages/Third_Party_Perspective.md — 补充解绑带来的旁观者视角
+  - pages/Anxiety_as_Friend.md — 补充压力烦恼只是症状、需找源头的观点
+  - pages/Freedom_from_Fear.md — 补充旁观看恐惧的连接
+- 更新: index.md
+- 统计: 源文档 24，页面 86+
+
+## [2026-05-04] ingest | 摄入和菜头 hct-0223 焦虑：你需要学会如何相处的好朋友
+
+- 创建源文档: raw/articles/hct-0223-焦虑-你需要学会如何相处的好朋友.md（DOCX 全文提取）
+- 创建页面（3个）:
+  - pages/Anxiety_as_Friend.md — 焦虑不是敌人是燃料，总是指向结果，结果治愈焦虑
+  - pages/Emotional_vs_Rational_Self.md — 感性小人vs理性小人：心的两种倾向的分工与互动
+  - pages/Excessive_Anxiety.md — 过度焦虑 = 理性小人空转计算无限"如果"导致行动瘫痪
+- 更新页面（4个）:
+  - pages/Power_of_Completion.md — 补充焦虑指向结果、完成治愈焦虑的交叉引用
+  - pages/Creator_vs_Evaluator.md — 补充与两个小人模型的对应关系
+  - pages/Freedom_from_Fear.md — 补充焦虑与恐惧的对比
+  - pages/Burnout_as_Signal.md — 补充倦怠与焦虑作为不同信号的关系
+- 更新: index.md
+- 统计: 源文档 23，页面 83+
+
 ## [2026-05-02] ingest | 添加 LiteLLM 多 Provider 统一代理技术教程
 
 - 创建页面: pages/LiteLLM_Multi_Provider.md — 使用 LiteLLM 搭建多 Provider LLM 统一代理，聚合通义千问、Kimi、智谱 GLM、DeepSeek

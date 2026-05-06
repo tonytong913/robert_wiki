@@ -7,9 +7,9 @@ sources:
 related:
   - "[[Becoming_Yourself_Through_Action]]"
   - "[[True_Learning_Attitude]]"
-tags: [完成, 习惯, 靠谱, 执行力, 后见之明]
+tags: [完成, 习惯, 靠谱, 执行力, 后见之明, 焦虑]
 created: 2026-04-30
-updated: 2026-04-30
+updated: 2026-05-04
 confidence: high
 ---
 
@@ -181,6 +181,7 @@ confidence: high
 - [[True_Learning_Attitude|真正的学习态度]] — 驱逐表演式学习，完成是真正学习态度的体现
 - [[Understanding_Comprehension|理解力]] — 没有完成就没有真正的理解
 - [[Stop_Loss_vs_Completion|及时止损 vs 完成]] — 止损是当事人的事，不曾全力投入不知能力边界
+- [[Anxiety_as_Friend|焦虑：好朋友]] — 焦虑指向结果，结果（完成）治愈焦虑
 - [[Creator_vs_Evaluator|创作者 vs 评判者]] — 角色冲突是完成的内部障碍
 
 ## 来源

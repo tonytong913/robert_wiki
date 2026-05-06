@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "updatedAt": "2026-05-04T00:12:47.291Z",
+  "entries": {
+    "memory:memory/2026-04-30.md:21:30": {
+      "key": "memory:memory/2026-04-30.md:21:30",
+      "path": "memory/2026-04-30.md",
+      "startLine": 21,
+      "endLine": 30,
+      "source": "memory",
+      "snippet": "- 核心洞察：开始即淘汰 99%；合作是拣选习惯完成的人；完成的那一下=诸缘聚合 ### hct-0210 及时止损和完成的关系（第一季收官问答） - 新建页面: `Fear_Management.md` — 恐惧管理（攀岩比喻：打眼→绑绳→熟悉；切分法应对连续打击） - 新建页面: `Stop_Loss_vs_Completion.md` — 及时止损 vs 完成（旁观者不能替当事人做决断） - 新建页面: `Creator_vs_Evaluator.md` — 创作者 vs 评判者（同时扮演两角色=钟摆停不下来） - 更新: `Power_of_Completion.md` — 补充及时止损关系、完成中的杂念 - 更新: `Learning_Burnout.md` — 补充倦怠扩展（≠舒适区、大脑错误信号、小故障检修） - 核心洞察：太多说及时止损的人欠缺完成经验；不曾全力投入不知能力边界",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.8672688537034008,
+      "maxScore": 0.8672688537034008,
+      "firstRecalledAt": "2026-05-04T00:12:47.291Z",
+      "lastRecalledAt": "2026-05-04T00:12:47.291Z",
+      "queryHashes": [
+        "3c73738a4778"
+      ],
+      "recallDays": [
+        "2026-05-04"
+      ],
+      "conceptTags": [
+        "hct-0210",
+        "fear-management.md",
+        "stop-loss-vs-completion.md",
+        "creator-vs-evaluator.md",
+        "power-of-completion.md",
+        "learning-burnout.md",
+        "核心",
+        "洞察"
+      ]
+    }
+  }
+}

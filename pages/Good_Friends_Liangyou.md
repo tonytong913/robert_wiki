@@ -7,6 +7,8 @@ related:
   - "[[Scolding_Shuluo]]"
   - "[[The_Art_of_Persuasion]]"
   - "[[Becoming_Yourself_True_Meaning]]"
+  - "[[Wholesale_to_Retail_Socializing]]"
+  - "[[Socializing_Salt_of_Life]]"
 tags: [良友, 社交, 组织力, 群体, 行动力, 归属感]
 created: 2026-05-01
 updated: 2026-05-01
@@ -153,6 +155,8 @@ confidence: high
 - [[Scolding_Shuluo|数落]] — 不良沟通方式 vs 良友的正面组织力
 - [[The_Art_of_Persuasion|说服的艺术]] — 良友也是一种隐性的影响力
 - [[Becoming_Yourself_True_Meaning|成为自己]] — 良友帮助我们在群体中实现自我
+- [[Wholesale_to_Retail_Socializing|从批发到零售式社交]] — 良友存在于零售式的小圈子里，而非批发式的大场面
+- [[Socializing_Salt_of_Life|社交：人类社会的盐]] — 社交是必需但需适量，良友让社交浓度恰到好处
 
 ## 来源
 

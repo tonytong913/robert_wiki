@@ -9,9 +9,9 @@ related:
   - "[[Fear_Management]]"
   - "[[Peace_of_Mind_Settling_the_Heart]]"
   - "[[Good_Friends_Liangyou]]"
-tags: [倦怠, 精进心, 自满, 自我觉察, 信号, 人生常态]
+tags: [倦怠, 精进心, 自满, 自我觉察, 信号, 人生常态, 焦虑]
 created: 2026-05-01
-updated: 2026-05-01
+updated: 2026-05-04
 confidence: high
 ---
 
@@ -159,6 +159,7 @@ confidence: high
 
 ## 相关页面
 
+- [[Anxiety_as_Friend|焦虑：好朋友]] — 倦怠和焦虑都是信号，焦虑指向行动而倦怠指向自我觉察缺失
 - [[Self_Discipline_Illusion|自律：美好的假象]] — 自律是假象，内心自由才是真相，不坚持而坚持
 - [[Learning_Burnout|学习倦怠]] — 心的松紧度失衡 + 目标迷失
 - [[Creator_vs_Evaluator|创作者 vs 评判者]] — 角色冲突导致无法完成

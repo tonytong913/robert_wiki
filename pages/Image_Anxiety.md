@@ -71,6 +71,9 @@ confidence: high
 ## 相关页面
 
 - [[Becoming_Yourself_True_Meaning|成为自己]] — 按内心而非外界期待生活
+- [[Taste_Self_Inflicted_Trouble|品位：不要自寻烦恼]] — 品位焦虑是形象焦虑在审美领域的表现
+- [[Feeding_Ego_vs_Improving_Self|饲养自我 vs 完善自我]] — 在意他人评价 = 饲养自我
+- [[Aesthetic_Authenticity|审美的真实性]] — 为他人眼光而审美 = 审美失真
 - [[Third_Party_Perspective|第三方立场]] — 从他人评价中抽离
 - [[Self_Discipline_Illusion|自律：美好的假象]] — 另一个"他人以成败论英雄"的案例
 - [[Root_Question_Clarification|厘清原问题]] — 表面问题遮蔽真实问题的通用模式

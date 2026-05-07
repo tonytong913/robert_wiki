@@ -73,6 +73,8 @@ confidence: high
 - [[Self_Discipline_Illusion|自律：美好的假象]] — 自律只是内心自由的外在显现
 - [[Becoming_Yourself_True_Meaning|成为自己]] — 自由是成为自己的前提
 - [[Freedom_from_Fear|从恐惧中解脱]] — 恐惧是不自由的重要来源
+- [[Taste_Self_Inflicted_Trouble|品位：不要自寻烦恼]] — 被品位标准绑架也是一种不自由
+- [[Aesthetic_Authenticity|审美的真实性]] — 发自内心的审美带来真正的自由
 
 ## 来源
 

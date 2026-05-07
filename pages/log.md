@@ -1,5 +1,20 @@
 # Wiki 操作日志
 
+## [2026-05-07] ingest | 摄入和菜头 hct-0308 品位：不要自寻烦恼
+
+- 创建源文档: raw/articles/hct-0308-品位-不要自寻烦恼.md（DOCX 全文提取）
+- 创建页面（4个）:
+  - pages/Taste_Self_Inflicted_Trouble.md — 品位全文摘要：品味是烦恼的别称、六课、核心三问、饲养自我vs完善自我
+  - pages/Taste_Six_Lessons.md — 品味的六课详解：不自觉/划分人群/同类认同/金钱密码/挥霍时间/时间易变
+  - pages/Feeding_Ego_vs_Improving_Self.md — 饲养自我vs完善自我：目的决定品味有害还是有益
+  - pages/Aesthetic_Authenticity.md — 审美的真实性：发自内心还是服从外界标准
+- 更新已有页面（3个）:
+  - pages/Image_Anxiety.md — 添加品位焦虑、饲养自我、审美真实性交叉引用
+  - pages/Becoming_Yourself_True_Meaning.md — 添加品位/审美真实性交叉引用
+  - pages/Freedom_and_Discipline.md — 添加品位绑架/审美真自由交叉引用
+- 更新: index.md
+- 统计: 源文档 30，页面 103+
+
 ## [2026-05-06] ingest | 摄入和菜头 hct-0303 社交：从批发到零售
 
 - 创建源文档: raw/articles/hct-0303-社交-从批发到零售.md（DOCX 全文提取）

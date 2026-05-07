@@ -121,6 +121,9 @@
 - [[True_Learning_Attitude|真正的学习态度]] — 承认无知，接受真实的自己
 - [[Intelligence_vs_Wisdom|聪明与智慧]] — 智慧比聪明看得更深更远
 - [[Gratitude_Right_Attitude|感恩：怎样正确对待感恩]] — 厘清给予方与接受方的心态边界
+- [[Taste_Self_Inflicted_Trouble|品位：不要自寻烦恼]] — 品位也是外界标准，不被其绑架才是成为自己
+- [[Feeding_Ego_vs_Improving_Self|饲养自我 vs 完善自我]] — 完善自我是成为自己，饲养自我是成为别人眼中的自己
+- [[Aesthetic_Authenticity|审美的真实性]] — 发自内心的审美才是自己的审美
 
 ## 来源
 

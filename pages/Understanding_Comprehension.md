@@ -78,6 +78,8 @@
 
 - [[True_Learning_Attitude|真正的学习态度]] — 区分表演式学习与真正学习
 - [[Shock_vs_Structure|震撼 vs 心智结构]] — 震撼不等于学习，真正深刻的是增添心智结构
+- [[Minimum_Reading_List|最小阅读清单]] — 进入新领域的最小路径，3-5本书即可入门
+- [[Master_Writes_Small|大家写小文]] — 大师的通俗入门书是最佳起点
 - [[Intelligence_vs_Wisdom|聪明与智慧]] — 聪明是快速反应，智慧是深度思考
 - [[Learning_Mastery_Code|学习密码]] — 多领域通用的高成绩强技能学习法
 - [[Gratitude_Right_Attitude|感恩的正确态度]] — 关于帮助与接受帮助的心态

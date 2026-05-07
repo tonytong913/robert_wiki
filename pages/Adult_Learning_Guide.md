@@ -50,7 +50,8 @@
 
 - [[True_Learning_Attitude|真正的学习态度]] - 区分表演式学习与真正学习态度
 - [[Understanding_Comprehension|理解力：如何提高理解能力]] - 理解力的本质与提升方法
-- [[Learning_Mastery_Code|学习密码]] - 多领域通用高成绩强技能学习法
+- [[Minimum_Reading_List|最小阅读清单]] — 以解决现实问题为导向，最小清单是最好的自学路径
+- [[MEL_Principle_Learning|MEL原则]] — 不理想条件下也要完成学习
 - [[Becoming_Yourself_True_Meaning|成为自己]] - 全面认知自我，用不完美的自己达成美好
 
 ## 来源

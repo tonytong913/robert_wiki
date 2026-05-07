@@ -116,7 +116,7 @@ confidence: high
 - [[Cooking_as_Practice|厨艺：作为修行法门]] — 厨艺次第：不可跳，控火为核心
 - [[Mastery_Before_Balance|先有功力再谈火候]] — 在获得直接经验之前追求"度"是干扰
 - [[Adult_Learning_Guide|成年人学习指南]] — 以解决问题为导向的学习方法
-- [[Passion_Is_Self_Knowledge|热爱其实是认识自己]] — 找不到热爱是因为不认识自己
+- [[Master_Writes_Small|大家写小文]] — 次第的第一步最好是大师写的通俗入门读物
 
 ## 来源
 

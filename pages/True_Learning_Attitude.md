@@ -53,7 +53,8 @@
 
 - [[Learning_Mastery_Code|学习密码：多领域通用高成绩强技能学习法]] — 具体的学习方法论
 - [[Intelligence_vs_Wisdom|聪明与智慧]] — 聪明是把应该藏于刀鞘的利刃，智慧看得更深更远
-- [[L22_Reflection_Essence|反思的本质]] — 对思之再思
+- [[Minimum_Reading_List|最小阅读清单]] — 学习新知的最小路径，亲手创建自己的清单
+- [[MEL_Principle_Learning|MEL原则]] — 不需要完美才开始学
 - [[L06_Mantra_2_I_Dont_Know|口诀2 - 我不知道]] — 谦逊学习的态度
 
 ## 来源

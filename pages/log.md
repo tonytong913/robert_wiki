@@ -1,5 +1,21 @@
 # Wiki 操作日志
 
+## [2026-05-07] ingest | 摄入和菜头 hct-0315 最小阅读清单
+
+- 创建源文档: raw/articles/hct-0315-最小阅读清单-为你学习新知找到一条最小路径.md（DOCX 全文提取）
+- 创建页面（3个）:
+  - pages/Minimum_Reading_List.md — 全文摘要：MEL类比、七种构建方法、3-5本即可入门
+  - pages/MEL_Principle_Learning.md — MEL原则：航空最低设备清单启示，不需要完美才出发
+  - pages/Master_Writes_Small.md — 大家写小文：王力/爱因斯坦/钱穆/杜兰特的通俗读物是最佳入门
+- 更新已有页面（5个）:
+  - pages/Power_of_Completion.md — 添加MEL原则：粗糙完成也是完成
+  - pages/Understanding_Comprehension.md — 添加最小阅读清单、大家写小文
+  - pages/Adult_Learning_Guide.md — 添加最小阅读清单、MEL原则
+  - pages/True_Learning_Attitude.md — 添加最小阅读清单、MEL原则
+  - pages/Sequential_Learning.md — 添加大家写小文：次第第一步
+- 更新: index.md
+- 统计: 源文档 33，页面 114+
+
 ## [2026-05-07] ingest | 摄入和菜头 hct-0311 我问和菜头：是否存在雅俗共赏
 
 - 创建源文档: raw/articles/hct-0311-我问和菜头-是否存在雅俗共赏.md（DOCX 全文提取）

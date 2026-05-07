@@ -184,6 +184,7 @@ confidence: high
 - [[Anxiety_as_Friend|焦虑：好朋友]] — 焦虑指向结果，结果（完成）治愈焦虑
 - [[Creator_vs_Evaluator|创作者 vs 评判者]] — 角色冲突是完成的内部障碍
 - [[Ordinary_Life_Extraordinary|普通人：不平凡的生活]] — 完成一段普通人生本身就是了不起的成就
+- [[MEL_Principle_Learning|MEL原则]] — 不需要完美才开始，粗糙的完成也是完成
 
 ## 来源
 

@@ -1,5 +1,22 @@
 # Wiki 操作日志
 
+## [2026-05-07] ingest | 摄入和菜头 hct-0311 我问和菜头：是否存在雅俗共赏
+
+- 创建源文档: raw/articles/hct-0311-我问和菜头-是否存在雅俗共赏.md（DOCX 全文提取）
+- 创建页面（5个）:
+  - pages/Elegance_and_Vulgarity_Shared.md — Q&A全文：五问五答（审美光谱/找寻自我/漫画不高级/雅俗共赏/遗忘）
+  - pages/Aesthetic_Spectrum.md — 审美光谱：宽与窄，宽者基于理解不赞同，窄者基于不了解
+  - pages/Understand_Before_Judging.md — 先理解再判断：骈文例，两种不赞同的本质区别
+  - pages/Borrowed_Ideas_vs_True_Self.md — 借来的想法vs真正的自我：把借来的还回去，剩下就是自己
+  - pages/Shock_vs_Structure.md — 震撼vs心智结构：震撼≠学习，遗忘≠白读
+- 更新已有页面（4个）:
+  - pages/Image_Anxiety.md — 添加审美光谱、先理解再判断交叉引用
+  - pages/Taste_Self_Inflicted_Trouble.md — 添加审美光谱、借来的想法交叉引用
+  - pages/Becoming_Yourself_True_Meaning.md — 添加借来的想法交叉引用
+  - pages/Understanding_Comprehension.md — 添加震撼vs心智结构交叉引用
+- 更新: index.md
+- 统计: 源文档 32，页面 111+
+
 ## [2026-05-07] ingest | 摄入和菜头 hct-0310 普通人：没有普通人，只有不平凡的生活
 
 - 创建源文档: raw/articles/hct-0310-普通人-没有普通人只有不平凡的生活.md（DOCX 全文提取）

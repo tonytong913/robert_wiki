@@ -72,6 +72,8 @@ confidence: high
 
 - [[Becoming_Yourself_True_Meaning|成为自己]] — 按内心而非外界期待生活
 - [[Taste_Self_Inflicted_Trouble|品位：不要自寻烦恼]] — 品位焦虑是形象焦虑在审美领域的表现
+- [[Aesthetic_Spectrum|审美光谱]] — 审美光谱越宽越能理解不同审美
+- [[Understand_Before_Judging|先理解再判断]] — 基于理解的不赞同 vs 基于不了解的不赞同
 - [[Feeding_Ego_vs_Improving_Self|饲养自我 vs 完善自我]] — 在意他人评价 = 饲养自我
 - [[Aesthetic_Authenticity|审美的真实性]] — 为他人眼光而审美 = 审美失真
 - [[Third_Party_Perspective|第三方立场]] — 从他人评价中抽离

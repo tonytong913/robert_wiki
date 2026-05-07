@@ -89,6 +89,8 @@ confidence: high
 - [[Feeding_Ego_vs_Improving_Self]] — 饲养自我 vs 完善自我
 - [[Aesthetic_Authenticity]] — 审美的真实性
 - [[Image_Anxiety]] — 形象焦虑：分清事情本身和他人眼中的形象
+- [[Aesthetic_Spectrum|审美光谱]] — 审美光谱的宽与窄，决定能否理解他人的审美
+- [[Borrowed_Ideas_vs_True_Self|借来的想法 vs 真正的自我]] — 把借来的还回去，看看剩下什么
 - [[Becoming_Yourself_True_Meaning]] — 成为自己：不服从外界标准
 
 ---

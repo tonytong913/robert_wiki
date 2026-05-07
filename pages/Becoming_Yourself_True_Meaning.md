@@ -124,6 +124,7 @@
 - [[Taste_Self_Inflicted_Trouble|品位：不要自寻烦恼]] — 品位也是外界标准，不被其绑架才是成为自己
 - [[Feeding_Ego_vs_Improving_Self|饲养自我 vs 完善自我]] — 完善自我是成为自己，饲养自我是成为别人眼中的自己
 - [[Aesthetic_Authenticity|审美的真实性]] — 发自内心的审美才是自己的审美
+- [[Ordinary_Life_Extraordinary|普通人：不平凡的生活]] — 普通人用不完美的自己达成美好，就是成为自己
 
 ## 来源
 

@@ -1,5 +1,20 @@
 # Wiki 操作日志
 
+## [2026-05-07] ingest | 摄入和菜头 hct-0310 普通人：没有普通人，只有不平凡的生活
+
+- 创建源文档: raw/articles/hct-0310-普通人-没有普通人只有不平凡的生活.md（DOCX 全文提取）
+- 创建页面（3个）:
+  - pages/Ordinary_Life_Extraordinary.md — 全文摘要：普通生活一点都不容易，两个故事揭示韧性与付出
+  - pages/Resilience_in_Ordinary_Life.md — 普通生活中的韧性：反复打击、反复站起、反复找到生存之道
+  - pages/Distance_Hides_Effort.md — 距离遮蔽付出：远看普通，近看才见强大的意志和无可计量的付出
+- 更新已有页面（4个）:
+  - pages/Power_of_Completion.md — 完成一段普通人生本身就不起
+  - pages/Becoming_Yourself_True_Meaning.md — 普通人用不完美的自己达成美好
+  - pages/Life_by_Choice.md — 普通人面对不可选的时代变化，反复选择再出发
+  - pages/Choice_Has_Cost.md — 每次选择都有代价，普通人反复承担
+- 更新: index.md
+- 统计: 源文档 31，页面 106+
+
 ## [2026-05-07] ingest | 摄入和菜头 hct-0308 品位：不要自寻烦恼
 
 - 创建源文档: raw/articles/hct-0308-品位-不要自寻烦恼.md（DOCX 全文提取）

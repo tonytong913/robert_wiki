@@ -86,6 +86,7 @@ confidence: medium
 - [[Fear_as_Fuel|恐惧也能作为燃料]] — 焦虑作为燃料，恐惧作为烈性燃料
 - [[Anxiety_as_Friend|焦虑：好朋友]] — 焦虑不可消除，只可转化
 - [[Passion_Is_Self_Knowledge|热爱其实是认识自己]] — 不快乐的人总以为存在快乐彼岸
+- [[Resilience_in_Ordinary_Life|普通生活中的韧性]] — 每次选择都有代价，普通人反复承担代价仍然乐观
 
 ## 来源
 

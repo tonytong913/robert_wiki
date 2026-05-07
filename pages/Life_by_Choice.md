@@ -93,6 +93,7 @@ confidence: high
 - [[Choose_Bear_Receive|你选择，你承担，你得到]] — 选择自由与责任承担的统一
 - [[Suffering_as_Teacher|受苦：通往内心自由的必经之路]] — 分清可选和不可选是内心自由的一部分
 - [[Freedom_and_Discipline|自由与自律]] — 回到自身感受，关注可选的部分
+- [[Ordinary_Life_Extraordinary|普通人：不平凡的生活]] — 普通人面对不可选的时代变化，一次又一次选择再出发
 
 ## 来源
 

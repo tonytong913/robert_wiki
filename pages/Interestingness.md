@@ -107,6 +107,7 @@ confidence: high
 - [[Third_Party_Perspective|第三方立场]] — 同类概念，安心领域的应用
 - [[Peace_of_Mind_Settling_the_Heart|安心]] — 在场也是安心的方法
 - [[Self_Deprecation_Humor|自嘲式幽默]] — 在场在幽默中的体现
+- [[Storytelling_Co_Creation|讲故事：共同创作的艺术]] — 讲好故事的本质同样是"在场"
 
 ---
 

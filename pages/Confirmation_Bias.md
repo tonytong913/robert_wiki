@@ -128,12 +128,11 @@
 
 ## 相关概念
 
-| 概念 | 关系 |
-|------|------|
-| [[Cognitive_Limitation\|认知局限]] | 确认偏误强化认知局限 |
-| [[Echo_Chamber\|回音室效应]] | 确认偏误在社交媒体中的表现 |
-| [[Belief_Perseverance\|信念固着]] | 即使证据被否定仍坚持信念 |
-| [[Backfire_Effect\|逆火效应]] | 反面证据反而强化原有信念 |
+相关概念：
+- [[Cognitive_Limitation|认知局限]] — 确认偏误强化认知局限
+- [[Echo_Chamber|回音室效应]] — 确认偏误在社交媒体中的表现
+- [[Belief_Perseverance|信念固着]] — 即使证据被否定仍坚持信念
+- [[Backfire_Effect|逆火效应]] — 反面证据反而强化原有信念
 
 ---
 

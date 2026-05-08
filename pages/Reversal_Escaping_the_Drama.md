@@ -134,11 +134,11 @@
 
 | 维度 | 本文（hct-0126） | 相关页面 |
 |------|------------------|---------|
-| **情绪觉察** | 用情绪作为预警信号 | [[Emotional_Intelligence\|情感智能]]、[[Peace_of_Mind_Settling_the_Heart\|安心]] |
-| **第三方立场** | 不让内心太早偏向一边 | [[Third_Party_Perspective\|第三方立场]] |
-| **批判思维** | 检查事实基础、甄别信息源 | [[Binary_Thinking\|二极管思维]] |
-| **智识谦逊** | 承认信息渠道有限 | [[Intellectual_Humility\|智识谦逊]] |
-| **反思** | 回溯事实、审视情绪反应 | [[Reflection_Approaching_Correct_Answer\|反思]] |
+**情绪觉察**（用情绪作为预警信号）：参见 [[Emotional_Intelligence|情感智能]]、[[Peace_of_Mind_Settling_the_Heart|安心]]
+**第三方立场**（不让内心太早偏向一边）：参见 [[Third_Party_Perspective|第三方立场]]
+**批判思维**（检查事实基础、甄别信息源）：参见 [[Binary_Thinking|二极管思维]]
+**智识谦逊**（承认信息渠道有限）：参见 [[Intellectual_Humility|智识谦逊]]
+**反思**（回溯事实、审视情绪反应）：参见 [[Reflection_Approaching_Correct_Answer|反思]]
 
 ---
 

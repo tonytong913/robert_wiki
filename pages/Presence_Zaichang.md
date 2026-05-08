@@ -90,12 +90,10 @@ confidence: high
 
 ## 与相关概念的关系
 
-| 概念 | 关系 |
-|------|------|
-| [[Third_Party_Perspective\|第三方立场]] | 同类概念——抽离自身、旁观者视角。在场侧重有趣/表达，第三方立场侧重安心/修行 |
-| [[Interestingness\|有趣]] | 在场是有趣的**根源**；有趣是在场的**结果** |
-| [[Self_Deprecation_Humor\|自嘲式幽默]] | 在场的一种具体表现——跳出自我享受自嘲 |
-| [[Peace_of_Mind_Settling_the_Heart\|安心]] | 在场和第三方立场都能通往安心 |
+- [[Third_Party_Perspective|第三方立场]] — 同类概念——抽离自身、旁观者视角。在场侧重有趣/表达，第三方立场侧重安心/修行
+- [[Interestingness|有趣]] — 在场是有趣的**根源**；有趣是在场的**结果**
+- [[Self_Deprecation_Humor|自嘲式幽默]] — 在场的一种具体表现——跳出自我享受自嘲
+- [[Peace_of_Mind_Settling_the_Heart|安心]] — 在场和第三方立场都能通往安心
 
 ---
 

@@ -108,12 +108,10 @@
 
 ## 与相关概念的关系
 
-| 概念 | 关系 |
-|------|------|
-| [[Intellectual_Humility\|智识谦逊]] | 自我怀疑是智识谦逊的表现形式 |
-| [[Open_Mindset\|开放心态]] | 自我怀疑是开放心态的起点 |
-| [[Critical_Thinking\|批判性思维]] | 自我怀疑是批判性思维的核心 |
-| [[Growth_Mindset\|成长型思维]] | 自我怀疑相信能力可发展 |
+- [[Intellectual_Humility|智识谦逊]] — 自我怀疑是智识谦逊的表现形式
+- [[Open_Mindset|开放心态]] — 自我怀疑是开放心态的起点
+- [[Critical_Thinking|批判性思维]] — 自我怀疑是批判性思维的核心
+- [[Growth_Mindset|成长型思维]] — 自我怀疑相信能力可发展
 
 ---
 

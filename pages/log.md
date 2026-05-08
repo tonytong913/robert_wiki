@@ -1,5 +1,13 @@
 # Wiki 操作日志
 
+## [2026-05-08] ingest | GPT Image 2 提示词编写指南
+
+**源文件**: raw/articles/2026-05-08-gpt-image-2-prompting-guide.md
+
+**新建页面**:
+- [[GPT_Image_2_Prompting_Guide|GPT Image 2 提示词编写指南]] — 十大核心原则、十大实用模板、提示词模板（供AI参考调用）
+
+**来源**: OpenAI 官方 Cookbook + Atlabs AI Ultimate Guide (2026)
 ## [2026-05-08] ingest | 和菜头 hct-0316 有趣：揭示关于有趣的奥秘
 
 **源文件**: raw/articles/hct-0316-有趣-揭示关于有趣的奥秘.md

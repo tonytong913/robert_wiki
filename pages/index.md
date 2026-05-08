@@ -1,11 +1,11 @@
 # Wiki 索引
 
-*最后更新: 2026-05-08 — 摄入和菜头 hct-0316 有趣
+*最后更新: 2026-05-08 — 摄入 GPT Image 2 提示词指南
 
 ## 统计
 
-- **源文档:** 34
-- **页面:** 102+
+- **源文档:** 35
+- **页面:** 103+
 
 ## 源文档
 
@@ -65,6 +65,7 @@
 ## 页面目录
 
 ### 技术工具与运维
+- [[GPT_Image_2_Prompting_Guide|GPT Image 2 提示词编写指南]] — 十大原则、十大模板、供人类和AI参考的提示词最佳实践
 - [[LiteLLM_Multi_Provider|LiteLLM 多 Provider 统一代理]] - 使用 LiteLLM 聚合通义千问、Kimi、智谱 GLM、DeepSeek，提供 OpenAI 兼容 API
 
 ### OpenClaw

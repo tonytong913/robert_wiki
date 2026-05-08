@@ -68,6 +68,7 @@
 - [[Becoming_Yourself_True_Meaning|成为自己]] — 面对赤裸裸的内心，退掉不属于自己的部分（与"去掉表演"高度关联）
 - [[True_Learning_Attitude|真正的学习态度]] - 驱逐表演式学习("去掉表演"的同类主题)
 - [[Intellectual_Humility|智识谦逊]] - 承认认知有限
+- [[Lying_Truth_Debt|撒谎：绑定的债务]] — 镜子效应：镜像即第三方立场，触发自我约束
 - [[Self_Doubt|自我怀疑]] - 建设性质疑是突破局限的契机
 - [[Open_Mindset|开放心态]] - 准备随时放弃旧观点
 

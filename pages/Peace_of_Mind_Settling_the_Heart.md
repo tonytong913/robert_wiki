@@ -80,7 +80,9 @@
 
 ## 相关页面
 
-- [[Third_Party_Perspective|第三方立场]] - 安心所需安放的核心位置
+- [[Third_Party_Perspective|第三方立场]]
+- [[Presence_Zaichang|在场：有趣的根源]] — 第三方立场在有趣/幽默领域的同源应用
+- [[Interestingness|有趣：新视角的礼物]] — 在场使人有趣，与安心共享同一个观察者姿态 - 安心所需安放的核心位置
 - [[Emotional_Intelligence|情感智能]] - 识别、理解和运用情感的能力
 - [[Becoming_Yourself_True_Meaning|成为自己]] - 去掉不属于自我的部分，面对真实的内心
 - [[True_Learning_Attitude|真正的学习态度]] - 驱逐表演式学习，面对真实自我

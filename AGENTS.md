@@ -163,6 +163,7 @@ confidence: high       # high | medium | low
    - 标记与新源矛盾或补充的声明
 5. 更新 `pages/index.md`
 6. 记录到 `pages/log.md`（格式：`## [YYYY-MM-DD] ingest | 描述`）
+7. **自动 git commit + push**（必做，不可省略）
 
 **关键**: Ingest 不是"创建 1 个新页面"，而是**级联更新**整个相关知识图谱。
 **关键**: 源文件必须先保存到 raw/，再编译页面。raw/ 是完整的事实源，不可省略这一步。
@@ -178,6 +179,7 @@ confidence: high       # high | medium | low
    - 比较分析 → `Comparison_Name.md`
    - 深度总结 → `Topic_Synthesis.md`
    - 方法指南 → `How_To_Do_X.md`
+5. **如有文件变更，自动 git commit + push**
 
 > 让探索成果也复合增长，而不是消失在聊天记录中。
 
@@ -194,6 +196,7 @@ confidence: high       # high | medium | low
 7. **检查 `memory/errors.md`** — 中的错误模式
 
 将 lint 结果保存到 `outputs/lint-YYYY-MM-DD.md`。
+8. **自动 git commit + push**
 
 ---
 

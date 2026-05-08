@@ -273,8 +273,8 @@
 - [[Leadership/L03_Mantra_1_I_Come|02讲：领导力第一句口诀——"我来"]]
 - [[Leadership/L07_Leadership_vs_Management|第06讲：区分领导与管理]]
 - [[Leadership/L08_The_Hitler_Problem|第07讲：领导力的"希特勒问题"]]
-- [[技术性问题 vs 适应性问题]]
-- [[团队参与式决策]]
+- 技术性问题 vs 适应性问题
+- 团队参与式决策
 
 ---
 

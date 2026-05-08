@@ -590,7 +590,7 @@
 - [[Leadership/L06_Mantra_2_I_Dont_Know]] —— 谦逊学习，开放包容
 - [[Leadership/L11_Mantra_3_What_Do_You_Think]] —— 倾听他人，集思广益
 - [[Leadership/L14_Mantra_4_Let_Me_Tell_a_Story]] —— 用故事传递价值观
-- [[追随力的三个要点]] —— 理解追随者的角色
+- 追随力的三个要点 —— 理解追随者的角色
 
 ---
 

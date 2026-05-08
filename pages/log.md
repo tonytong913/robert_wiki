@@ -12,7 +12,7 @@
 **更新页面**:
 - [[Third_Party_Perspective|第三方立场]] — 添加在场和有趣的交叉引用（同类概念，不同应用场景）
 - [[Peace_of_Mind_Settling_the_Heart|安心]] — 添加在场/有趣的交叉引用
-- [[pages/index.md]]
+- pages/index.md
 
 **核心洞察**:
 - 有趣 = 在场 → 新视角 + 新理解

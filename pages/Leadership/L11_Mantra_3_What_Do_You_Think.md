@@ -405,8 +405,8 @@ Level 5: 行动规划
 - [[Leadership/L06_Mantra_2_I_Dont_Know|第05讲：领导力第二句口诀——"我不知道"]]
 - [[Leadership/L09_Two_Relationships|第09讲：领导力中的两种关系]]
 - [[Leadership/L10_Devils_Advocate|第10讲：培养唱反调的人]]
-- [[启发式提问技巧]]
-- [[团队赋能与授权]]
+- 启发式提问技巧
+- 团队赋能与授权
 
 ---
 

@@ -499,4 +499,4 @@
 - [[Leadership/L22_Reflection_Essence]] —— 反思的本质与实践
 - [[Leadership/L21_Mantra_6_Congrats_on_Failure]] —— 失败管理与学习心态
 - [[Leadership/L20_Smart_Failure]] —— 从失败中学习的机制
-- [[_mantras]] —— 十句口诀速查手册
+- _mantras —— 十句口诀速查手册

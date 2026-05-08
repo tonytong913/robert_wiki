@@ -286,14 +286,14 @@
 
 ## 九、关联概念
 
-- [[领导力]]
-- [[动员群众解决难题]]
+- 领导力
+- 动员群众解决难题
 - [[Leadership/L08_The_Hitler_Problem]]
 - [[Leadership/L07_Leadership_vs_Management]]
 - [[Leadership/L03_Mantra_1_I_Come]]
 - [[Leadership/L06_Mantra_2_I_Dont_Know]]
-- [[毛泽东的群众路线]]
-- [[伯恩斯的变革型领导理论]]
+- 毛泽东的群众路线
+- 伯恩斯的变革型领导理论
 
 ---
 

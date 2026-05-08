@@ -82,7 +82,7 @@
 
 ## 相关页面
 
-- [[Smart_Failure|聪明的失败]] - 如何从失败中学习
+- 聪明的失败 - 如何从失败中学习
 - [[L20_Smart_Failure|L20: 聪明的失败]] - 领导力课程中的失败智慧
 - [[L21_Mantra_6_Congrats_on_Failure|L21: 口诀6 - 失败了恭喜你]] - 拥抱失败的文化
 - [[Intelligence_vs_Wisdom|聪明与智慧]] - 看得更深更远的智慧

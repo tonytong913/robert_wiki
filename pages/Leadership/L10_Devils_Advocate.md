@@ -415,14 +415,14 @@
 
 ## 八、关联概念
 
-- [[领导力]]
+- 领导力
 - [[Leadership/L09_Two_Relationships]]
 - [[Leadership/L08_The_Hitler_Problem]]
 - [[Leadership/L07_Leadership_vs_Management]]
-- [[群体思维]]
-- [[批判性思维]]
-- [[组织文化]]
-- [[决策质量]]
+- 群体思维
+- 批判性思维
+- 组织文化
+- 决策质量
 
 ---
 

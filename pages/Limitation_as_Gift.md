@@ -64,7 +64,7 @@
 - [[Cognitive_Limitation|认知局限]] — 因匮乏而形成的认知边界
 - [[Confirmation_Bias|确认偏误]] — 强化已有信念、忽视反面证据的倾向
 - [[Intellectual_Humility|智识谦逊]] — 承认自己的认知有限，愿意接受质疑
-- [[Growth_Mindset|成长型思维]] — 相信能力可以通过努力发展
+- 成长型思维 — 相信能力可以通过努力发展
 
 ---
 

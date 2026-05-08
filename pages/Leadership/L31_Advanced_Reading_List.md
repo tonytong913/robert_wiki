@@ -109,7 +109,7 @@
 
 - [[L30_Becoming_Yourself|L30: 成为领导者就是成为自己]] - 课程总结
 - [[L01_Why_You_Need_Leadership|L01: 你为什么需要领导力]] - 课程发刊词
-- [[Leadership_30_Lectures_Index|领导力30讲课程索引]]
+- 领导力30讲课程索引
 
 ---
 

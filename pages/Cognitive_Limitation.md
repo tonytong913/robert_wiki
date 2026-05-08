@@ -79,8 +79,8 @@
 
 - [[Confirmation_Bias|确认偏误]] — 强化已有信念的心理机制
 - [[Intellectual_Humility|智识谦逊]] — 承认认知有限的美德
-- [[Growth_Mindset|成长型思维]] — 相信能力可发展的信念
-- [[Dunning_Kruger_Effect|邓宁-克鲁格效应]] — 能力欠缺者高估自己的倾向
+- 成长型思维 — 相信能力可发展的信念
+- 邓宁-克鲁格效应 — 能力欠缺者高估自己的倾向
 
 ---
 

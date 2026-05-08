@@ -479,9 +479,9 @@
 
 - [[Leadership/L12_Two_Elements_of_Stories]] — 第12讲，理解故事的基础
 - [[Leadership/L13_The_Mirror_in_Stories]] — 第13讲，掌握镜子的运用
-- [[领导力沟通技巧]]
-- [[情感智能与领导力]]
-- [[组织变革中的故事运用]]
+- 领导力沟通技巧
+- 情感智能与领导力
+- 组织变革中的故事运用
 - [[Leadership/L11_Mantra_3_What_Do_You_Think]] — 与倾听技巧结合
 
 ---

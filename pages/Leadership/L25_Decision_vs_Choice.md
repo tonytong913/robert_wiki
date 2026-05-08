@@ -540,4 +540,4 @@
 
 - [[Leadership/L24_Mantra_7_What_Should_I_Change]] —— 反思的层次与大反思
 - [[Leadership/L22_Reflection_Essence]] —— 反思的本质与实践
-- [[_concepts]] —— 核心概念索引
+- _concepts —— 核心概念索引

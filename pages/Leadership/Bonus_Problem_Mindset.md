@@ -377,7 +377,7 @@
 - [[Leadership/L07_Leadership_vs_Management]] —— 领导vs管理、技术性问题vs适应性问题
 - [[Leadership/L11_Mantra_3_What_Do_You_Think]] —— 倾听他人，集思广益
 - [[Leadership/L18_Mantra_5_I_Teach_You]] —— "我教你"的五种说法
-- [[_concepts.md]] —— 核心概念索引
+- _concepts.md —— 核心概念索引
 
 ---
 

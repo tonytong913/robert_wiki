@@ -79,6 +79,9 @@ confidence: high
 - [[Third_Party_Perspective|第三方立场]] — 从他人评价中抽离
 - [[Self_Discipline_Illusion|自律：美好的假象]] — 另一个"他人以成败论英雄"的案例
 - [[Root_Question_Clarification|厘清原问题]] — 表面问题遮蔽真实问题的通用模式
+- [[Self_Perception_Bias|自我认知偏见]] — 你以为别人在看，其实没有——鼻头黑痣实验的完美揭示
+- [[Letting_Go_of_Self|放过自己]] — 当你能把形象焦虑的笑话讲出来时，你已经放下了
+- [[Minor_Flaws_Gifts|小毛病也有它的独特作用]] — 和菜头的鼻头黑痣故事：从焦虑到释然的完整路径
 
 ## 来源
 

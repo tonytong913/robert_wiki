@@ -126,6 +126,9 @@
 - [[Feeding_Ego_vs_Improving_Self|饲养自我 vs 完善自我]] — 完善自我是成为自己，饲养自我是成为别人眼中的自己
 - [[Aesthetic_Authenticity|审美的真实性]] — 发自内心的审美才是自己的审美
 - [[Ordinary_Life_Extraordinary|普通人：不平凡的生活]] — 普通人用不完美的自己达成美好，就是成为自己
+- [[Minor_Flaws_Gifts|小毛病也有它的独特作用]] — 接受不完美是成为自己的前提，小毛病帮助认识不完美
+- [[Letting_Go_of_Self|放过自己]] — 成为自己的道路上，需要先放过那个「应该完美」的自己
+- [[Self_Perception_Bias|自我认知偏见]] — 破除「别人都在看」的偏见，才能真正成为自己
 
 ## 来源
 

@@ -1,5 +1,22 @@
 # Wiki 操作日志
 
+## [2026-05-11] ingest | 和菜头 hct-0324 小毛病也有它的独特作用
+
+**源文件**: raw/articles/hct-0324-小毛病也有它的独特作用.md
+
+**新建页面:**
+- [[Minor_Flaws_Gifts|小毛病也有它的独特作用]] — 主概念页
+- [[Self_Perception_Bias|自我认知偏见]] — 聚光灯效应：鼻头黑痣实验
+- [[Letting_Go_of_Self|放过自己]] — 从痛苦到笑话的释然路径
+
+**更新页面:**
+- [[Intellectual_Humility|智识谦逊]] — 添加小毛病打破智识傲慢的交叉引用
+- [[Image_Anxiety|形象焦虑]] — 添加鼻头黑痣案例和 Self_Perception_Bias 引用
+- [[Becoming_Yourself_True_Meaning|成为自己]] — 添加接受不完美自我的引用
+- [[Limitation_as_Gift|局限作为礼物]] — 添加小毛病作为另一种局限的引用
+
+---
+
 ## [2026-05-08] ingest | 和菜头 hct-0322 撒谎：别跟底层代码作对
 
 **源文件**: raw/articles/hct-0322-撒谎-别跟底层代码作对.md

@@ -75,6 +75,8 @@
 - [[True_Learning_Attitude|真正的学习态度]] — 区分表演式学习与真正学习
 - [[Innovation_Lessons_from_Failure|创新：从失败中学习]] — 避开认知陷阱的思维指南
 - [[Becoming_Yourself_True_Meaning|成为自己]] — 在全面认知自己的前提下达成美好
+- [[Minor_Flaws_Gifts|小毛病也有它的独特作用]] — 小毛病是另一种形式的局限，同样是礼物
+- [[Letting_Go_of_Self|放过自己]] — 接受局限的终极状态
 
 ## 来源
 

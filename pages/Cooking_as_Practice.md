@@ -105,6 +105,7 @@ confidence: high
 
 ## 相关页面
 
+- [[Executive_Feet_in_the_Mud|高管：双脚沾泥]] — 跳过一线直接做决策，等于跳过厨艺训练直接当大厨
 - [[Answers_as_Temporary_Stops|答案：临时停靠站]] — 以为"看菜谱就会做菜"也是一种答案幻觉
 - [[Becoming_Yourself_Through_Action|成为自己：通过行动实现自我]] — 循序渐进的行动是成为自己的方式
 - [[Mastery_Before_Balance|先有功力再谈火候]] — 在获得直接经验之前追求"度"是纯粹的干扰

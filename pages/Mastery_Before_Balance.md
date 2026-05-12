@@ -71,6 +71,7 @@ confidence: high
 
 ## 相关页面
 
+- [[Executive_Feet_in_the_Mud|高管：双脚沾泥]] — 不经一线洗礼就谈战略火候，等于厨子没下过厨房就谈火候
 - [[Professional_Expertise|专业：怎样才算是真正拥有一项专业]]
 - [[True_Learning_Attitude|真正的学习态度]]
 - [[Adult_Learning_Guide|成年人学习指南]]

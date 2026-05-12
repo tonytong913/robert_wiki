@@ -76,6 +76,7 @@
 
 ## 相关页面
 
+- [[Executive_Feet_in_the_Mud|高管：双脚沾泥]] — 读报告≠真理解，理解力需要亲临一线获得体感
 - [[True_Learning_Attitude|真正的学习态度]] — 区分表演式学习与真正学习
 - [[Shock_vs_Structure|震撼 vs 心智结构]] — 震撼不等于学习，真正深刻的是增添心智结构
 - [[Minimum_Reading_List|最小阅读清单]] — 进入新领域的最小路径，3-5本书即可入门

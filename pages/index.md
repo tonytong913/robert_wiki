@@ -1,11 +1,11 @@
 # Wiki 索引
 
-*最后更新: 2026-05-12 — 摄入和菜头 hct-0329 芜杂：从乱七八糟里看出生机
+*最后更新: 2026-05-12 — 摄入 高管做不到双手沾泥也要双脚沾泥
 
 ## 统计
 
-- **源文档:** 39
-- **页面:** 109+
+- **源文档:** 40
+- **页面:** 110+
 
 ## 源文档
 
@@ -56,6 +56,9 @@
 ### 技术文档
 - [LiteLLM 多 Provider 统一代理配置指南](../raw/articles/litellm-multi-provider-guide.md) - 在 Alibaba Cloud Linux 3 上搭建 LiteLLM 聚合通义千问/Kimi/智谱/DeepSeek
 - [ReAct 模式：AI Agent 推理+行动架构](../raw/articles/2026-05-04-ReAct-pattern.md) - Google & Princeton 2022，Thought→Action→Observation 四步闭环
+
+### 管理实践
+- [高管做不到双手沾泥也要双脚沾泥](../raw/articles/2026-05-12-高管做不到双手沾泥也要双脚沾泥.md) - 答案是现场一线有神明，高管可以不动手但不能不动脚
 
 ### 领导力课程（刘澜《领导力30讲》）
 - [发刊词：你为什么需要领导力](../raw/books/ll0702_发刊词_你为什么需要领导力.md) - 刘澜领导力30讲发刊词
@@ -194,6 +197,9 @@
 - [[Admitting_Mistakes|承认错误：理论与实践的诚实]] - 从维护"永远正确"到坦然承认局限
 - [[New_Year_Three_Questions|新年：三个问题发现未来线索]] - 通过回望过去发现通往未来的线索，寻找人生使命
 - [[Spring_Festival_Meaning|春节的意义]] - 现代人如何重新找寻春节的意义，祭祖/采青/拜年三建议
+
+### 管理与领导力实践
+- [[Executive_Feet_in_the_Mud|高管：做不到双手沾泥也要双脚沾泥]] — 答案在现场一线有神明，高管可不动手但不能不动脚
 
 ### 行动与执行
 - [[Power_of_Completion|完成的力量]] - 99%不开始、完成是习惯、靠谱=完成、意义是后见之明

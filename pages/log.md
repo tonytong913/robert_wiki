@@ -1,5 +1,19 @@
 # Wiki 操作日志
 
+## [2026-05-12] ingest | 高管做不到双手沾泥也要双脚沾泥
+
+**源文件**: raw/articles/2026-05-12-高管做不到双手沾泥也要双脚沾泥.md
+
+**新建页面:**
+- [[Executive_Feet_in_the_Mud|高管：做不到双手沾泥也要双脚沾泥]] — 三层洞察、一线有神明、双手沾泥vs双脚沾泥
+
+**交叉引用更新:**
+- [[Leadership/L03_Mantra_1_I_Come|L03: 我来]] — 添加双脚沾泥是"我来"的具体表现
+- [[Leadership/L07_Leadership_vs_Management|L07: 领导与管理]] — 添加一线体感对领导/管理的双重重要
+- [[Understanding_Comprehension|理解力]] — 添加读报告vs一线体感的关联
+- [[Mastery_Before_Balance|先有功力再谈火候]] — 添加不经一线谈火候的类比
+- [[Cooking_as_Practice|厨艺]] — 添加跳过一线等于跳过厨艺次第的类比
+
 ## [2026-05-12] ingest | 和菜头 hct-0329 芜杂：你需要从乱七八糟里看出生机
 
 **源文件**: raw/articles/hct-0329-芜杂-你需要从乱七八糟里看出生机.md

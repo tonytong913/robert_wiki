@@ -70,6 +70,7 @@
 
 ## 相关页面
 
+- [[Disorder_and_Vitality|芜杂：混乱中蕴藏生机]] — 芜杂作为"不够好"的状态，恰恰是孕育突破的土壤
 - [[Intelligence_vs_Wisdom|聪明与智慧]] — 智慧比聪明看得更深更远
 - [[Understanding_Comprehension|理解力]] — 理解力需要亲身经历困苦
 - [[True_Learning_Attitude|真正的学习态度]] — 区分表演式学习与真正学习

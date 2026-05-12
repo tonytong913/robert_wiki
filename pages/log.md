@@ -1,5 +1,19 @@
 # Wiki 操作日志
 
+## [2026-05-12] ingest | 和菜头 hct-0329 芜杂：你需要从乱七八糟里看出生机
+
+**源文件**: raw/articles/hct-0329-芜杂-你需要从乱七八糟里看出生机.md
+
+**新建页面:**
+- [[Disorder_and_Vitality|芜杂：混乱中蕴藏生机]] — 秩序蕴藏于混乱，生机萌生于芜杂，老街与猫传腹双案例
+
+**交叉引用更新:**
+- [[Binary_Thinking|二极管思维]] — 添加整洁=好芜杂=坏的二元对立引用
+- [[Minor_Flaws_Gifts|小毛病是礼物]] — 添加看似缺陷蕴藏价值的关联
+- [[Limitation_as_Gift|局限是礼物]] — 添加芜杂是孕育突破土壤的关联
+- [[Innovation_Lessons_from_Failure|创新：从失败中学习]] — 添加自下而上创新的关联
+- [[Power_of_Completion|完成的力量]] — 添加整洁是结果而非起点的关联
+
 ## [2026-05-11] ingest | 和菜头 hct-0324 小毛病也有它的独特作用
 
 **源文件**: raw/articles/hct-0324-小毛病也有它的独特作用.md

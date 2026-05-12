@@ -91,6 +91,7 @@ confidence: high
 
 ## 相关页面
 
+- [[Disorder_and_Vitality|芜杂：混乱中蕴藏生机]] — 看似缺陷的事物（芜杂）中藏着意想不到的价值
 - [[Self_Perception_Bias]] — 自我认知偏见：我们以为别人在看，其实没有人在意
 - [[Letting_Go_of_Self]] — 放过自己：当你能把痛苦当笑话讲
 - [[Intellectual_Humility]] — 智识谦逊：小毛病是打破智识傲慢的工具

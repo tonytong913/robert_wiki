@@ -79,6 +79,7 @@
 
 ## 相关页面
 
+- [[Disorder_and_Vitality|芜杂：混乱中蕴藏生机]] — 整洁=好芜杂=坏也是典型的二元对立，芜杂自有价值
 - [[Leadership/Integrative_Thinking|整合思考]] - 超越二元对立的思维模式
 - [[Cognitive_Limitation|认知局限]] - 因匮乏而形成的认知边界
 - [[Intellectual_Humility|智识谦逊]] - 承认认知有限的心态

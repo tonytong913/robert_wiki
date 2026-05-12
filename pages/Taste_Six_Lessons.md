@@ -98,6 +98,7 @@ confidence: high
 
 ## 相关页面
 
+- [[Aesthetic_Ladder]] — 审美阶梯：品味困境的出路不是否定品味，而是向上攀登
 - [[Taste_Self_Inflicted_Trouble]] — 品位全文摘要
 - [[Feeding_Ego_vs_Improving_Self]] — 饲养自我 vs 完善自我
 - [[Aesthetic_Authenticity]] — 审美的真实性

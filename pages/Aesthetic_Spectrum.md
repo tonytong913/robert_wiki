@@ -55,6 +55,7 @@ confidence: high
 
 ## 相关页面
 
+- [[Aesthetic_Ladder]] — 审美阶梯：光谱是横向宽度，阶梯是纵向高度，两者互补
 - [[Elegance_and_Vulgarity_Shared]] — Q&A 全文
 - [[Understand_Before_Judging]] — 先理解再判断
 - [[Taste_Self_Inflicted_Trouble]] — 品味的六课

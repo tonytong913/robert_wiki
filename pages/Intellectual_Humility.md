@@ -98,6 +98,7 @@
 - [[Cognitive_Limitation|认知局限]] — 认知边界的形成与突破
 - [[True_Learning_Attitude|真正的学习态度]] — 内在求知心态的建立
 - [[Minor_Flaws_Gifts|小毛病也有它的独特作用]] — 词序颠倒这个小毛病让和菜头无法「斩钉截铁地肯定」，主动打破智识傲慢
+- [[Aesthetic_Ladder]] — 审美阶梯：承认自己可能在低处且愿向上攀登，才是真正的谦逊
 - [[Leadership/L06_Mantra_2_I_Dont_Know|口诀2：我不知道]] — 领导力中的谦逊
 
 ---

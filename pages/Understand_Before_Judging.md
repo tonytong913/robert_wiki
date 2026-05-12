@@ -59,6 +59,7 @@ confidence: high
 
 ## 相关页面
 
+- [[Aesthetic_Ladder]] — 审美阶梯："看不懂"时的反应决定你在阶梯上的位置
 - [[Aesthetic_Spectrum]] — 审美光谱宽与窄
 - [[Elegance_and_Vulgarity_Shared]] — Q&A 全文
 - [[Intellectual_Humility]] — 智识谦逊

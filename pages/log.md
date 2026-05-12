@@ -1,5 +1,21 @@
 # Wiki 操作日志
 
+## [2026-05-12] ingest | 和菜头 hct-0330 审美：攀登阶梯，你必见辽阔之地
+
+**源文件**: raw/articles/hct-0330-审美-攀登阶梯你必见辽阔之地.md
+
+**新建页面:**
+- [[Aesthetic_Ladder|审美：攀登阶梯]] — 审美是观念流变/微积分比喻/美不必然感官愉悦
+
+**交叉引用更新:**
+- [[Aesthetic_Spectrum|审美光谱]] — 添加光谱（横向宽度）+阶梯（纵向高度）补充关系
+- [[Taste_Six_Lessons|品味的六课]] — 添加审美阶梯为品味困境提供出路
+- [[Aesthetic_Authenticity|审美的真实性]] — 添加从"像"标准解放=攀登阶梯的标志
+- [[Shock_vs_Structure|震撼vs心智结构]] — 添加透纳画展的双重体验
+- [[Understand_Before_Judging|先理解再判断]] — 添加理解观念再判断的阶梯视角
+- [[Borrowed_Ideas_vs_True_Self|借来的想法]] — 添加攀登=归还借来标准的过程
+- [[Intellectual_Humility|智识谦逊]] — 添加承认低处愿攀登才是真谦逊
+
 ## [2026-05-12] ingest | 高管做不到双手沾泥也要双脚沾泥
 
 **源文件**: raw/articles/2026-05-12-高管做不到双手沾泥也要双脚沾泥.md

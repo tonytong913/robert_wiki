@@ -61,6 +61,7 @@ confidence: high
 
 ## 相关页面
 
+- [[Aesthetic_Ladder]] — 审美阶梯：透纳画展是震撼引路+心智结构落地的双重体验
 - [[Elegance_and_Vulgarity_Shared]] — Q&A 全文
 - [[Understanding_Comprehension]] — 理解力
 - [[True_Learning_Attitude]] — 真正的学习态度

@@ -80,6 +80,8 @@ confidence: high
 
 ## 相关页面
 
+- [[Aesthetic_Ladder|审美：攀登阶梯]] — 从"像"标准中解放是攀登阶梯的核心标志
+
 - [[Taste_Self_Inflicted_Trouble]] — 品位全文摘要
 - [[Feeding_Ego_vs_Improving_Self]] — 饲养自我 vs 完善自我
 - [[Becoming_Yourself_True_Meaning]] — 成为自己：不服从外界标准

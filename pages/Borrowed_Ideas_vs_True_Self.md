@@ -60,6 +60,7 @@ confidence: high
 
 ## 相关页面
 
+- [[Aesthetic_Ladder]] — 审美阶梯：攀登过程就是把借来的标准还回去的过程
 - [[Elegance_and_Vulgarity_Shared]] — Q&A 全文
 - [[Becoming_Yourself_True_Meaning]] — 成为自己
 - [[Image_Anxiety]] — 形象焦虑

@@ -85,6 +85,7 @@ confidence: high
 
 - [[Ordinary_Life_Extraordinary]] — 全文摘要
 - [[Distance_Hides_Effort]] — 距离遮蔽付出
+- [[Geng_Gong|耿恭：孤城铁血悍将]] — 韧性的极致案例：三次濒死三次生还，反复打击反复站起
 - [[Power_of_Completion]] — 完成的力量
 - [[Choice_Has_Cost]] — 选择皆有代价
 

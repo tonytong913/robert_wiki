@@ -186,6 +186,7 @@ confidence: high
 - [[Ordinary_Life_Extraordinary|普通人：不平凡的生活]] — 完成一段普通人生本身就是了不起的成就
 - [[MEL_Principle_Learning|MEL原则]] — 不需要完美才开始，粗糙的完成也是完成
 
+- [[Geng_Gong|耿恭：孤城铁血悍将]] — 最没条件时的完成：26人守城，13人归国
 - [[Disorder_and_Vitality|芜杂：混乱中蕴藏生机]] — 整洁是结果而非起点，追求整洁过早等于跳过过程
 
 ## 来源

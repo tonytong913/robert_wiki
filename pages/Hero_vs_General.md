@@ -162,6 +162,7 @@ confidence: high
 ## 相关页面
 
 - [[Creator_vs_Evaluator|创作者 vs 评判者]] — 同样角色冲突：同时扮演两角色导致无法完成
+- [[Geng_Gong|耿恭：孤城铁血悍将]] — 与李广对照：英雄在系统外，耿恭在系统内带领大家活下来
 - [[Self_Discipline_Illusion|自律：美好的假象]] — 迎合外界期望而失去内心自由
 - [[Good_Friends_Liangyou|良友]] — 系统内的连接者，将军视角
 - [[Becoming_Yourself_True_Meaning|成为自己]] — 想清楚自己是什么人

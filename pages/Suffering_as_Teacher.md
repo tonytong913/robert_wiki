@@ -85,6 +85,7 @@ confidence: high
 
 ## 相关页面
 
+- [[Geng_Gong|耿恭：孤城铁血悍将]] — 穿越"万死无一生之望"的绝境，受苦作为老师的终极案例
 - [[Self_Discipline_Illusion|自律：美好的假象]] — 受苦找到内心自由后，"自律"自然显现
 - [[Becoming_Yourself_True_Meaning|成为自己]] — 受苦也是认识自己的过程
 - [[Burnout_as_Signal|倦怠：很好的信号]] — 受苦和倦怠都是信号

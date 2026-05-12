@@ -1,5 +1,20 @@
 # Wiki 操作日志
 
+## [2026-05-12] ingest | 和菜头 hct-0331 耿恭：你应该知道的孤城铁血悍将
+
+**源文件**: raw/articles/hct-0331-耿恭-你应该知道的孤城铁血悍将.md
+
+**新建页面:**
+- [[Geng_Gong|耿恭：孤城铁血悍将]] — entity 类型，三次围城分析/领导力多维度/与李广对照
+
+**交叉引用更新:**
+- [[Hero_vs_General|英雄vs将军]] — 添加耿恭与李广对照
+- [[Leadership/L03_Mantra_1_I_Come|L03: 我来]] — 添加耿恭关键时刻挺身而出
+- [[Leadership/L19_Those_Who_Never_Failed|L19: 没有犯过大错的人]] — 添加极限压力下判断力
+- [[Resilience_in_Ordinary_Life|普通生活中的韧性]] — 添加耿恭作为韧性极致案例
+- [[Suffering_as_Teacher|受苦：通往内心自由]] — 添加穿越万死创造奇迹
+- [[Power_of_Completion|完成的力量]] — 添加最没条件时的完成
+
 ## [2026-05-12] ingest | 和菜头 hct-0330 审美：攀登阶梯，你必见辽阔之地
 
 **源文件**: raw/articles/hct-0330-审美-攀登阶梯你必见辽阔之地.md

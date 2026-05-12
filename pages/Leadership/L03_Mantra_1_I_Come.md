@@ -260,6 +260,7 @@
 
 - [[Leadership/L02_Leadership_is_Leadership|导论01讲：领导力其实是领袖力]]
 - [[Leadership/L01_Why_You_Need_Leadership|发刊词：你为什么需要领导力]]
+- [[Geng_Gong|耿恭：孤城铁血悍将]] — 三次围城中每个关键时刻"我来"的极致体现
 - [[Executive_Feet_in_the_Mud|高管：双脚沾泥]] — "我来"的具体表现：不是等下属送信息，而是自己走到一线去
 
 ---

@@ -72,6 +72,7 @@
 - [[Communication/Expressive_Power_Shortcuts|提升表达力的捷径]] — 表达力的核心原则
 - [[Leadership/L11_Mantra_3_What_Do_You_Think|口诀3 - 你觉得呢]] — 集思广益的沟通方式
 - [[True_Learning_Attitude|真正的学习态度]] — 区分表演式学习与真正学习
+- [[Listening_The_Art|倾听：把刀收进鞘里]] — 真正的说服不是给方案，而是让对方自己找到答案
 
 ## 来源
 

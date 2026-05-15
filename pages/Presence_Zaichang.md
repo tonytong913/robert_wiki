@@ -94,6 +94,7 @@ confidence: high
 - [[Interestingness|有趣]] — 在场是有趣的**根源**；有趣是在场的**结果**
 - [[Self_Deprecation_Humor|自嘲式幽默]] — 在场的一种具体表现——跳出自我享受自嘲
 - [[Peace_of_Mind_Settling_the_Heart|安心]] — 在场和第三方立场都能通往安心
+- [[Listening_The_Art|倾听：把刀收进鞘里]] — 倾听的核心就是在场：全神贯注地陪伴对方，忍住不发言
 
 ---
 

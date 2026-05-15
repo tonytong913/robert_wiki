@@ -1,5 +1,25 @@
 # Wiki 操作日志
 
+## [2026-05-15] ingest | 和菜头 hct-0406 倾听：把你的刀收进鞘里
+
+**源文件**: raw/articles/hct-0406-倾听把你的刀收进鞘里.md
+
+**新建页面:**
+- [[Listening_The_Art|倾听：把刀收进鞘里]] — 两件事+一句话的倾听公式，手术刀与软木塞的比喻
+- [[Emotional_Comfort_vs_Problem_Solving|情感抚慰vs解决问题]] — 倾听中的频率错位：朋友要抚慰你给方案
+- [[Smart_People_Arrogance|聪明人的傲慢]] — 瑞士军刀综合症：聪明人忍不住总要解决问题
+
+**交叉引用更新:**
+- [[Emotional_vs_Rational_Self|感性小人vs理性小人]] — 添加倾听中频率错位：对方感性主导要抚慰，你理性主导给方案
+- [[Intellectual_Humility|智识谦逊]] — 添加忍住不展示才智、收敛锋芒的倾听视角
+- [[Binary_Thinking|二极管思维]] — 添加倾听中不是非要给方案才算帮忙
+- [[Equal_Dialogue|平等对话]] — 添加倾听是平等对话的基础，急着给建议破坏平等
+- [[Good_Friends_Liangyou|良友]] — 添加良友是软木塞而非手术刀，倾听是良友的核心能力
+- [[The_Art_of_Persuasion|说服的艺术]] — 添加真正的说服是让对方自己找到答案
+- [[Third_Party_Perspective|第三方立场]] — 添加第三方立场帮助识别对方需要抚慰还是方案
+- [[Presence_Zaichang|在场]] — 添加倾听的核心就是在场：全神贯注陪伴对方
+- [[Admitting_Mistakes|承认错误]] — 添加承认自己曾有忍不住给建议的毛病
+
 ## [2026-05-15] ingest | 和菜头 hct-0405 股票：那些年股市给我上过的课
 
 **源文件**: raw/articles/hct-0405-股票那些年股市给我上过的课.md

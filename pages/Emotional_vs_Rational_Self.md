@@ -146,6 +146,8 @@ confidence: high
 - [[Hero_vs_General|英雄 vs 将军]] — 另一种角色冲突
 - [[Temperament_and_Investing|性格与投资]] — 股市中感性放大十倍、理性失效的极端案例
 - [[Stock_Market_Mirror|股市：认识自己的镜子]] — 两个小人在K线图前的终极角斗
+- [[Listening_The_Art|倾听：把刀收进鞘里]] — 倾听中的频率错位：对方感性主导要抚慰，你理性主导给方案
+- [[Emotional_Comfort_vs_Problem_Solving|情感抚慰vs解决问题]] — 频率错位的具体解剖
 
 ## 来源
 

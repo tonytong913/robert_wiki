@@ -101,6 +101,8 @@
 - [[Aesthetic_Ladder]] — 审美阶梯：承认自己可能在低处且愿向上攀登，才是真正的谦逊
 - [[Leadership/L06_Mantra_2_I_Dont_Know|口诀2：我不知道]] — 领导力中的谦逊
 - [[Stock_Market_Mirror|股市：认识自己的镜子]] — 承认自己不是巴菲特，认识自己的能力圈
+- [[Smart_People_Arrogance|聪明人的傲慢]] — 忍住不展示才智，把收敛锋芒视为一种智慧
+- [[Listening_The_Art|倾听：把刀收进鞘里]] — 倾听是对才智锋芒的收敛
 
 ---
 

@@ -157,6 +157,7 @@ confidence: high
 - [[Becoming_Yourself_True_Meaning|成为自己]] — 良友帮助我们在群体中实现自我
 - [[Wholesale_to_Retail_Socializing|从批发到零售式社交]] — 良友存在于零售式的小圈子里，而非批发式的大场面
 - [[Socializing_Salt_of_Life|社交：人类社会的盐]] — 社交是必需但需适量，良友让社交浓度恰到好处
+- [[Listening_The_Art|倾听：把刀收进鞘里]] — 良友是软木塞而非手术刀，倾听是良友的核心能力
 
 ## 来源
 

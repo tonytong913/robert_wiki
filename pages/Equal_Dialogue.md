@@ -72,6 +72,8 @@
 - [[Leadership/L11_Mantra_3_What_Do_You_Think|口诀3 - 你觉得呢]] — 集思广益
 - [[Intellectual_Humility|智识谦逊]] — 承认认知有限的心态
 - [[Integrative_Thinking|整合思考]] — 超越二元对立的思维模式
+- [[Listening_The_Art|倾听：把刀收进鞘里]] — 倾听是平等对话的前提，急着给建议破坏了平等
+- [[Smart_People_Arrogance|聪明人的傲慢]] — 瑞士军刀综合症摧毁了平等对话
 
 ---
 

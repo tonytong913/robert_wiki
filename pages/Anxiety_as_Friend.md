@@ -206,6 +206,8 @@ confidence: high
 - [[Unbinding_the_Heart|解绑]] — 焦虑是心被念头绑架的结果，解绑后焦虑失去束缚力
 - [[Freedom_from_Fear|从恐惧中解脱]] — 恐惧和焦虑都是自己制造的情感
 - [[Burnout_as_Signal|倦怠：很好的信号]] — 另一种被误解的"负面"情感
+- [[Poor_But_Happy|穷开心]] — 用创造性上瘾替代消费性上瘾来化解匮乏期的焦虑
+- [[Wealth_Accumulation_Anxiety|财富焦虑]] — 欲望随收入等比放大，焦虑没有终点
 
 ## 来源
 

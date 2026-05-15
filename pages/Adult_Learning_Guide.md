@@ -54,6 +54,7 @@
 - [[MEL_Principle_Learning|MEL原则]] — 不理想条件下也要完成学习
 - [[Becoming_Yourself_True_Meaning|成为自己]] - 全面认知自我，用不完美的自己达成美好
 
+- [[Transforming_Scarcity_Into_Growth|匮乏转化为成长]] — 20多岁是学习效率的黄金窗口
 ## 来源
 
 - [hct-0114-想做就做敢爱敢恨是成为自己的好方法吗](../raw/articles/hct-0114-想做就做敢爱敢恨是成为自己的好方法吗.md)

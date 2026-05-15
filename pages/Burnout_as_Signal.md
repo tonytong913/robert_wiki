@@ -166,6 +166,7 @@ confidence: high
 - [[Fear_Management|恐惧管理]] — 连续打击后的情绪处理
 - [[Peace_of_Mind_Settling_the_Heart|安心]] — 心放在合适的位置
 
+- [[Transforming_Scarcity_Into_Growth|匮乏转化为成长]] — 匮乏和倦怠的对比：一种需要停下来，一种需要动起来
 ## 来源
 
 - [hct-0207 倦怠：为什么说倦怠是一个很好的信号](../raw/articles/hct-0207-倦怠为什么说倦怠是一个很好的信号.md)

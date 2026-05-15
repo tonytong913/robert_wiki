@@ -131,6 +131,7 @@
 - [[Self_Perception_Bias|自我认知偏见]] — 破除「别人都在看」的偏见，才能真正成为自己
 - [[Stock_Market_Mirror|股市：认识自己的镜子]] — 花费30%本金认清自己不适合炒股，是一笔划算的生意
 - [[Temperament_and_Investing|性格与投资]] — 认识自己的性情比分析市场更有价值
+- [[Poor_But_Happy|穷开心]] — 穷开心帮你认识自己真正喜欢和擅长什么
 
 ## 来源
 

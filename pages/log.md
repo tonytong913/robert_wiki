@@ -1,5 +1,26 @@
 # Wiki 操作日志
 
+## [2026-05-15] ingest | 和菜头 hct-0407 穷开心：怎样度过走入社会的匮乏期
+
+**源文件**: raw/articles/hct-0407-穷开心怎样度过走入社会的匮乏期.md
+
+**新建页面:**
+- [[Poor_But_Happy|穷开心：匮乏期的最佳策略]] — 用创造性上瘾替代消费性上瘾，爱好最终变成事业
+- [[Wealth_Accumulation_Anxiety|财富焦虑]] — 欲望随收入等比放大，任何收入层都不够用
+- [[Transforming_Scarcity_Into_Growth|匮乏转化为成长]] — 不应期的超高学习效率，20多岁是黄金窗口
+
+**交叉引用更新:**
+- [[Power_of_Completion|完成的力量]] — 添加穷开心→爱好→事业的完成路径
+- [[Anxiety_as_Friend|焦虑：好朋友]] — 添加穷开心和财富焦虑作为新维度的交叉引用
+- [[Becoming_Yourself_True_Meaning|成为自己]] — 添加穷开心帮人认识自己真正喜欢什么
+- [[Choice_Has_Cost|选择皆有代价]] — 添加财富焦虑：收入涨4倍欲望涨10倍
+- [[Resilience_in_Ordinary_Life|普通生活中的韧性]] — 添加穷开心和匮乏转化交叉引用
+- [[Career_Transition|职业转型]] — 添加业余爱好引领职业转变
+- [[Adult_Learning_Guide|成年人学习指南]] — 添加20多岁学习效率黄金窗口
+- [[Creator_vs_Evaluator|创作者vs评判者]] — 添加穷开心是创作者模式的引用
+- [[Burnout_as_Signal|倦怠：信号]] — 添加匮乏与倦怠的对比
+- [[MEL_Principle_Learning|MEL原则]] — 添加穷开心就是MEL的实践
+
 ## [2026-05-15] ingest | 和菜头 hct-0406 倾听：把你的刀收进鞘里
 
 **源文件**: raw/articles/hct-0406-倾听把你的刀收进鞘里.md

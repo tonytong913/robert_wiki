@@ -86,6 +86,7 @@ confidence: high
 - [[Third_Party_Perspective|第三方立场]] — 评判需要第三方视角，但不能用在创作过程中
 - [[Learning_Burnout|学习倦怠]] — 角色冲突导致倦怠
 
+- [[Poor_But_Happy|穷开心]] — 穷开心是创作者模式：不计收益地投入创造
 ## 来源
 
 - [hct-0210 我问和菜头：怎样看待及时止损和完成的关系](../raw/articles/2026-04-30-hct-0210-我问和菜头及时止损和完成的关系.md)

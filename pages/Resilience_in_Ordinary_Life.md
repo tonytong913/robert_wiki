@@ -88,6 +88,8 @@ confidence: high
 - [[Geng_Gong|耿恭：孤城铁血悍将]] — 韧性的极致案例：三次濒死三次生还，反复打击反复站起
 - [[Power_of_Completion]] — 完成的力量
 - [[Choice_Has_Cost]] — 选择皆有代价
+- [[Poor_But_Happy|穷开心]] — 普通人度过匮乏年代的能力就是韧性
+- [[Transforming_Scarcity_Into_Growth|匮乏转化为成长]] — 把匮乏变成最高效的学习窗口
 
 ---
 

@@ -89,6 +89,7 @@ confidence: medium
 - [[Resilience_in_Ordinary_Life|普通生活中的韧性]] — 每次选择都有代价，普通人反复承担代价仍然乐观
 - [[Stock_Market_Mirror|股市：认识自己的镜子]] — 30%本金是认识自己的代价，但这笔账算下来是赚的
 - [[Temperament_and_Investing|性格与投资]] — 选择炒股或不炒股，都有对应的代价
+- [[Wealth_Accumulation_Anxiety|财富焦虑]] — 收入涨4倍欲望涨10倍：每个选择自带更高的欲望套餐
 
 ## 来源
 

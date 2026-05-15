@@ -189,6 +189,8 @@ confidence: high
 - [[Geng_Gong|耿恭：孤城铁血悍将]] — 最没条件时的完成：26人守城，13人归国
 - [[Disorder_and_Vitality|芜杂：混乱中蕴藏生机]] — 整洁是结果而非起点，追求整洁过早等于跳过过程
 - [[Stock_Market_Mirror|股市：认识自己的镜子]] — 两年不动的遗忘账户是和菜头唯一成功的"长期持有"——不动也是一种完成
+- [[Poor_But_Happy|穷开心]] — 穷开心的爱好最终变成完成的事业：写作→约稿→进入互联网行业
+- [[Transforming_Scarcity_Into_Growth|匮乏转化为成长]] — 把匮乏期变成最高效的成长窗口
 
 ## 来源
 

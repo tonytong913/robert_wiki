@@ -93,6 +93,10 @@ confidence: high
 
 ---
 
+- [[Upward_Responsibility_Shifting|向上责任转移]] — 反向对照：推责高管的操作手法
+- [[Abusive_Delegation|滥授权]] — 反向对照：以培养为名的责任抛弃
+- [[Workplace_Manipulation_Tactics|职场操纵伎俩]] — 节能型高管的完整画像
+
 ## 来源
 
 - [高管做不到双手沾泥也要双脚沾泥](../raw/articles/2026-05-12-高管做不到双手沾泥也要双脚沾泥.md)

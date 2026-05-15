@@ -1,5 +1,19 @@
 # Wiki 操作日志
 
+## [2026-05-15] ingest | 职场操纵术：向上责任转移与向下滥授权
+
+**源文件**: raw/articles/2026-05-15-职场操纵术向上责任转移与向下滥授权.md（图片OCR提取）
+
+**新建页面:**
+- [[Upward_Responsibility_Shifting|向上责任转移]] — 故意留漏洞诱导CEO"指导"，失败后推责
+- [[Abusive_Delegation|滥授权：以培养为名的责任逃避]] — 以"给机会"为名抛给员工远超能力的工作
+- [[Workplace_Manipulation_Tactics|职场操纵伎俩：节能型高管]] — 动嘴刷脸搭便车，零贡献获取全利益
+
+**交叉引用更新:**
+- [[Executive_Feet_in_the_Mud|高管：双脚沾泥]] — 反向对照：推责高管vs真正的高管
+- [[Leadership/L03_Mantra_1_I_Come|领导力口诀：我来]] — "我来"的反面：责任转移
+- [[Leadership/L07_Leadership_vs_Management|领导与管理]] — 假领导力的真面目
+
 ## [2026-05-15] ingest | 和菜头 hct-0407 穷开心：怎样度过走入社会的匮乏期
 
 **源文件**: raw/articles/hct-0407-穷开心怎样度过走入社会的匮乏期.md

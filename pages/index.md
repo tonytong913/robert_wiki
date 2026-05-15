@@ -1,11 +1,11 @@
 # Wiki 索引
 
-*最后更新: 2026-05-15 — 摄入和菜头 hct-0407 穷开心：怎样度过走入社会的匮乏期
+*最后更新: 2026-05-15 — 摄入职场操纵术：向上责任转移与向下滥授权
 
 ## 统计
 
-- **源文档:** 45
-- **页面:** 121+
+- **源文档:** 46
+- **页面:** 124+
 
 ## 源文档
 
@@ -60,6 +60,7 @@
 
 ### 技术文档
 - [LiteLLM 多 Provider 统一代理配置指南](../raw/articles/litellm-multi-provider-guide.md) - 在 Alibaba Cloud Linux 3 上搭建 LiteLLM 聚合通义千问/Kimi/智谱/DeepSeek
+- [职场操纵术：向上责任转移与向下滥授权](../raw/articles/2026-05-15-职场操纵术向上责任转移与向下滥授权.md) - 节能型高管的双重伎俩：以拥护为名推责向上、以培养为由滥授权向下
 - [ReAct 模式：AI Agent 推理+行动架构](../raw/articles/2026-05-04-ReAct-pattern.md) - Google & Princeton 2022，Thought→Action→Observation 四步闭环
 
 ### 管理实践
@@ -210,6 +211,9 @@
 ### 管理与领导力实践
 - [[Geng_Gong|耿恭：孤城铁血悍将]] — 三次围城三次生还，不屈意志的极致、值得以命相托的将领
 - [[Executive_Feet_in_the_Mud|高管：做不到双手沾泥也要双脚沾泥]] — 答案在现场一线有神明，高管可不动手但不能不动脚
+- [[Upward_Responsibility_Shifting|向上责任转移]] — 故意留漏洞让CEO"指导"，失败后推责给领导
+- [[Abusive_Delegation|滥授权：以培养为名的责任逃避]] — 不考虑员工能力就抛任务，实为找替罪羊
+- [[Workplace_Manipulation_Tactics|职场操纵伎俩：节能型高管]] — 动嘴刷脸搭便车，获取本不属于自己的成果
 - [[Stock_Market_Mirror|股市：认识自己的镜子]] — 比分析股票更重要的是认识自己，30%本金认识自己是划算的生意
 - [[Temperament_and_Investing|性格与投资]] — 感觉敏锐的人不适合炒股，每种情绪被放大十倍
 - [[Insider_Trading_Myth|内线消息的迷思]] — 谁会把发财的机会无偿分享给别人？

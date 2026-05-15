@@ -137,6 +137,8 @@ confidence: high
 - [[Third_Party_Perspective|第三方立场]] — 从自身抽离以旁观者视角观察
 - [[Fear_as_Fuel|恐惧也能作为燃料]] — 一切负面情绪都可作燃料，焦虑是慢火，恐惧是烈性燃料
 - [[Burnout_as_Signal|倦怠：很好的信号]] — 另一种负面情感的正确态度
+- [[Temperament_and_Investing|性格与投资]] — 股市中恐惧被放大十倍，大盘未击倒前自己先倒
+- [[Stock_Market_Mirror|股市：认识自己的镜子]] — 从股市恐惧中认识自己
 
 ## 来源
 

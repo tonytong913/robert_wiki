@@ -144,6 +144,8 @@ confidence: high
 - [[Power_of_Completion|完成的力量]] — 结果治愈焦虑，感性小人需要结果
 - [[Third_Party_Perspective|第三方立场]] — 理性审视的主动版本
 - [[Hero_vs_General|英雄 vs 将军]] — 另一种角色冲突
+- [[Temperament_and_Investing|性格与投资]] — 股市中感性放大十倍、理性失效的极端案例
+- [[Stock_Market_Mirror|股市：认识自己的镜子]] — 两个小人在K线图前的终极角斗
 
 ## 来源
 

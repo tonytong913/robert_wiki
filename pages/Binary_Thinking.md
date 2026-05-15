@@ -84,6 +84,7 @@
 - [[Cognitive_Limitation|认知局限]] - 因匮乏而形成的认知边界
 - [[Intellectual_Humility|智识谦逊]] - 承认认知有限的心态
 - [[Open_Mindset|开放心态]] - 准备随时放弃旧观点
+- [[Stock_Market_Mirror|股市：认识自己的镜子]] - 技术分析vs价值投资不是非此即彼，真正的答案是认识自己
 
 ## 来源
 

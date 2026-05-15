@@ -81,6 +81,8 @@ confidence: high
 - [[Freedom_from_Fear|从恐惧中解脱]] — 恐惧的本质是想象出来的情感，用具体化和观众视角解脱
 - [[Third_Party_Perspective|第三方立场]] — 切分法本质上是从第三方视角看问题，不把自己卷入叙事
 - [[Power_of_Completion|完成的力量]] — 恐惧是完成过程中必然遇到的障碍，管理恐惧才能完成
+- [[Temperament_and_Investing|性格与投资]] — 股市中恐惧被放大十倍，感性强烈的人不适合炒股
+- [[Freedom_from_Fear|从恐惧中解脱]] — 恐惧的本质和跳出恐惧的三种方法
 
 ## 来源
 

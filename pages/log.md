@@ -1,5 +1,26 @@
 # Wiki 操作日志
 
+## [2026-05-15] ingest | 和菜头 hct-0405 股票：那些年股市给我上过的课
+
+**源文件**: raw/articles/hct-0405-股票那些年股市给我上过的课.md
+
+**新建页面:**
+- [[Stock_Market_Mirror|股市：认识自己的镜子]] — 比分析股票更重要的是认识自己，30%本金认识自己是划算的生意
+- [[Temperament_and_Investing|性格与投资]] — 感觉敏锐的人不适合炒股，每种情绪被放大十倍
+- [[Insider_Trading_Myth|内线消息的迷思]] — 谁会把发财的机会无偿分享给别人？
+
+**交叉引用更新:**
+- [[Becoming_Yourself_True_Meaning|成为自己]] — 添加股市认识自己的交叉引用
+- [[Fear_Management|恐惧管理]] — 添加股市放大恐惧和性格与投资交叉引用
+- [[Admitting_Mistakes|承认错误]] — 添加承认不适合炒股、终止所有交易的交叉引用
+- [[Letting_Go_of_Self|放过自己]] — 添加遗忘账户：唯一成功的"不动"投资
+- [[Intellectual_Humility|智识谦逊]] — 添加承认自己不是巴菲特、认识能力圈
+- [[Emotional_vs_Rational_Self|感性小人vs理性小人]] — 添加股市中感性放大十倍、理性失效的极端案例
+- [[Freedom_from_Fear|从恐惧中解脱]] — 添加股市恐惧放大十倍的交叉引用
+- [[Choice_Has_Cost|选择皆有代价]] — 添加30%本金作为认识自己代价的交叉引用
+- [[Binary_Thinking|二极管思维]] — 添加技术分析vs价值投资的二元对立，真正的答案是认识自己
+- [[Power_of_Completion|完成的力量]] — 添加遗忘账户：两年不动=唯一成功的长期持有
+
 ## [2026-05-12] ingest | 和菜头 hct-0331 耿恭：你应该知道的孤城铁血悍将
 
 **源文件**: raw/articles/hct-0331-耿恭-你应该知道的孤城铁血悍将.md

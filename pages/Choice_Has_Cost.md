@@ -87,6 +87,8 @@ confidence: medium
 - [[Anxiety_as_Friend|焦虑：好朋友]] — 焦虑不可消除，只可转化
 - [[Passion_Is_Self_Knowledge|热爱其实是认识自己]] — 不快乐的人总以为存在快乐彼岸
 - [[Resilience_in_Ordinary_Life|普通生活中的韧性]] — 每次选择都有代价，普通人反复承担代价仍然乐观
+- [[Stock_Market_Mirror|股市：认识自己的镜子]] — 30%本金是认识自己的代价，但这笔账算下来是赚的
+- [[Temperament_and_Investing|性格与投资]] — 选择炒股或不炒股，都有对应的代价
 
 ## 来源
 

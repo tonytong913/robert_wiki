@@ -104,8 +104,7 @@ confidence: high
 - [[Self_Deprecation_Humor]] — 自嘲式幽默：把痛苦变成笑话的艺术
 - [[Third_Party_Perspective]] — 第三方立场：从自我叙事中抽离
 - [[Limitation_as_Gift]] — 局限作为礼物：缺陷也是礼物的视角转变
-
-## 来源
+- [[Stock_Market_Mirror]] — 遗忘账户：两年不看的账户才是
 
 - [hct-0324 小毛病也有它的独特作用](../raw/articles/hct-0324-小毛病也有它的独特作用.md)
 

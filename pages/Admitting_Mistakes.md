@@ -97,6 +97,8 @@
 - [[Self_Doubt|自我怀疑]] - 建设性质疑是突破局限的契机
 - [[True_Learning_Attitude|真正的学习态度]] - 承认无知是学习的第一步
 - [[Leadership/L06_Mantra_2_I_Dont_Know|口诀2：我不知道]] - 领导力中的谦逊学习
+- [[Stock_Market_Mirror|股市：认识自己的镜子]] - 承认自己不适合炒股，终止所有交易
+- [[Letting_Go_of_Self|放过自己]] - 承认错误后的释然：遗忘账户的唯一成功
 
 ## 来源
 

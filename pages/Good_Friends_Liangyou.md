@@ -9,7 +9,9 @@ related:
   - "[[Becoming_Yourself_True_Meaning]]"
   - "[[Wholesale_to_Retail_Socializing]]"
   - "[[Socializing_Salt_of_Life]]"
-tags: [良友, 社交, 组织力, 群体, 行动力, 归属感]
+  - "[[Punctuality_Finding_Your_People]]"
+  - "[[Step_Synchronization]]"
+tags: [良友, 社交, 组织力, 群体, 行动力, 归属感, 守时, 步调一致]
 created: 2026-05-01
 updated: 2026-05-01
 confidence: high
@@ -158,6 +160,8 @@ confidence: high
 - [[Wholesale_to_Retail_Socializing|从批发到零售式社交]] — 良友存在于零售式的小圈子里，而非批发式的大场面
 - [[Socializing_Salt_of_Life|社交：人类社会的盐]] — 社交是必需但需适量，良友让社交浓度恰到好处
 - [[Listening_The_Art|倾听：把刀收进鞘里]] — 良友是软木塞而非手术刀，倾听是良友的核心能力
+- [[Punctuality_Finding_Your_People|守时：帮你找到自己人]] — 守时是步调一致的表现，良友的群体天然需要同步
+- [[Step_Synchronization|步调一致]] — 良友群体的凝聚力来自共享的时间节奏
 
 ## 来源
 

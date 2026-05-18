@@ -1,5 +1,22 @@
 # Wiki 操作日志
 
+## [2026-05-18] ingest | 和菜头：守时帮你找到自己人
+
+**源文件**: raw/articles/hct-0414-29-守时帮你找到自己人.md
+
+**新建页面**:
+- [[Punctuality_Finding_Your_People]] — 守时的核心概念页
+- [[Step_Synchronization]] — 步调一致的三种来源
+- [[Punctuality_Two_Signals]] — 不守时的两个隐藏信号
+
+**更新页面**:
+- [[Good_Friends_Liangyou]] — 添加守时/步调一致交叉引用
+- [[Wholesale_to_Retail_Socializing]] — 添加守时交叉引用
+
+**级联影响的页面**: 5个新建+已有页面涉及
+
+---
+
 ## [2026-05-15] ingest | 职场操纵术：向上责任转移与向下滥授权
 
 **源文件**: raw/articles/2026-05-15-职场操纵术向上责任转移与向下滥授权.md（图片OCR提取）

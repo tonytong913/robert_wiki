@@ -6,7 +6,9 @@ sources:
 related:
   - "[[Socializing_Salt_of_Life]]"
   - "[[Good_Friends_Liangyou]]"
-tags: [社交, 批发式社交, 零售式社交, 社交圈筛选, 深度关系]
+  - "[[Punctuality_Finding_Your_People]]"
+  - "[[Step_Synchronization]]"
+tags: [社交, 批发式社交, 零售式社交, 社交圈筛选, 深度关系, 守时]
 created: 2026-05-06
 updated: 2026-05-06
 confidence: high
@@ -96,6 +98,8 @@ confidence: high
 
 - [[Socializing_Salt_of_Life]] — 社交是人类社会的盐，找到最适合的咸度
 - [[Good_Friends_Liangyou]] — 良友是组织者，让一群人拥有行动力和归属感
+- [[Punctuality_Finding_Your_People|守时：帮你找到自己人]] — 零售式小圈子天然形成守时文化，对时间的尊重是深度交往的前提
+- [[Step_Synchronization|步调一致]] — 零售式社交的核心机制：少数人的高度同步
 
 ## 来源
 

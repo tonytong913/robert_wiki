@@ -6,6 +6,7 @@ sources:
 related:
   - "[[Leadership/L03_Mantra_1_I_Come|L03: 口诀1 - 我来]]"
   - "[[Leadership/L07_Leadership_vs_Management|L07: 领导与管理]]"
+  - "[[Oversensitive_Executives|过于敏感的高管]]"
   - "[[Understanding_Comprehension|理解力]]"
   - "[[Mastery_Before_Balance|先有功力再谈火候]]"
   - "[[Cooking_as_Practice|厨艺：作为修行法门]]"

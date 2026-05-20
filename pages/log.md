@@ -1,5 +1,21 @@
 # Wiki 操作日志
 
+## [2026-05-20] ingest | 过于敏感的高管
+
+**源文件**: raw/books/过于敏感的高管.md
+
+**新建页面**:
+- [[Oversensitive_Executives]] — 过于敏感的高管：四种过度敏感表现、自己累也让团队累
+
+**更新页面**:
+- [[Executive_Feet_in_the_Mud]] — 添加交叉引用
+- [[Emotional_Intelligence]] — 添加交叉引用
+- [[Emotional_Comfort_vs_Problem_Solving]] — 添加交叉引用
+
+**级联影响的页面**: 4个页面
+
+---
+
 ## [2026-05-18] ingest | 和菜头：守时帮你找到自己人
 
 **源文件**: raw/articles/hct-0414-29-守时帮你找到自己人.md

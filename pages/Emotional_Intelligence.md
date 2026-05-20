@@ -60,6 +60,7 @@
 ## 相关页面
 
 - [[The_Art_of_Persuasion|说服的艺术]] — 五个层次的说服策略
+- [[Oversensitive_Executives|过于敏感的高管]] — 情感自我管理失败的反面案例
 - [[Leadership/L09_Two_Relationships|两种关系]] — 领导力中的关系类型
 - [[Leadership/L11_Mantra_3_What_Do_You_Think|口诀3 - 你觉得呢]] — 集思广益的沟通方式
 - [[Gratitude_Right_Attitude|感恩的正确态度]] — 给予与接受的心态

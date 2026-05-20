@@ -123,6 +123,7 @@ confidence: high
 
 - [[Listening_The_Art|倾听：把刀收进鞘里]] — 倾听的完整艺术
 - [[Emotional_vs_Rational_Self|感性小人 vs 理性小人]] — 对方感性主导，你理性主导，是错位的根源
+- [[Oversensitive_Executives|过于敏感的高管]] — 当领导者把寻求情感安慰置于解决问题之上
 - [[Smart_People_Arrogance|聪明人的傲慢]] — 忍不住给建议背后的傲慢心理
 - [[Equal_Dialogue|平等对话]] — 倾听是平等交流的基础
 - [[Anxiety_as_Friend|焦虑：好朋友]] — 倾诉是释放焦虑的途径

@@ -2,6 +2,7 @@
 title: 过于敏感的高管：自己累也让团队累
 type: concept
 sources:
+  - 真高管100读，页码 070/150
   - raw/books/过于敏感的高管.md
 related:
   - "[[Executive_Feet_in_the_Mud|高管：双脚沾泥]]"
@@ -107,7 +108,7 @@ confidence: high
 
 ## 来源
 
-- [过于敏感的高管](../raw/books/过于敏感的高管.md)
+- [过于敏感的高管](../raw/books/过于敏感的高管.md) —《真高管100读》页码 070/150
 
 ---
 

@@ -7,6 +7,7 @@ related:
   - "[[Leadership/L03_Mantra_1_I_Come|L03: 口诀1 - 我来]]"
   - "[[Leadership/L07_Leadership_vs_Management|L07: 领导与管理]]"
   - "[[Oversensitive_Executives|过于敏感的高管]]"
+  - "[[True_Executive|真高管]]"
   - "[[Understanding_Comprehension|理解力]]"
   - "[[Mastery_Before_Balance|先有功力再谈火候]]"
   - "[[Cooking_as_Practice|厨艺：作为修行法门]]"
@@ -94,6 +95,7 @@ confidence: high
 
 ---
 
+- [[True_Executive|真高管]] — 真高管的定义：对内领导一号位、对外代表竞争力，双脚沾泥是必要条件
 - [[Upward_Responsibility_Shifting|向上责任转移]] — 反向对照：推责高管的操作手法
 - [[Abusive_Delegation|滥授权]] — 反向对照：以培养为名的责任抛弃
 - [[Workplace_Manipulation_Tactics|职场操纵伎俩]] — 节能型高管的完整画像

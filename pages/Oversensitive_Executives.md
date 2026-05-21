@@ -6,6 +6,7 @@ sources:
   - raw/books/过于敏感的高管.md
 related:
   - "[[Executive_Feet_in_the_Mud|高管：双脚沾泥]]"
+  - "[[True_Executive|真高管]]"
   - "[[Emotional_Intelligence|情感智能]]"
   - "[[Emotional_Comfort_vs_Problem_Solving|情感安慰 vs 解决问题]]"
   - "[[Leadership/L03_Mantra_1_I_Come|L03: 口诀1 - 我来]]"
@@ -99,6 +100,7 @@ confidence: high
 
 ## 相关页面
 
+- [[True_Executive|真高管]] — 真高管的本质是对内领导、对外代表竞争力，过度敏感与此背道而驰
 - [[Executive_Feet_in_the_Mud|高管：双脚沾泥]] — 高管的注意力该放在哪里：一线现场，而非办公室政治
 - [[Emotional_Intelligence|情感智能]] — 自我觉察和情绪管理是领导者的基础能力
 - [[Emotional_Comfort_vs_Problem_Solving|情感安慰 vs 解决问题]] — 领导者应聚焦解决问题而非寻求情感安慰

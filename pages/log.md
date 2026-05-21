@@ -1,5 +1,19 @@
 # Wiki 操作日志
 
+## [2026-05-21] ingest | 真高管第001页——真高管就是胜任的CXO吗
+
+**源文件**: raw/books/真高管_001_真高管就是胜任的CXO吗.md
+
+**操作**:
+- 保存源文件到 raw/books/
+- 创建 [[True_Executive|真高管]] 概念页
+- 更新 [[Executive_Feet_in_the_Mud|高管双脚沾泥]] 交叉引用
+- 更新 [[Oversensitive_Executives|过于敏感的高管]] 交叉引用
+- 更新 MEMORY.md 新增真高管概念
+- 更新 pages/index.md
+
+---
+
 ## [2026-05-20] ingest | 过于敏感的高管
 
 **源文件**: raw/books/过于敏感的高管.md

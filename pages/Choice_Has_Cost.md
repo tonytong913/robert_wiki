@@ -3,11 +3,14 @@ title: Choice_Has_Cost
 type: concept
 sources:
   - raw/articles/hct-0226-我问和菜头-恐惧也能作为燃料吗.md
+  - raw/articles/hct-0420-31-选择如何选出合适的人生选项.md
 related:
   - "[[Choose_Bear_Receive]]"
   - "[[Family_of_Origin]]"
   - "[[Fear_as_Fuel]]"
   - "[[Anxiety_as_Friend]]"
+  - "[[Making_Life_Choices|人生选择]]"
+  - "[[Regret_Test|后悔测试]]"
   - "[[Passion_Is_Self_Knowledge]]"
 tags: [选择, 代价, 焦虑, 归宿, 人生]
 created: 2026-05-04

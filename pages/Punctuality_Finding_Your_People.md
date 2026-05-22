@@ -3,9 +3,12 @@ title: 守时：帮你找到自己人
 type: concept
 sources:
   - raw/articles/hct-0414-29-守时帮你找到自己人.md
+  - raw/articles/hct-0416-我问和菜头-怎样看待早到的人.md
 related:
   - "[[Step_Synchronization]]"
   - "[[Punctuality_Two_Signals]]"
+  - "[[Arriving_Early|早到：天真烂漫的不守时]]"
+  - "[[Honest_Conversation_Test|坦率谈话：测试友谊]]"
   - "[[Good_Friends_Liangyou]]"
   - "[[Wholesale_to_Retail_Socializing]]"
 tags: [守时, 人际关系, 筛选, 群体认同, 步调一致]
@@ -71,13 +74,33 @@ confidence: high
 
 - [[Step_Synchronization|步调一致：人际关系的同步机制]] — 步调一致的三层含义与群体认同
 - [[Punctuality_Two_Signals|不守时的两个隐藏信号]] — 关系不对等 vs 不属于群体
+- [[Arriving_Early|早到：天真烂漫的不守时]] — 迟到是关系信号，早到是性格信号
+- [[Honest_Conversation_Test|坦率谈话：测试友谊]] — 不批评不说教，只谈感受——快速验证关系
 - [[Good_Friends_Liangyou|良友]] — 良友是组织者，守时是步调一致的具体表现
 - [[Wholesale_to_Retail_Socializing|从批发到零售式社交]] — 零售式社交的小圈子天然需要守时
 - [[Socializing_Salt_of_Life|社交：人类社会的盐]] — 守时是社交圈筛选的隐性标准
 
+### Q&A 深入
+
+**不守时的人为什么还能留在圈子里？**
+- 圈子对他的**需求很高**，所以能忍耐——变相承认他拥有某种特权
+- 除非维系圈子的核心价值遭到破坏，否则大家会忍耐下去直到变成习惯
+- **人也是可以驯化的**
+
+**不守时的人能否有自己的圈子？**
+- 能——因为不守时者的圈子存在**其他共同价值**，守时刚好不在其中
+- 反对从道德层面讨论守时：会增加对立而非相互理解
+- 精神困苦时自然无心守时——说明守时并非人性中非常基本的属性
+
+**守时压力的折射 → 重要性的镜子**
+- 你给对方的守时压力 > 对方给你的 → 说明你在圈子里不如他重要
+- 对方不在意异步 → 说明你带来的压力不足以让他改变行为
+- 真正该思考的：你在这个人际圈里的**重要性高低**
+
 ## 来源
 
 - [hct-0414 守时：帮你找到自己人](../raw/articles/hct-0414-29-守时帮你找到自己人.md)
+- [hct-0416 我问和菜头：怎样看待早到的人](../raw/articles/hct-0416-我问和菜头-怎样看待早到的人.md)
 
 ---
 

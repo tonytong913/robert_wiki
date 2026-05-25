@@ -3,13 +3,15 @@ title: Freedom_and_Discipline
 type: concept
 sources:
   - raw/articles/hct-0211-我问和菜头-我们该去了解什么程度的答案.md
+  - raw/articles/hct-0421-32-叠桌子-你可以这样理解人世间.md
 related:
   - "[[Self_Discipline_Illusion]]"
   - "[[Becoming_Yourself_True_Meaning]]"
   - "[[Freedom_from_Fear]]"
-tags: [自由, 自律, 概念之争, 切身感受, 内心自由]
+  - "[[Table_Stacking|叠桌子]]"
+tags: [自由, 自律, 概念之争, 切身感受, 内心自由, 叠桌子]
 created: 2026-05-02
-updated: 2026-05-02
+updated: 2026-05-25
 confidence: high
 ---
 
@@ -68,8 +70,19 @@ confidence: high
 
 ---
 
+## 叠桌子视角：越往上越自由
+
+在 [[Table_Stacking|叠桌子]] 模型中，自由与层级的关系是反直觉的：
+
+> 如果用座位数来衡量，叠桌子模式的确越往上每张桌子越小。但是如果从每个人拥有的空间和选择来看，这个模型恰好倒过来——每个人拥有的桌面是越往上越大，甚至可以起身散步起舞放风筝。
+
+当一个人拥有的空间和选择越多，他就会觉得自己对现实越有控制力，也就感觉拥有更大的自由。这为"越往上越自由"提供了一个结构性的解释：自由不仅是内心状态，也与社会层级结构有关。
+
+---
+
 ## 相关页面
 
+- [[Table_Stacking|叠桌子：人世间的分层模型]] — 越往上个人空间和选择越大，自由与层级成正比
 - [[Self_Discipline_Illusion|自律：美好的假象]] — 自律只是内心自由的外在显现
 - [[Becoming_Yourself_True_Meaning|成为自己]] — 自由是成为自己的前提
 - [[Freedom_from_Fear|从恐惧中解脱]] — 恐惧是不自由的重要来源

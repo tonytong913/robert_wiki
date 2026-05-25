@@ -4,6 +4,7 @@ type: concept
 sources:
   - raw/articles/hct-0226-我问和菜头-恐惧也能作为燃料吗.md
   - raw/articles/hct-0420-31-选择如何选出合适的人生选项.md
+  - raw/articles/hct-0421-32-叠桌子-你可以这样理解人世间.md
 related:
   - "[[Choose_Bear_Receive]]"
   - "[[Family_of_Origin]]"
@@ -12,9 +13,10 @@ related:
   - "[[Making_Life_Choices|人生选择]]"
   - "[[Regret_Test|后悔测试]]"
   - "[[Passion_Is_Self_Knowledge]]"
+  - "[[Table_Stacking|叠桌子]]"
 tags: [选择, 代价, 焦虑, 归宿, 人生]
 created: 2026-05-04
-updated: 2026-05-04
+updated: 2026-05-25
 confidence: medium
 ---
 
@@ -82,8 +84,23 @@ confidence: medium
 
 ---
 
+## 叠桌子视角：三种选择各有的代价
+
+在 [[Table_Stacking|叠桌子]] 模型中，每一层桌子上的三种选择各有对应的代价：
+
+| 选择 | 红利 | 代价 |
+|------|------|------|
+| 原地坚守 | 稳定、认同 | 需防御上下夹击，资源有限 |
+| 向上攀爬 | 更多自由、更多选择 | 同时被上下攻击，一脸血浑身土 |
+| 向下退让 | 空间宽敞、竞争小 | 食物变差、极难返回 |
+
+> 每一种人生处境都自带焦虑套餐——选择了金屋藏娇，就不能同时要求无忧无虑。同样，选择了向上爬，就不能要求没有人拉腿踹脸。
+
+---
+
 ## 相关页面
 
+- [[Table_Stacking|叠桌子：人世间的分层模型]] — 每一层桌子上的三种选择，各有各的代价
 - [[Choose_Bear_Receive|你选择，你承担，你得到]] — 选择 → 承担代价 → 得到幸福
 - [[Family_of_Origin|原生家庭]] — 选择脱离原生家庭，承担后果，得到属于自己的幸福
 - [[Fear_as_Fuel|恐惧也能作为燃料]] — 焦虑作为燃料，恐惧作为烈性燃料

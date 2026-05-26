@@ -5,12 +5,13 @@ sources:
   - raw/books/真高管_002_真高管如何对内领导一号位及高管团队.md
 related:
   - "[[True_Executive|真高管]]"
+  - "[[Grey_Zone_Leadership|模糊地带领导力]]"
   - "[[Leadership/L07_Leadership_vs_Management|领导与管理]]"
   - "[[Leadership/L03_Mantra_1_I_Come|领导力口诀1: 我来]]"
   - "[[The_Art_of_Persuasion|说服的艺术]]"
 tags: [领导力, 影响力, 高管, 平行领导, 向上管理]
 created: 2026-05-22
-updated: 2026-05-22
+updated: 2026-05-26
 confidence: high
 ---
 

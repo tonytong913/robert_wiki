@@ -4,7 +4,9 @@ type: concept
 sources:
   - raw/books/真高管_001_真高管就是胜任的CXO吗.md
   - raw/books/真高管_002_真高管如何对内领导一号位及高管团队.md
+  - raw/books/真高管_004_真高管如何解决模糊地带的问题.md
 related:
+  - "[[Grey_Zone_Leadership|模糊地带领导力]]"
   - "[[Executive_Feet_in_the_Mud|高管：做不到双手沾泥也要双脚沾泥]]"
   - "[[Oversensitive_Executives|过于敏感的高管]]"
   - "[[Leadership/L03_Mantra_1_I_Come|领导力口诀1: 我来]]"
@@ -12,7 +14,7 @@ related:
   - "[[Leading_Through_Influence|对内领导：影响力而非职权]]"
 tags: [高管, 领导力, 管理, 创业者精神, 首席组织官, 影响力]
 created: 2026-05-21
-updated: 2026-05-22
+updated: 2026-05-26
 confidence: high
 ---
 
@@ -124,6 +126,7 @@ confidence: high
 
 ## 与其他概念的关系
 
+- [[Grey_Zone_Leadership|模糊地带领导力]] — 真高管在灰色地带挺身而出的四个动作：举手、转化、横向推动、沉淀能力
 - [[Executive_Feet_in_the_Mud|高管：做不到双手沾泥也要双脚沾泥]] — 真高管可以不动手，但不能不动脚（不能脱离一线）。行业洞见和专业理解正来自双脚沾泥
 - [[Oversensitive_Executives|过于敏感的高管]] — 反面：挂着高管头衔但被小信号消耗、拖累团队
 - [[Leading_Through_Influence|对内领导：影响力而非职权]] — 领导上级和平级不是靠行政权力，而是靠影响力
@@ -138,6 +141,7 @@ confidence: high
 
 - [《真高管》第001页：真高管就是胜任的CXO吗？](../raw/books/真高管_001_真高管就是胜任的CXO吗.md)
 - [《真高管》第002页：真高管如何对内领导一号位及高管团队](../raw/books/真高管_002_真高管如何对内领导一号位及高管团队.md)
+- [《真高管》第004页：真高管如何解决模糊地带的问题](../raw/books/真高管_004_真高管如何解决模糊地带的问题.md)
 
 ---
 

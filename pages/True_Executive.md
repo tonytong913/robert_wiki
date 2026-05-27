@@ -5,16 +5,19 @@ sources:
   - raw/books/真高管_001_真高管就是胜任的CXO吗.md
   - raw/books/真高管_002_真高管如何对内领导一号位及高管团队.md
   - raw/books/真高管_004_真高管如何解决模糊地带的问题.md
+  - raw/articles/2026-05-27-真高管005-内战内行外战外行.md
 related:
   - "[[Grey_Zone_Leadership|模糊地带领导力]]"
+  - "[[Internal_Expert_External_Amateur|内战内行，外战外行]]"
+  - "[[External_Competitiveness|对外竞争力]]"
   - "[[Executive_Feet_in_the_Mud|高管：做不到双手沾泥也要双脚沾泥]]"
   - "[[Oversensitive_Executives|过于敏感的高管]]"
   - "[[Leadership/L03_Mantra_1_I_Come|领导力口诀1: 我来]]"
   - "[[Leadership/L07_Leadership_vs_Management|领导与管理]]"
   - "[[Leading_Through_Influence|对内领导：影响力而非职权]]"
-tags: [高管, 领导力, 管理, 创业者精神, 首席组织官, 影响力]
+tags: [高管, 领导力, 管理, 创业者精神, 首席组织官, 影响力, 对外竞争力, 内战内行]
 created: 2026-05-21
-updated: 2026-05-26
+updated: 2026-05-27
 confidence: high
 ---
 
@@ -132,6 +135,8 @@ confidence: high
 - [[Leading_Through_Influence|对内领导：影响力而非职权]] — 领导上级和平级不是靠行政权力，而是靠影响力
 - [[Leadership/L03_Mantra_1_I_Come|领导力口诀1: 我来]] — 真高管的创业者精神就是"我来"的具体体现
 - [[Leadership/L07_Leadership_vs_Management|领导与管理]] — 真高管做的是"领导"（推动变革、解决挑战性难题），而非仅"管理"（维持运转）
+- [[Internal_Expert_External_Amateur|内战内行，外战外行]] — 反面：只会内部权斗、无法对外竞争的高管。第005页直接用真高管定义来评判这类人
+- [[External_Competitiveness|对外竞争力]] — 真高管两大标准中对外的维度：不看头衔看竞争力
 - [[Workplace_Manipulation_Tactics|职场操纵伎俩]] — 反面：徒有头衔但干着推责和滥授权的"节能型高管"
 - [[Leadership/L11_Mantra_3_What_Do_You_Think|领导力口诀3: 你觉得呢]] — 真高管的"翻译"能力本质上是帮助所有人理清思路
 
@@ -142,6 +147,7 @@ confidence: high
 - [《真高管》第001页：真高管就是胜任的CXO吗？](../raw/books/真高管_001_真高管就是胜任的CXO吗.md)
 - [《真高管》第002页：真高管如何对内领导一号位及高管团队](../raw/books/真高管_002_真高管如何对内领导一号位及高管团队.md)
 - [《真高管》第004页：真高管如何解决模糊地带的问题](../raw/books/真高管_004_真高管如何解决模糊地带的问题.md)
+- [《真高管》第005页：高管在所辖领域，不能内战内行、外战外行](../raw/articles/2026-05-27-真高管005-内战内行外战外行.md)（附[原书页照片](../raw/assets/2026-05-27-真高管-内战内行外战外行-原书页005.jpg)）
 
 ---
 

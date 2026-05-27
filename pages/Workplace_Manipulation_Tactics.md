@@ -9,7 +9,7 @@ related:
   - "[[Executive_Feet_in_the_Mud]]"
 tags: [职场, 操纵, 责任转移, 滥授权, 节能型高管, 管理]
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-05-27
 confidence: high
 ---
 
@@ -127,6 +127,7 @@ confidence: high
 
 ## 来源
 
+- [原书页照片（第003页）](../raw/assets/2026-05-27-职场操纵术-向上责任转移向下滥授权-原书页.jpg)
 - [2026-05-15 职场操纵术：向上责任转移与向下滥授权](../raw/articles/2026-05-15-职场操纵术向上责任转移与向下滥授权.md)
 
 ---

@@ -9,7 +9,7 @@ related:
   - "[[Becoming_Yourself_True_Meaning|成为自己]]"
 tags: [后悔, 选择, 决策, 自我认知, 方法]
 created: 2026-05-22
-updated: 2026-05-22
+updated: 2026-05-28
 confidence: high
 ---
 
@@ -109,6 +109,7 @@ confidence: high
 
 ## 来源
 
+- [原始 .docx 文稿](../raw/assets/hct-0420-31-选择-如何选出合适的人生选项-原始文稿.docx)
 - [hct-0420 第31讲：选择——如何选出合适的人生选项](../raw/articles/hct-0420-31-选择如何选出合适的人生选项.md)
 
 ---

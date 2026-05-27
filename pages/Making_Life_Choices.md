@@ -14,7 +14,7 @@ related:
   - "[[Table_Stacking|叠桌子]]"
 tags: [选择, 决策, 后悔, 心安, 自我认知, 叠桌子]
 created: 2026-05-22
-updated: 2026-05-25
+updated: 2026-05-28
 confidence: high
 ---
 
@@ -137,6 +137,7 @@ confidence: high
 
 ## 来源
 
+- [原始 .docx 文稿](../raw/assets/hct-0420-31-选择-如何选出合适的人生选项-原始文稿.docx)
 - [hct-0420 第31讲：选择——如何选出合适的人生选项](../raw/articles/hct-0420-31-选择如何选出合适的人生选项.md)
 
 ---

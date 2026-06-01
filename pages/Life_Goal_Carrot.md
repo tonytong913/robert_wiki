@@ -108,6 +108,7 @@ confidence: high
 - [[Answers_as_Temporary_Stops|答案是临时停靠站]] — 人生目标也是一个临时停靠站，不是终点
 - [[Becoming_Yourself_True_Meaning|成为自己]] — 认清自己是什么人，才知道要做什么事
 - [[New_Year_Three_Questions|新年：三个问题发现未来线索]] — 回望过去发现未来的另一种方法
+- [[Pie_in_the_Sky|画饼：揭示画饼的奥义]] — 胡萝卜和饼都是驱动人前进的隐喻：一个永远吃不到，一个相信才成真
 
 ## 来源
 

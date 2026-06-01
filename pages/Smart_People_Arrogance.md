@@ -7,6 +7,8 @@ related:
   - "[[Listening_The_Art]]"
   - "[[Intellectual_Humility]]"
   - "[[Emotional_Comfort_vs_Problem_Solving]]"
+  - "[[Advice_Giving]]"
+  - "[[For_Your_Own_Good]]"
 tags: [聪明, 傲慢, 瑞士军刀, 倾听, 人际关系, 才智]
 created: 2026-05-15
 updated: 2026-05-15
@@ -130,6 +132,8 @@ confidence: high
 - [[Good_Friends_Liangyou|良友]] — 良友是软木塞，不是手术刀
 - [[Equal_Dialogue|平等对话]] — 聪明的傲慢破坏了对话的平等
 - [[Admitting_Mistakes|承认错误]] — 承认自己曾有这个毛病
+- [[Advice_Giving|给建议的局限]] — 聪明人尤其容易陷入「为你好」式建议的陷阱
+- [[For_Your_Own_Good|为你好]] — 聪明人的傲慢往往以「为你好」的形式出现
 
 ## 来源
 

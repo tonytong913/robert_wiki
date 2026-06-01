@@ -8,6 +8,8 @@ related:
   - "[[Smart_People_Arrogance]]"
   - "[[Emotional_vs_Rational_Self]]"
   - "[[Equal_Dialogue]]"
+  - "[[Advice_Giving]]"
+  - "[[For_Your_Own_Good]]"
 tags: [倾听, 沟通, 情感, 人际关系, 聪明, 美德]
 created: 2026-05-15
 updated: 2026-05-15
@@ -167,6 +169,8 @@ confidence: high
 - [[Good_Friends_Liangyou|良友]] — 良友不需要解决问题，只需要在场
 - [[Intellectual_Humility|智识谦逊]] — 忍住不展示才智是一种谦逊
 - [[Presence_Zaichang|在场]] — 倾听的核心就是在场
+- [[Advice_Giving|给建议的局限]] — 为什么好心多半是徒劳
+- [[For_Your_Own_Good|为你好]] — 「为你好」是倾听的反面：以关怀之名行控制之实
 
 ## 来源
 

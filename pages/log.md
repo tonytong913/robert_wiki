@@ -1,5 +1,19 @@
 # Wiki 操作日志
 
+## [2026-06-01] ingest | 和菜头第37讲——为你好（成年人之间的冷漠）
+
+**源文件**: raw/articles/hct-0504-37-为你好-成年人之间的冷漠.md
+
+**新建页面**:
+- [[For_Your_Own_Good|为你好：披着关怀外衣的控制]] — 「为你好」本质是变相控制，三点核心观察驱使人放弃这种思路
+- [[Pleasant_Indifference|令人愉悦的冷漠：成人世界的得体距离]] — 不远不近有余地的成人社交距离，热情反而让人想逃
+- [[Advice_Giving|给建议的局限：好心多半是徒劳]] — 三重悖论：不知动机/选择性听取/责任转嫁，老师傅模式的智慧
+
+**更新页面**:
+- [[Listening_The_Art|倾听：把刀收进鞘里]] — 增加与 Advice_Giving、For_Your_Own_Good 的交叉引用
+- [[Smart_People_Arrogance|聪明人的傲慢]] — 增加与 Advice_Giving、For_Your_Own_Good 的交叉引用
+- [[Equal_Dialogue|平等对话]] — 增加与 For_Your_Own_Good、Pleasant_Indifference 的交叉引用
+
 ## [2026-05-28] ingest | 和菜头第33讲——人生目标：驴子脑门前需要挂一根萝卜
 
 **源文件**: raw/assets/hct-0426-33-人生目标-驴子脑门前需要挂一根萝卜-原始文稿.docx（得到专栏原始 .docx 文稿）

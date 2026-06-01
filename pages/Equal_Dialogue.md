@@ -74,6 +74,8 @@
 - [[Integrative_Thinking|整合思考]] — 超越二元对立的思维模式
 - [[Listening_The_Art|倾听：把刀收进鞘里]] — 倾听是平等对话的前提，急着给建议破坏了平等
 - [[Smart_People_Arrogance|聪明人的傲慢]] — 瑞士军刀综合症摧毁了平等对话
+- [[For_Your_Own_Good|为你好]] — 「为你好」恰恰是没有把对方当作完整的人
+- [[Pleasant_Indifference|令人愉悦的冷漠]] — 平等对话的前提：成人之间的得体距离
 
 ---
 

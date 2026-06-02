@@ -6,6 +6,7 @@ sources:
 related:
   - "[[Stop_at_Me]]"
   - "[[Choose_Bear_Receive]]"
+  - "[[Filial_Piety_Repayment]]"
   - "[[Life_by_Choice]]"
   - "[[Becoming_Yourself_True_Meaning]]"
   - "[[Gratitude_Right_Attitude]]"
@@ -125,6 +126,7 @@ confidence: high
 - [[Choose_Bear_Receive|你选择，你承担，你得到]] — 选择自由与责任承担的统一
 - [[Life_by_Choice|人生由可选择部分构成]] — 出生不可选，但人生可以
 - [[Becoming_Yourself_True_Meaning|成为自己]] — 不需要坐标，只需要成为自己
+- [[Filial_Piety_Repayment|反哺之恩的陷阱]] — 当感恩被用作武器，关系已经败坏
 - [[Gratitude_Right_Attitude|感恩]] — 幸福只需感恩，不是用来展示的
 - [[Suffering_as_Teacher|受苦：通往内心自由的必经之路]] — 受苦通向自由
 

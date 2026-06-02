@@ -6,6 +6,8 @@ sources:
 related:
   - "[[Emotional_Comfort_vs_Problem_Solving]]"
   - "[[Smart_People_Arrogance]]"
+  - "[[Advice_Right_Belongs_to_Receiver]]"
+  - "[[Teaching_Boundary]]"
   - "[[Emotional_vs_Rational_Self]]"
   - "[[Equal_Dialogue]]"
   - "[[Advice_Giving]]"
@@ -169,6 +171,9 @@ confidence: high
 - [[Good_Friends_Liangyou|良友]] — 良友不需要解决问题，只需要在场
 - [[Intellectual_Humility|智识谦逊]] — 忍住不展示才智是一种谦逊
 - [[Presence_Zaichang|在场]] — 倾听的核心就是在场
+- [[Advice_Giving|给建议的局限]] — 为什么好心多半是徒劳
+- [[Advice_Right_Belongs_to_Receiver|建议权在对方]] — 不是你想给建议就能给，控制权在对方
+- [[Teaching_Boundary|教导的边界]] — 忍住纠正细节的冲动，只抓主要方向
 - [[Advice_Giving|给建议的局限]] — 为什么好心多半是徒劳
 - [[For_Your_Own_Good|为你好]] — 「为你好」是倾听的反面：以关怀之名行控制之实
 

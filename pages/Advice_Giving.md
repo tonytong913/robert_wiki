@@ -5,6 +5,9 @@ sources:
   - raw/articles/hct-0504-37-为你好-成年人之间的冷漠.md
 related:
   - "[[For_Your_Own_Good]]"
+  - "[[Advice_Right_Belongs_to_Receiver]]"
+  - "[[Teaching_Boundary]]"
+  - "[[Mind_Your_Own_Business]]"
   - "[[Pleasant_Indifference]]"
   - "[[Listening_The_Art]]"
   - "[[Smart_People_Arrogance]]"
@@ -91,6 +94,9 @@ confidence: high
 - [[Pleasant_Indifference]] — 成人世界的得体距离
 - [[Listening_The_Art]] — 倾听比给建议更有力量
 - [[Smart_People_Arrogance]] — 聪明人总忍不住解决问题
+- [[Advice_Right_Belongs_to_Receiver]] — 建议权在对方：不是你想给就能给
+- [[Teaching_Boundary]] — 教导的边界：抓主要方向，管住细节冲动
+- [[Mind_Your_Own_Business]] — 少管闲事：对判断力边界的清醒
 - [[Answers_as_Temporary_Stops]] — 答案是临时停靠站，追问才见真知
 
 ## 来源

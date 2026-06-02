@@ -1,5 +1,25 @@
 # Wiki 操作日志
 
+## [2026-06-02] ingest | 和菜头问答——怎么理解「少管闲事」
+
+**源文件**: raw/articles/hct-0506-我问和菜头-怎么理解少管闲事.md
+
+**新建页面**:
+- [[Mind_Your_Own_Business|少管闲事：不做兵器不当炮灰]] — 两种虚假力量感（影响力/从众）让人放大判断力边界；冰山原则：水面下才是真相
+- [[Iceberg_of_Events|冰山隐喻：水面下的真相]] — 凡有力量来到面前的事件，看到的只是冰山尖角；时评作家的坠落路径
+- [[Teaching_Boundary|教导的边界：偏好与最大利益的区分]] — 育人如种树，区分完美主义偏好与学生最大利益；绝大多数人不需细节雕琢
+- [[Filial_Piety_Repayment|反哺之恩的陷阱]] — 感恩一旦被要求就已不存在；巨婴父母与成熟父母的对比
+- [[Advice_Right_Belongs_to_Receiver|建议权在对方]] — 控制权反转：是对方给你机会，不是你给对方建议；高情商的真正含义
+
+**更新页面**:
+- [[For_Your_Own_Good|为你好]] — 新增交叉引用：Mind_Your_Own_Business / Advice_Right_Belongs_to_Receiver / Teaching_Boundary
+- [[Advice_Giving|给建议的局限]] — 新增交叉引用：Advice_Right_Belongs_to_Receiver / Teaching_Boundary / Mind_Your_Own_Business
+- [[Pleasant_Indifference|令人愉悦的冷漠]] — 新增交叉引用：Mind_Your_Own_Business / Advice_Right_Belongs_to_Receiver
+- [[Intellectual_Humility|智识谦逊]] — 新增交叉引用：Iceberg_of_Events / Mind_Your_Own_Business
+- [[Family_of_Origin|原生家庭]] — 新增交叉引用：Filial_Piety_Repayment
+- [[Equal_Dialogue|平等对话]] — 新增交叉引用：Teaching_Boundary
+- [[Listening_The_Art|倾听的智慧]] — 新增交叉引用：Advice_Right_Belongs_to_Receiver / Teaching_Boundary
+
 ## [2026-06-01] ingest | 和菜头第38讲——画饼（揭示画饼的奥义和方法）
 
 **源文件**: raw/articles/hct-0505-38-画饼-揭示画饼的奥义和方法.md

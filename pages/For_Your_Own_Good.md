@@ -6,6 +6,9 @@ sources:
 related:
   - "[[Pleasant_Indifference]]"
   - "[[Advice_Giving]]"
+  - "[[Mind_Your_Own_Business]]"
+  - "[[Advice_Right_Belongs_to_Receiver]]"
+  - "[[Teaching_Boundary]]"
   - "[[Listening_The_Art]]"
   - "[[Equal_Dialogue]]"
 tags: [为你好, 控制, 人际关系, 边界, 成人世界]
@@ -85,6 +88,9 @@ confidence: high
 - [[Pleasant_Indifference]] — 「令人愉悦的冷漠」：成人世界的得体距离
 - [[Advice_Giving]] — 给建议的三重局限
 - [[Listening_The_Art]] — 倾听的智慧：把刀收进鞘里
+- [[Mind_Your_Own_Business]] — 少管闲事：不做兵器不当炮灰
+- [[Advice_Right_Belongs_to_Receiver]] — 建议权在对方：控制权不在你手里
+- [[Teaching_Boundary]] — 教导的边界：偏好与最大利益的区分
 - [[Smart_People_Arrogance]] — 聪明人的傲慢：忍不住总要解决问题
 - [[Equal_Dialogue]] — 平等对话：把对方当作完整的人
 

@@ -5,6 +5,8 @@ sources:
   - raw/articles/hct-0504-37-为你好-成年人之间的冷漠.md
 related:
   - "[[For_Your_Own_Good]]"
+  - "[[Mind_Your_Own_Business]]"
+  - "[[Advice_Right_Belongs_to_Receiver]]"
   - "[[Advice_Giving]]"
   - "[[Listening_The_Art]]"
   - "[[Wholesale_to_Retail_Socializing]]"
@@ -80,6 +82,8 @@ confidence: high
 
 - [[For_Your_Own_Good]] — 「为你好」是破坏这种得体距离的典型行为
 - [[Wholesale_to_Retail_Socializing]] — 零售式社交也强调深度和质量而非数量和热度
+- [[Mind_Your_Own_Business]] — 少管闲事：冷漠背后的判断力边界
+- [[Advice_Right_Belongs_to_Receiver]] — 建议权在对方：冷淡是因为知道控制权不在自己
 - [[Listening_The_Art]] — 倾听的克制与这种距离感异曲同工
 - 对比 [[Good_Friends_Liangyou|良友]] — 组织者的热情与得体距离可以共存
 

@@ -99,6 +99,7 @@ confidence: high
 
 ## 相关页面
 
+- [[Endurance_of_Insults|忍辱：降伏狂暴的内心]] — 自我膨胀=把一切当冒犯，自我归位=羞辱不攻自破
 - [[Minor_Flaws_Gifts]] — 小毛病也有它的独特作用：偏见是完美主义的帮凶
 - [[Image_Anxiety]] — 形象焦虑：事和形象的分辨
 - [[Letting_Go_of_Self]] — 放过自己：偏见的最终消解

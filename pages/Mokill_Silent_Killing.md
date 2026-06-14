@@ -251,6 +251,7 @@ confidence: high
 
 ## 相关页面
 
+- [[Endurance_of_Insults|忍辱：降伏狂暴的内心]] — 默杀是主动断绝，忍辱是观察而不动；两者互补
 - [[Scolding_Shuluo|数落]] — 另一种负面沟通方式的应对
 - [[Freedom_from_Fear|从恐惧中解脱]] — 负面情绪的解脱之道
 - [[Third_Party_Perspective|第三方立场]] — 从自身抽离以旁观者视角观察

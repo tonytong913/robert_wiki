@@ -71,6 +71,7 @@
 - [[Lying_Truth_Debt|撒谎：绑定的债务]] — 镜子效应：镜像即第三方立场，触发自我约束
 - [[Self_Doubt|自我怀疑]] - 建设性质疑是突破局限的契机
 - [[Open_Mindset|开放心态]] - 准备随时放弃旧观点
+- [[Endurance_of_Insults|忍辱：降伏狂暴的内心]] — 第三方立场就是忍辱中"睁眼看箭"：抽离观察→发现箭不是冲自己来的
 - [[Emotional_Comfort_vs_Problem_Solving|情感抚慰vs解决问题]] — 第三方立场帮助识别：对方需要的是抚慰还是方案
 
 ## 来源

@@ -1,5 +1,19 @@
 # Wiki 操作日志
 
+## [2026-06-14] ingest | 和菜头——掌握未来的三张网（第40讲）
+
+**源文件**: raw/articles/hct-0511-40-掌握未来的三张网.md
+
+**新建页面**:
+- [[Three_Nets_of_Future]] — 掌握未来的三张网：厌恶损失→期待、诉诸权威→接受、不相信野心→想象力
+- [[Internal_Institutionalization]] — 内心的体制化：四种表现、后果、与相关概念的关系
+
+**更新页面**:
+- [[Open_Mindset]] — 添加对 Three_Nets_of_Future 交叉引用
+- [[Intellectual_Humility]] — 添加对 Internal_Institutionalization 交叉引用
+
+---
+
 ## [2026-06-02] ingest | 和菜头问答——怎么理解「少管闲事」
 
 **源文件**: raw/articles/hct-0506-我问和菜头-怎么理解少管闲事.md

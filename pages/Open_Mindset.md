@@ -118,6 +118,8 @@
 
 ## 相关页面
 
+- [[Three_Nets_of_Future|掌握未来的三张网]] — 开放心态是捕捉未来的前提，封闭于过去经验则与未来绝缘
+- [[Internal_Institutionalization|内心的体制化]] — 体制化是开放心态的反面：依赖过去、诉诸权威、自设牢笼
 - [[Limitation_as_Gift|局限：为什么说它是一件礼物]] — 局限作为认知升级的契机
 - [[Intellectual_Humility|智识谦逊]] — 承认认知有限的美德
 - [[Cognitive_Limitation|认知局限]] — 认知边界的形成与突破

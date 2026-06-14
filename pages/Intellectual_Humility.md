@@ -91,6 +91,8 @@
 
 ## 相关页面
 
+- [[Internal_Institutionalization|内心的体制化]] — 体制化的人渴望得到解答而非自己找寻，与智识谦逊背道而驰
+- [[Three_Nets_of_Future|掌握未来的三张网]] — 诉诸权威等待清晰定义，正是缺乏智识谦逊的表现
 - [[Answers_as_Temporary_Stops|答案：临时停靠站]] — 追问揭示无知，承认答案是临时的
 - [[Root_Question_Clarification|厘清原问题]] — 追问去掉遮蔽，厘清真正的问题
 - [[Exploration_Drive|探索原动力]] — 承认无知是继续探索的前提

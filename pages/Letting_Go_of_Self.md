@@ -9,6 +9,8 @@ related:
   - "[[Image_Anxiety]]"
   - "[[Self_Deprecation_Humor]]"
   - "[[Third_Party_Perspective]]"
+  - "[[Endurance_of_Insults]]"
+  - "[[Ego_Inflation]]"
 tags: [放过自己, 自我和解, 释然, 笑话, 自我接纳]
 created: 2026-05-11
 updated: 2026-05-11

@@ -8,6 +8,7 @@ related:
   - "[[Freedom_from_Fear]]"
   - "[[Fear_Management]]"
   - "[[Public_Speaking_Six_Words]]"
+  - "[[Endurance_of_Insults]]"
 tags: [恐惧, 燃料, 焦虑, 负面情绪, 勇气]
 created: 2026-05-04
 updated: 2026-05-04

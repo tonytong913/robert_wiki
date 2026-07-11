@@ -1,5 +1,17 @@
 # Wiki 操作日志
 
+## [2026-07-11] deep-ingest | 忍辱专题深度补充：新增自我膨胀概念页，完善交叉引用
+
+**新建页面**:
+- pages/Ego_Inflation.md — 自我膨胀：机甲效应
+
+**更新页面（交叉引用补全）**:
+- pages/Anxiety_as_Friend.md — 添加 [[Endurance_of_Insults]] 反向引用
+- pages/Fear_as_Fuel.md — 添加 [[Endurance_of_Insults]] 反向引用
+- pages/Letting_Go_of_Self.md — 添加 [[Endurance_of_Insults]], [[Ego_Inflation]] 反向引用
+- pages/Mokill_Silent_Killing.md — 添加 [[Endurance_of_Insults]] 反向引用
+- pages/index.md — 更新索引和统计
+
 ## [2026-06-14] ingest | 和菜头——忍辱：如何降伏你狂暴的内心（第41讲）
 
 **源文件**: raw/articles/hct-0512-41-忍辱如何降伏你狂暴的内心.md

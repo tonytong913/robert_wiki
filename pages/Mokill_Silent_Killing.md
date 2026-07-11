@@ -11,6 +11,7 @@ related:
   - "[[Self_Discipline_Illusion]]"
   - "[[Life_by_Choice]]"
   - "[[Suffering_as_Teacher]]"
+  - "[[Endurance_of_Insults]]"
 tags: [默杀, 恶意, 反击, 断绝, 内心, 进攻]
 created: 2026-05-01
 updated: 2026-05-02

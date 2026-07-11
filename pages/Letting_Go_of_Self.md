@@ -11,6 +11,7 @@ related:
   - "[[Third_Party_Perspective]]"
   - "[[Endurance_of_Insults]]"
   - "[[Ego_Inflation]]"
+  - "[[Self_Knowledge_Before_Change]]"
 tags: [放过自己, 自我和解, 释然, 笑话, 自我接纳]
 created: 2026-05-11
 updated: 2026-05-11
@@ -107,6 +108,10 @@ confidence: high
 - [[Third_Party_Perspective]] — 第三方立场：从自我叙事中抽离
 - [[Limitation_as_Gift]] — 局限作为礼物：缺陷也是礼物的视角转变
 - [[Stock_Market_Mirror]] — 遗忘账户：两年不看的账户才是
+
+- [[Self_Knowledge_Before_Change|认识自己先于改变]] — 放过自己=接受"这就是我"，和改变自己的妄念和解
+
+## 来源
 
 - [hct-0324 小毛病也有它的独特作用](../raw/articles/hct-0324-小毛病也有它的独特作用.md)
 

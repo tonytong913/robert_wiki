@@ -9,6 +9,7 @@ related:
   - "[[Intellectual_Humility]]"
   - "[[Image_Anxiety]]"
   - "[[Limitation_as_Gift]]"
+  - "[[Self_Knowledge_Before_Change]]"
 tags: [小毛病, 自我接纳, 同理心, 完美主义, 和菜头]
 created: 2026-05-11
 updated: 2026-05-11
@@ -100,6 +101,7 @@ confidence: high
 - [[Becoming_Yourself_True_Meaning]] — 成为自己：接受不完美的自己是前提
 - [[Self_Discipline_Illusion]] — 自律的假象：不追求"完美自己"的内在自由
 - [[Understanding_Comprehension]] — 理解力：亲身经历困苦才能真正理解
+- [[Self_Knowledge_Before_Change|认识自己先于改变]] — 诚实面对小毛病就是认识自己的第一步
 
 ## 来源
 

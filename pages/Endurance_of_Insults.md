@@ -10,6 +10,7 @@ related:
   - "[[Fear_as_Fuel]]"
   - "[[Anxiety_as_Friend]]"
   - "[[Letting_Go_of_Self]]"
+  - "[[Self_Knowledge_Before_Change]]"
 tags: [忍辱, 情绪管理, 自我, 佛教, 愤怒, 路怒]
 created: 2026-06-14
 updated: 2026-06-14

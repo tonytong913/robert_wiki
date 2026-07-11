@@ -7,6 +7,8 @@ related:
   - "[[True_Learning_Attitude]]"
   - "[[Becoming_Yourself_True_Meaning]]"
   - "[[Adult_Learning_Guide]]"
+  - "[[Self_Knowledge_Before_Change]]"
+  - "[[Change_as_Byproduct]]"
 tags: [热爱, 自我认知, 妄念, 向内, 发现自我]
 created: 2026-05-04
 updated: 2026-05-04
@@ -127,6 +129,8 @@ confidence: high
 - [[Becoming_Yourself_True_Meaning|成为自己]] — 在全面认知自己的前提下用不完美的自己达成美好
 - [[True_Learning_Attitude|真正的学习态度]] — 区分表演式学习与真正学习态度
 - [[Adult_Learning_Guide|成年人学习指南]] — 以解决现实问题为导向的学习
+- [[Self_Knowledge_Before_Change|认识自己先于改变]] — 不认识自己就想要改变，是妄念的来源
+- [[Change_as_Byproduct|改变是副产品]] — 找到热爱的事后，改变自然发生
 
 ## 来源
 

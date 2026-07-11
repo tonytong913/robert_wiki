@@ -132,6 +132,8 @@
 - [[Stock_Market_Mirror|股市：认识自己的镜子]] — 花费30%本金认清自己不适合炒股，是一笔划算的生意
 - [[Temperament_and_Investing|性格与投资]] — 认识自己的性情比分析市场更有价值
 - [[Poor_But_Happy|穷开心]] — 穷开心帮你认识自己真正喜欢和擅长什么
+- [[Self_Knowledge_Before_Change|认识自己先于改变]] — 改变自己的妄念恰恰是远离自己，先认识才能成为
+- [[Change_as_Byproduct|改变是副产品]] — 成为自己不是通过"改变"达成的，而是做真正想做的事时顺便发生的
 
 ## 来源
 

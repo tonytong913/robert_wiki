@@ -9,6 +9,7 @@ related:
   - "[[Becoming_Yourself_True_Meaning]]"
   - "[[Freedom_from_Fear]]"
   - "[[Table_Stacking|叠桌子]]"
+  - "[[Self_Knowledge_Before_Change]]"
 tags: [自由, 自律, 概念之争, 切身感受, 内心自由, 叠桌子]
 created: 2026-05-02
 updated: 2026-05-25

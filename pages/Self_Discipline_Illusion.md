@@ -13,6 +13,8 @@ related:
   - "[[Freedom_and_Discipline]]"
   - "[[Image_Anxiety]]"
   - "[[Suffering_as_Teacher]]"
+  - "[[Self_Knowledge_Before_Change]]"
+  - "[[Change_as_Byproduct]]"
 tags: [自律, 内心自由, 意志力, 坚持, 个人意志]
 created: 2026-05-01
 updated: 2026-05-02
@@ -243,6 +245,8 @@ confidence: high
 - [[Freedom_and_Discipline|自由与自律]] — 不必争论概念，回到自身感受
 - [[Image_Anxiety|形象焦虑]] — 在意他人眼光是另一种不自由
 - [[Suffering_as_Teacher|受苦：通往内心自由的必经之路]] — 缘木求鱼、有效vs最优、认识自己
+- [[Self_Knowledge_Before_Change|认识自己先于改变]] — 在改变之前必须先诚实地认识"我是谁"，否则像闭眼剪线
+- [[Change_as_Byproduct|改变是副产品]] — 真正的改变是前进路上顺便发生的，不是努力扮演出来的
 
 ## 来源
 

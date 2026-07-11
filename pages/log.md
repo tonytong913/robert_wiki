@@ -1,5 +1,23 @@
 # Wiki 操作日志
 
+## [2026-07-12] ingest | 和菜头——改变自己，重要的是先认识你自己（第42讲）
+
+**源文件**: raw/articles/hct-0517-42-改变自己重要的是先认识你自己.md
+
+**新建页面**:
+- [[Self_Knowledge_Before_Change]] — 认识自己先于改变：在认识"我是谁"之前不要下剪刀
+- [[Change_as_Byproduct]] — 改变是副产品：真正的改变是前进路上顺便发生的
+
+**更新页面（交叉引用补全）**:
+- [[Self_Discipline_Illusion]] — 添加 Self_Knowledge_Before_Change, Change_as_Byproduct 引用
+- [[Becoming_Yourself_True_Meaning]] — 添加 Self_Knowledge_Before_Change, Change_as_Byproduct 引用
+- [[Passion_Is_Self_Knowledge]] — 添加 Self_Knowledge_Before_Change, Change_as_Byproduct 引用
+- [[Minor_Flaws_Gifts]] — 添加 Self_Knowledge_Before_Change 引用
+- [[Letting_Go_of_Self]] — 添加 Self_Knowledge_Before_Change 引用
+- [[Freedom_and_Discipline]] — 添加 Self_Knowledge_Before_Change 引用
+- [[Endurance_of_Insults]] — 添加 Self_Knowledge_Before_Change 引用
+- pages/index.md — 更新索引、统计和源文档列表
+
 ## [2026-07-11] deep-ingest | 忍辱专题深度补充：新增自我膨胀概念页，完善交叉引用
 
 **新建页面**:

@@ -44,6 +44,16 @@
 
 ---
 
+## [2026-08-19] ingest | 李翔商业内参两则独立观点：复杂执行测试与超越胜负
+
+- 新增原始摘录：`raw/articles/2026-08-19-李翔商业内参-20160526-两则观点摘录.md`
+- 创建页面：`Canary_Test_for_Complex_Execution.md`、`Mastery_Beyond_Winning.md`
+- 两页统一采用“观点 / 佐证 / 解读”结构，并分别保留方法边界与证据边界
+- 更新交叉引用：`Honest_Conversation_Test.md`、`Innovation_Lessons_from_Failure.md`、`Self_Doubt.md`、`Intellectual_Humility.md`、`Deliberate_Practice_Limits.md`
+- 更新 `pages/index.md`、`USER.md`、`MEMORY.md`
+
+---
+
 ## [2026-06-14] ingest | 和菜头——掌握未来的三张网（第40讲）
 
 **源文件**: raw/articles/hct-0511-40-掌握未来的三张网.md

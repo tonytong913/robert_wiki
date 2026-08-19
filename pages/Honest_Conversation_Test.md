@@ -4,6 +4,7 @@ type: concept
 sources:
   - raw/articles/hct-0416-我问和菜头-怎样看待早到的人.md
 related:
+  - "[[Canary_Test_for_Complex_Execution|金丝雀测试：用低成本信号检查复杂执行]]"
   - "[[Punctuality_Finding_Your_People|守时：帮你找到自己人]]"
   - "[[Punctuality_Two_Signals|不守时的两个隐藏信号]]"
   - "[[Equal_Dialogue|平等对话]]"
@@ -11,7 +12,7 @@ related:
   - "[[Good_Friends_Liangyou|良友]]"
 tags: [坦率沟通, 友谊测试, 人际关系, 守时, 边界]
 created: 2026-05-22
-updated: 2026-05-22
+updated: 2026-08-19
 confidence: high
 ---
 

@@ -4,12 +4,13 @@ type: concept
 sources:
   - raw/articles/hct-0226-我问和菜头-恐惧也能作为燃料吗.md
 related:
+  - "[[Mastery_Beyond_Winning|超越胜负：高手以专业边界为坐标]]"
   - "[[Sequential_Learning]]"
   - "[[Tacit_Knowledge]]"
   - "[[Cooking_as_Practice]]"
 tags: [刻意练习, 顶尖水平, 天赋, 次第, 跳过层级]
 created: 2026-05-04
-updated: 2026-05-04
+updated: 2026-08-19
 confidence: high
 ---
 

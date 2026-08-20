@@ -7,9 +7,10 @@ related:
   - "[[Upward_Responsibility_Shifting]]"
   - "[[Workplace_Manipulation_Tactics]]"
   - "[[Executive_Feet_in_the_Mud]]"
+  - "[[Growth_Authorization_and_Organizational_Judgment]]"
 tags: [职场, 管理, 滥授权, 责任逃避, 员工培养, 操纵]
 created: 2026-05-15
-updated: 2026-05-27
+updated: 2026-08-20
 confidence: high
 ---
 
@@ -114,6 +115,7 @@ confidence: high
 - [[Executive_Feet_in_the_Mud|高管：双脚沾泥]] — 真正的高管是什么样的
 - [[Leadership/L03_Mantra_1_I_Come|领导力口诀：我来]] — 真正的领导力
 - [[Professional_Expertise|专业：怎样才算拥有一项专业]] — 不被滥授权的保护伞
+- [[Growth_Authorization_and_Organizational_Judgment|增长、授权与组织判断]] — 真正授权要共享上下文、明确边界并保留必要支持
 
 ## 来源
 

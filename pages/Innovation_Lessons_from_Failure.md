@@ -89,6 +89,7 @@
 - [[L21_Mantra_6_Congrats_on_Failure|L21: 口诀6 - 失败了恭喜你]] - 拥抱失败的文化
 - [[Intelligence_vs_Wisdom|聪明与智慧]] - 看得更深更远的智慧
 - [[Reflection_Approaching_Correct_Answer|反思：如何一步步迫近正确答案]] - 反思作为经验转化的枢纽，逼近正确答案
+- [[Growth_Authorization_and_Organizational_Judgment|增长、授权与组织判断]] - 用收益上限、失败成本与可逆性区分失败之错和错过之错
 
 ## 来源
 

@@ -1342,3 +1342,13 @@
 - 更新 pages/index.md
 
 ---
+
+## [2026-08-20] ingest | 李翔商业内参：增长、授权与组织判断
+
+- 保存专题源文档：`raw/articles/2026-08-20-李翔商业内参-增长授权与组织判断.md`
+- 创建综合页：`pages/Growth_Authorization_and_Organizational_Judgment.md`
+- 核心结构：职业团队、增长底线、北极星与飞轮、Context not Control、失败之错与错过之错
+- 更新交叉引用：`Leadership/L15_Three_Actions_of_Great_Teachers.md`、`Leadership/L20_Smart_Failure.md`、`Leadership/L11_Mantra_3_What_Do_You_Think.md`、`Innovation_Lessons_from_Failure.md`、`Abusive_Delegation.md`
+- 更新 `pages/index.md`
+
+---

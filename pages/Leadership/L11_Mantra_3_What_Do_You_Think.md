@@ -407,6 +407,7 @@ Level 5: 行动规划
 - [[Leadership/L10_Devils_Advocate|第10讲：培养唱反调的人]]
 - 启发式提问技巧
 - 团队赋能与授权
+- [[Growth_Authorization_and_Organizational_Judgment|增长、授权与组织判断]] —— 提问式领导需要以充分上下文为基础，避免把放手误当授权
 
 ---
 

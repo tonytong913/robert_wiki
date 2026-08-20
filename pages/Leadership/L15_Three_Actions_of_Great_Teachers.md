@@ -673,7 +673,8 @@
 - [[Leadership/L11_Mantra_3_What_Do_You_Think]] —— 倾听是服务支持的起点
 - [[Leadership/L12_Two_Elements_of_Stories]] —— 如何用故事呈现设计
 - [[Leadership/L13_The_Mirror_in_Stories]] —— 如何让下属从故事中看到自己
+- [[Growth_Authorization_and_Organizational_Judgment|增长、授权与组织判断]] —— 将“设计、教授、支持”落实为北极星、共享上下文与授权边界
 
 ---
 
-*最后更新：2026-04-11*
+*最后更新：2026-08-20*

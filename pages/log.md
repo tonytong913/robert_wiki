@@ -1352,3 +1352,13 @@
 - 更新 `pages/index.md`
 
 ---
+
+## [2026-08-20] ingest | 李翔商业内参：组织更新与质量增长
+
+- 保存专题源文档：`raw/articles/2026-08-20-李翔商业内参-组织更新与质量增长.md`
+- 创建综合页：`pages/Organizational_Renewal_and_Quality_Growth.md`
+- 核心结构：独立创业机制、协作成本、品牌边界、组织恢复力、成长与膨胀
+- 更新交叉引用：`Growth_Authorization_and_Organizational_Judgment.md`、`Innovation_Lessons_from_Failure.md`、`Leadership/L20_Smart_Failure.md`、`Open_Mindset.md`、`Executive_Feet_in_the_Mud.md`、`Grey_Zone_Leadership.md`
+- 更新 `pages/index.md`
+
+---

@@ -423,6 +423,7 @@
 - **成长型思维**（Growth Mindset）：相信能力可以通过努力发展
 - **敏捷迭代**（Agile Iteration）：快速试错、持续改进的方法论
 - [[Growth_Authorization_and_Organizational_Judgment|增长、授权与组织判断]] —— 区分失败之错与错过之错，按风险结构决定试验速度
+- [[Organizational_Renewal_and_Quality_Growth|组织更新与质量增长]] —— 将失败前预案、失败中响应、失败后复盘连接成组织恢复力
 
 ---
 

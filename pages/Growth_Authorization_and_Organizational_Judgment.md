@@ -9,6 +9,7 @@ related:
   - "[[Leadership/L20_Smart_Failure]]"
   - "[[Innovation_Lessons_from_Failure]]"
   - "[[Abusive_Delegation]]"
+  - "[[Organizational_Renewal_and_Quality_Growth]]"
 tags: [增长, 授权, 组织文化, 北极星, 飞轮, 决策, 失败]
 created: 2026-08-20
 updated: 2026-08-20
@@ -128,6 +129,7 @@ Uber 的增长优先文化曾庇护行为恶劣的高绩效者，并让性骚扰
 - [[Leadership/L20_Smart_Failure|组织要学会聪明的失败]] — 控制试验成本并沉淀学习
 - [[Innovation_Lessons_from_Failure|创新：从失败中学习]] — 识别创新陷阱
 - [[Abusive_Delegation|滥授权]] — 缺少能力匹配与支持的伪授权
+- [[Organizational_Renewal_and_Quality_Growth|组织更新与质量增长]] — 进一步区分规模扩张与能力成长，连接转型、品牌、协作成本和恢复力
 
 ## 来源
 

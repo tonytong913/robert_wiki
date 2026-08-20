@@ -11,9 +11,10 @@ related:
   - "[[Understanding_Comprehension|理解力]]"
   - "[[Mastery_Before_Balance|先有功力再谈火候]]"
   - "[[Cooking_as_Practice|厨艺：作为修行法门]]"
+  - "[[Organizational_Renewal_and_Quality_Growth]]"
 tags: [领导力, 管理, 一线, 决策, 洞察, 高管]
 created: 2026-05-12
-updated: 2026-05-12
+updated: 2026-08-20
 confidence: high
 ---
 
@@ -99,6 +100,7 @@ confidence: high
 - [[Upward_Responsibility_Shifting|向上责任转移]] — 反向对照：推责高管的操作手法
 - [[Abusive_Delegation|滥授权]] — 反向对照：以培养为名的责任抛弃
 - [[Workplace_Manipulation_Tactics|职场操纵伎俩]] — 节能型高管的完整画像
+- [[Organizational_Renewal_and_Quality_Growth|组织更新与质量增长]] — 质量增长与恢复力都需要高管到一线识别真实问题
 
 ## 来源
 

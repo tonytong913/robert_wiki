@@ -125,6 +125,7 @@
 - [[Cognitive_Limitation|认知局限]] — 认知边界的形成与突破
 - [[True_Learning_Attitude|真正的学习态度]] — 内在求知心态的建立
 - 成长型思维 — 相信能力可发展的信念
+- [[Organizational_Renewal_and_Quality_Growth|组织更新与质量增长]] — 成熟企业从“知道一切”转向“学习一切”，才能摆脱成功经验形成的枷锁
 
 ---
 

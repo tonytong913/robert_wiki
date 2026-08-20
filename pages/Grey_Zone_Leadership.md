@@ -9,9 +9,10 @@ related:
   - "[[Leadership/L03_Mantra_1_I_Come|领导力口诀1: 我来]]"
   - "[[Leadership/L07_Leadership_vs_Management|领导与管理]]"
   - "[[Disorder_and_Vitality|芜杂：混乱中蕴藏生机]]"
+  - "[[Organizational_Renewal_and_Quality_Growth]]"
 tags: [高管, 领导力, 模糊地带, 组织能力, 横向推动, 创业者精神]
 created: 2026-05-26
-updated: 2026-05-26
+updated: 2026-08-20
 confidence: high
 ---
 
@@ -123,6 +124,7 @@ confidence: high
 - [[Disorder_and_Vitality|芜杂：混乱中蕴藏生机]] — 模糊地带是组织芜杂的一部分，蕴藏着组织成长的机会
 - [[Executive_Feet_in_the_Mud|高管：做不到双手沾泥也要双脚沾泥]] — 发现问题需要双脚沾泥去一线
 - [[Oversensitive_Executives|过于敏感的高管]] — 反面：在模糊地带面前被小信号消耗、无力行动
+- [[Organizational_Renewal_and_Quality_Growth|组织更新与质量增长]] — 用清晰权责约束过度协作，同时保留创新所需的组织弹性
 
 ---
 

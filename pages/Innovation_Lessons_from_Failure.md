@@ -90,6 +90,7 @@
 - [[Intelligence_vs_Wisdom|聪明与智慧]] - 看得更深更远的智慧
 - [[Reflection_Approaching_Correct_Answer|反思：如何一步步迫近正确答案]] - 反思作为经验转化的枢纽，逼近正确答案
 - [[Growth_Authorization_and_Organizational_Judgment|增长、授权与组织判断]] - 用收益上限、失败成本与可逆性区分失败之错和错过之错
+- [[Organizational_Renewal_and_Quality_Growth|组织更新与质量增长]] - 用风险清单、复盘和制度更新把失败转化为组织恢复力
 
 ## 来源
 

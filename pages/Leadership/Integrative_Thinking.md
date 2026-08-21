@@ -93,6 +93,7 @@
 - [[L25_Decision_vs_Choice|决策 vs 决定]] — 系统思维与整合思考的关系
 - [[L28_Root_Metaphor|组织的根隐喻]] — 思维方式对组织管理的影响
 - [[L22_Reflection_Essence|反思的本质]] — 对思之再思，提升思维能力
+- [[Adaptive_Organization_Under_Complexity|复杂环境中的组织适应]] — 把现实与理想、当下与未来的矛盾转化为经营设计条件
 
 ---
 

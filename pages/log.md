@@ -1382,3 +1382,14 @@
 - 更新 `pages/index.md` 的源文档目录和统计
 
 ---
+
+## [2026-08-21] ingest | 李翔商业内参：复杂环境中的组织适应
+
+- 从百度网盘“产品与增长/03李翔商业内参(完结）/markdown格式”下载并原样保存 4 篇 Markdown：`20170413-最顶尖的特种部队如何运行.md`、`20170418-一种思考方式： 现象问题与基本问题.md`、`20170513-经营就是与矛盾斗争.md`、`20170525-比尔盖茨的人生建议.md`
+- 使用 `viewpoint-structure` 解读并创建综合页：`pages/Adaptive_Organization_Under_Complexity.md`
+- 核心结构：前线决策与后台支持、现象与基本问题、经营关键矛盾、异质人才与工具扩展认知
+- 明确区分原文案例、解释性推断和实践启发，并标注 2017 年历史材料及 OCR 边界
+- 更新 7 处交叉引用：`Growth_Authorization_and_Organizational_Judgment.md`、`Grey_Zone_Leadership.md`、`Executive_Feet_in_the_Mud.md`、`Confirmation_Bias.md`、`Intellectual_Humility.md`、`Leadership/Integrative_Thinking.md`、`Leadership/L10_Devils_Advocate.md`
+- 更新 `pages/index.md`
+
+---

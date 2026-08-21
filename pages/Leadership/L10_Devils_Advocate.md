@@ -424,6 +424,7 @@
 - 组织文化
 - 决策质量
 - [[Talent_Truth_Dissent_and_User_Value|人才、事实、异议与用户价值]] — “鼓励带方案”不能变成压制坏消息和不同意见的门槛
+- [[Adaptive_Organization_Under_Complexity|复杂环境中的组织适应]] — 让挑战者留在身边，以弥补领导者的能力和预测边界
 
 ---
 

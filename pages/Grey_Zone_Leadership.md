@@ -125,6 +125,7 @@ confidence: high
 - [[Executive_Feet_in_the_Mud|高管：做不到双手沾泥也要双脚沾泥]] — 发现问题需要双脚沾泥去一线
 - [[Oversensitive_Executives|过于敏感的高管]] — 反面：在模糊地带面前被小信号消耗、无力行动
 - [[Organizational_Renewal_and_Quality_Growth|组织更新与质量增长]] — 用清晰权责约束过度协作，同时保留创新所需的组织弹性
+- [[Adaptive_Organization_Under_Complexity|复杂环境中的组织适应]] — 区分可创造新方案的结构性张力与权责混乱造成的内耗
 
 ---
 

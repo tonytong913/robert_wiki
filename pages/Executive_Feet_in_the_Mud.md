@@ -101,6 +101,7 @@ confidence: high
 - [[Abusive_Delegation|滥授权]] — 反向对照：以培养为名的责任抛弃
 - [[Workplace_Manipulation_Tactics|职场操纵伎俩]] — 节能型高管的完整画像
 - [[Organizational_Renewal_and_Quality_Growth|组织更新与质量增长]] — 质量增长与恢复力都需要高管到一线识别真实问题
+- [[Adaptive_Organization_Under_Complexity|复杂环境中的组织适应]] — 从一线现象追到反复发生的基本问题
 
 ## 来源
 

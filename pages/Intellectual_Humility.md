@@ -110,6 +110,7 @@
 - [[Smart_People_Arrogance|聪明人的傲慢]] — 忍住不展示才智，把收敛锋芒视为一种智慧
 - [[Listening_The_Art|倾听：把刀收进鞘里]] — 倾听是对才智锋芒的收敛
 - [[Talent_Truth_Dissent_and_User_Value|人才、事实、异议与用户价值]] — 用连续调查和自我否定能力让证据更新判断
+- [[Adaptive_Organization_Under_Complexity|复杂环境中的组织适应]] — 专业能力不会自动迁移，需用异质人才、挑战者和工具扩展认知
 
 ---
 

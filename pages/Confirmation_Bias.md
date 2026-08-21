@@ -144,6 +144,7 @@
 - [[Open_Mindset|开放心态]] — 准备随时放弃旧观点
 - [[Self_Doubt|自我怀疑]] — 质疑自己信念的契机
 - [[Talent_Truth_Dissent_and_User_Value|人才、事实、异议与用户价值]] — 组织诊断中如何避免让预设结论跑在事实前面
+- [[Adaptive_Organization_Under_Complexity|复杂环境中的组织适应]] — 从“我知道”转向验证基本问题和认知边界
 
 ---
 

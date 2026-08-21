@@ -2,6 +2,10 @@
 title: 人才、事实、异议与用户价值
 type: comparison
 sources:
+  - raw/articles/20170509-雷军是如何挖人的.md
+  - raw/articles/20170511-记者之王的报道方法论.md
+  - raw/articles/20170516-阿里巴巴内部的批评文化.md
+  - raw/articles/20170518-优秀产品经理的特质.md
   - raw/articles/2026-08-21-李翔商业内参-人才事实异议与用户价值.md
 related:
   - "[[Leadership/L17_Four_Words_of_Teaching]]"
@@ -137,6 +141,10 @@ confidence: medium
 
 ## 来源
 
+- [2017-05-09《雷军是如何挖人的》原始 Markdown](../raw/articles/20170509-雷军是如何挖人的.md)
+- [2017-05-11《记者之王的报道方法论》原始 Markdown](../raw/articles/20170511-记者之王的报道方法论.md)
+- [2017-05-16《阿里巴巴内部的批评文化》原始 Markdown](../raw/articles/20170516-阿里巴巴内部的批评文化.md)
+- [2017-05-18《优秀产品经理的特质》原始 Markdown](../raw/articles/20170518-优秀产品经理的特质.md)
 - [李翔商业内参：人才、事实、异议与用户价值专题解读](../raw/articles/2026-08-21-李翔商业内参-人才事实异议与用户价值.md)
 
 ---

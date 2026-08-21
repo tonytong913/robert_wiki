@@ -68,6 +68,7 @@
 - [[MEL_Principle_Learning|MEL原则]] — 不理想条件下也要完成学习
 - [[Becoming_Yourself_True_Meaning|成为自己]] - 全面认知自我，用不完美的自己达成美好
 - [[Transforming_Scarcity_Into_Growth|匮乏转化为成长]] — 20多岁是学习效率的黄金窗口
+- [[Management_Boundary_Design|管理边界设计]] — 把现实问题带入阅读，并用实践检验学习成果
 
 ## 来源
 

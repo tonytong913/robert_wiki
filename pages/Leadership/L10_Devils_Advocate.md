@@ -425,6 +425,7 @@
 - 决策质量
 - [[Talent_Truth_Dissent_and_User_Value|人才、事实、异议与用户价值]] — “鼓励带方案”不能变成压制坏消息和不同意见的门槛
 - [[Adaptive_Organization_Under_Complexity|复杂环境中的组织适应]] — 让挑战者留在身边，以弥补领导者的能力和预测边界
+- [[Management_Boundary_Design|管理边界设计]] — 工作环境必须让不同意见有机会进入真实的改进流程
 
 ---
 

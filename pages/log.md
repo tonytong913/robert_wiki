@@ -1393,3 +1393,14 @@
 - 更新 `pages/index.md`
 
 ---
+
+## [2026-08-21] ingest | 李翔商业内参：管理边界设计
+
+- 摄入 4 篇已从百度网盘下载的原始 Markdown：`20170421-见闻一次拜访苹果公司的经理.md`、`20170422-在工作环境上采取弃权政策是一个错误.md`、`20170424-张瑞敏的读书方法和书单.md`、`20170427-维护品牌而不是盲目去做新产品.md`
+- 使用 `viewpoint-structure` 编译综合页：`pages/Management_Boundary_Design.md`
+- 核心结构：规则边界、环境边界、认知边界、战略边界
+- 保留原文案例与实践启发，明确 OCR、历史信息和单案例证据边界
+- 更新 7 处交叉引用：`Organizational_Renewal_and_Quality_Growth.md`、`Talent_Truth_Dissent_and_User_Value.md`、`Adult_Learning_Guide.md`、`Minimum_Reading_List.md`、`Innovation_Lessons_from_Failure.md`、`Internal_Institutionalization.md`、`Leadership/L10_Devils_Advocate.md`
+- 更新 `pages/index.md`
+
+---

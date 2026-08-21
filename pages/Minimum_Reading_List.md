@@ -79,6 +79,7 @@ MEL（最低设备清单）= 飞机起飞所需的最少设备。飞机不需要
 - [[Master_Writes_Small]] — 大家写小文
 - [[Understanding_Comprehension]] — 理解力
 - [[Shock_vs_Structure]] — 震撼 vs 心智结构
+- [[Management_Boundary_Design|管理边界设计]] — 问题驱动阅读：先筛选核心内容，再回到实践验证
 
 ---
 

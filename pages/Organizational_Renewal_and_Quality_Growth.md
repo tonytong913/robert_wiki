@@ -140,6 +140,7 @@ SpaceX 在火箭连续发射失败后列出十大风险，建立预先检查程�
 - [[Open_Mindset|开放心态]] — 从“知道一切”转向“学习一切”
 - [[Executive_Feet_in_the_Mud|高管：双脚沾泥]] — 在一线识别真实的质量与协作问题
 - [[Grey_Zone_Leadership|模糊地带领导力]] — 在组织复杂性中横向推动并建设能力
+- [[Management_Boundary_Design|管理边界设计]] — 用品牌承诺和组织机制约束扩张冲动
 
 ## 来源
 

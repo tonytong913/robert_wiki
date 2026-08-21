@@ -76,6 +76,7 @@ confidence: high
 - **[[Cognitive_Limitation]]**：体制化是认知局限的极端形态——不是天生的局限，而是自造的牢笼
 - **[[Confirmation_Bias]]**：体制化会强化确认偏误，让人只看到符合过去经验的信息
 - **[[Binary_Thinking]]**：体制化倾向于非黑即白判断（"可行/不可行"），而不是接受灰度
+- **[[Management_Boundary_Design]]**：可靠规则应当一致、可申诉、可修正，避免从边界退化为牢笼
 
 ---
 

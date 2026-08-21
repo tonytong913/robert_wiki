@@ -100,6 +100,8 @@ confidence: medium
 
 ## 相关页面
 
+- [[Commercial_Innovation_Reality_Constraints|商业创新的现实约束]] — 免费硬件、线下服务和信用系统都可能把成本转移到其他环节
+
 - [[Table_Stacking|叠桌子：人世间的分层模型]] — 每一层桌子上的三种选择，各有各的代价
 - [[Choose_Bear_Receive|你选择，你承担，你得到]] — 选择 → 承担代价 → 得到幸福
 - [[Family_of_Origin|原生家庭]] — 选择脱离原生家庭，承担后果，得到属于自己的幸福

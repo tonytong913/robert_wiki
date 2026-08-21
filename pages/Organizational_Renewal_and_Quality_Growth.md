@@ -141,6 +141,7 @@ SpaceX 在火箭连续发射失败后列出十大风险，建立预先检查程�
 - [[Executive_Feet_in_the_Mud|高管：双脚沾泥]] — 在一线识别真实的质量与协作问题
 - [[Grey_Zone_Leadership|模糊地带领导力]] — 在组织复杂性中横向推动并建设能力
 - [[Management_Boundary_Design|管理边界设计]] — 用品牌承诺和组织机制约束扩张冲动
+- [[Commercial_Innovation_Reality_Constraints|商业创新的现实约束]] — 把品牌风险、交付成本和公共责任纳入能力闸门
 
 ## 来源
 

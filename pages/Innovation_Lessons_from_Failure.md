@@ -92,6 +92,7 @@
 - [[Growth_Authorization_and_Organizational_Judgment|增长、授权与组织判断]] - 用收益上限、失败成本与可逆性区分失败之错和错过之错
 - [[Organizational_Renewal_and_Quality_Growth|组织更新与质量增长]] - 用风险清单、复盘和制度更新把失败转化为组织恢复力
 - [[Management_Boundary_Design|管理边界设计]] — 用品牌承诺评估创新失败的外溢风险
+- [[Commercial_Innovation_Reality_Constraints|商业创新的现实约束]] — 软件、硬件和公共基础设施需要不同试错方式
 
 ## 来源
 

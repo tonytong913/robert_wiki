@@ -139,6 +139,7 @@ confidence: medium
 - [[Understand_Before_Judging|先理解再判断]] — 产品和调查都应先理解具体情境
 - [[Growth_Authorization_and_Organizational_Judgment|增长、授权与组织判断]] — 组织判断系统的战略与授权侧
 - [[Management_Boundary_Design|管理边界设计]] — 规则与工作环境共同决定异议能否进入真实改进流程
+- [[Commercial_Innovation_Reality_Constraints|商业创新的现实约束]] — 从用户完整任务而非最终成交点识别价值
 
 ## 来源
 

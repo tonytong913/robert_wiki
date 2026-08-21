@@ -1404,3 +1404,14 @@
 - 更新 `pages/index.md`
 
 ---
+
+## [2026-08-21] ingest | 李翔商业内参：商业创新的现实约束
+
+- 摄入 4 篇已从百度网盘下载的原始 Markdown：`20170410-做硬件和软件的不同.md`、`20170417-线下角色.md`、`20170420-新时代网红六步法则.md`、`20170425-蚂蚁金服的信用梦想和监管机构的冷水浇头.md`
+- 使用 `viewpoint-structure` 编译综合页：`pages/Commercial_Innovation_Reality_Constraints.md`
+- 核心结构：产品约束、场景约束、信任约束、公共约束
+- 区分原文事实、解释性推断和实践启发，标注 2017 年历史信息及 OCR 边界
+- 更新 6 处交叉引用：`Management_Boundary_Design.md`、`Growth_Authorization_and_Organizational_Judgment.md`、`Organizational_Renewal_and_Quality_Growth.md`、`Talent_Truth_Dissent_and_User_Value.md`、`Innovation_Lessons_from_Failure.md`、`Choice_Has_Cost.md`
+- 更新 `pages/index.md`
+
+---

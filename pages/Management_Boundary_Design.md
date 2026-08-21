@@ -146,6 +146,7 @@ confidence: medium
 - [[Innovation_Lessons_from_Failure|从失败中学习]] — 在品牌风险和创新试验之间设置边界
 - [[Internal_Institutionalization|内心的体制化]] — 防止规则从可靠边界变成认知牢笼
 - [[Leadership/L10_Devils_Advocate|培养唱反调的人]] — 工作环境需要保护基于事实的不同意见
+- [[Commercial_Innovation_Reality_Constraints|商业创新的现实约束]] — 物理成本、真实场景、身份信任与公共规则构成外部边界
 
 ## 来源
 

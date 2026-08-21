@@ -254,6 +254,7 @@
 - [[Leadership/L11_Mantra_3_What_Do_You_Think]] — 倾听发现人才
 
 ### 延伸阅读
+- [[Talent_Truth_Dissent_and_User_Value|人才、事实、异议与用户价值]] — 关键人才引进不仅是“选”，也需要负责人亲自解释愿景、风险并建立信任
 - 彼得·德鲁克《管理的实践》
 - 马库斯·白金汉《首先，打破一切规则》
 

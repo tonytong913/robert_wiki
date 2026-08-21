@@ -141,6 +141,7 @@ confidence: high
 - [[Upward_Responsibility_Shifting|向上责任转移]] — 内战内行的一种表现
 - [[Executive_Feet_in_the_Mud|高管：双脚沾泥]] — 真正的高管应该怎么做
 - [[Leadership/L07_Leadership_vs_Management|领导与管理]] — 领导的本质是推动变革
+- [[Talent_Truth_Dissent_and_User_Value|人才、事实、异议与用户价值]] — 组织对现有成员的真实态度，是吸引外部关键人才的隐性信用
 
 ## 来源
 

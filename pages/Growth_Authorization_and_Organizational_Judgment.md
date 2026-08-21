@@ -130,6 +130,7 @@ Uber 的增长优先文化曾庇护行为恶劣的高绩效者，并让性骚扰
 - [[Innovation_Lessons_from_Failure|创新：从失败中学习]] — 识别创新陷阱
 - [[Abusive_Delegation|滥授权]] — 缺少能力匹配与支持的伪授权
 - [[Organizational_Renewal_and_Quality_Growth|组织更新与质量增长]] — 进一步区分规模扩张与能力成长，连接转型、品牌、协作成本和恢复力
+- [[Talent_Truth_Dissent_and_User_Value|人才、事实、异议与用户价值]] — 补足判断系统的人才入口、事实更新、异议通道与用户校验
 
 ## 来源
 

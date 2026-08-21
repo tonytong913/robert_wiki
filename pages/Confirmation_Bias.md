@@ -143,6 +143,7 @@
 - [[Intellectual_Humility|智识谦逊]] — 承认认知有限的美德
 - [[Open_Mindset|开放心态]] — 准备随时放弃旧观点
 - [[Self_Doubt|自我怀疑]] — 质疑自己信念的契机
+- [[Talent_Truth_Dissent_and_User_Value|人才、事实、异议与用户价值]] — 组织诊断中如何避免让预设结论跑在事实前面
 
 ---
 

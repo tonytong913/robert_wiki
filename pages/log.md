@@ -1362,3 +1362,14 @@
 - 更新 `pages/index.md`
 
 ---
+
+## [2026-08-21] ingest | 李翔商业内参：人才、事实、异议与用户价值
+
+- 保存用户确认的完整专题解读：`raw/articles/2026-08-21-李翔商业内参-人才事实异议与用户价值.md`
+- 创建综合页：`pages/Talent_Truth_Dissent_and_User_Value.md`
+- 保留“观点 / 佐证 / 解读 / 启发”主体结构，新增 4 处必要旁注：负责人招聘边界、历史数字边界、批评发言门槛、用户价值公式适用方式
+- 核心判断链：关键人才投入 → 事实持续更新 → 异议有效上行 → 用户价值校验
+- 更新 7 处交叉引用：`Leadership/L17_Four_Words_of_Teaching.md`、`Internal_Expert_External_Amateur.md`、`Confirmation_Bias.md`、`Intellectual_Humility.md`、`Leadership/L10_Devils_Advocate.md`、`Understand_Before_Judging.md`、`Growth_Authorization_and_Organizational_Judgment.md`
+- 更新 `pages/index.md`
+
+---

@@ -64,6 +64,7 @@ confidence: high
 - [[Elegance_and_Vulgarity_Shared]] — Q&A 全文
 - [[Intellectual_Humility]] — 智识谦逊
 - [[Binary_Thinking]] — 二极管思维
+- [[Talent_Truth_Dissent_and_User_Value|人才、事实、异议与用户价值]] — 调查与产品判断都应先理解具体情境，再形成结论
 
 ---
 

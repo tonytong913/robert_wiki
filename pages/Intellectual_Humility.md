@@ -109,6 +109,7 @@
 - [[Mind_Your_Own_Business|少管闲事]] — 对判断力边界的清醒就是智识谦逊的实践
 - [[Smart_People_Arrogance|聪明人的傲慢]] — 忍住不展示才智，把收敛锋芒视为一种智慧
 - [[Listening_The_Art|倾听：把刀收进鞘里]] — 倾听是对才智锋芒的收敛
+- [[Talent_Truth_Dissent_and_User_Value|人才、事实、异议与用户价值]] — 用连续调查和自我否定能力让证据更新判断
 
 ---
 

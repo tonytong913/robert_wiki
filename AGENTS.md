@@ -148,6 +148,11 @@ confidence: high       # high | medium | low
 
 当用户添加新资料：
 
+0. **文章提取前先查已读账本**（不可省略）
+   - 账本：`data/article_read_ledger.tsv`
+   - 查询：`python tools/article_ledger.py check --source "来源" --date YYYY-MM-DD --title "标题"`
+   - 输出 `SEEN`（退出码 10）：默认跳过，不再下载、阅读或编译；除非用户明确要求重读
+   - 输出 `NEW`（退出码 0）：才继续提取
 1. **先保存源文件到 raw/ 对应目录**（这是第一步，不可省略）
    - 单篇文章 → `raw/articles/YYYY-MM-DD-来源简称.md`
    - 书籍/课程 → `raw/books/编号_章节名.md`
@@ -164,6 +169,8 @@ confidence: high       # high | medium | low
 5. 更新 `pages/index.md`
 6. 记录到 `pages/log.md`（格式：`## [YYYY-MM-DD] ingest | 描述`）
 7. **自动 git commit + push**（必做，不可省略）
+8. **成功阅读/摄入后登记账本**（失败或仅下载时不得登记）
+   - `python tools/article_ledger.py add --source "来源" --date YYYY-MM-DD --title "标题" --status ingested --raw-path "raw/..."`
 
 **关键**: Ingest 不是"创建 1 个新页面"，而是**级联更新**整个相关知识图谱。
 **关键**: 源文件必须先保存到 raw/，再编译页面。raw/ 是完整的事实源，不可省略这一步。

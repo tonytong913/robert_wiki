@@ -6,6 +6,7 @@
 > **前置知识**：
 > - [[Leadership/L19_Those_Who_Never_Failed]]（失败与成长的关系）
 > - [[Leadership/Bonus_Problem_Mindset]]（问题心智）
+> - [[Winning_Feedback_and_Day1_Organization]]（失败不会自动产生学习）
 
 ---
 

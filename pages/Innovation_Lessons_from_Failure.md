@@ -68,6 +68,8 @@
 3. **失败原因高度相似** - 陷阱和思维死结有共性
 4. **失败教训更具体** - "不要做什么"比"要做什么"更清晰
 
+**边界补充**：失败不会自动产生学习，失败故事也可能带有幸存者偏差。需要把原假设、结果、归因、行动调整和再次验证连成闭环，参见 [[Winning_Feedback_and_Day1_Organization|胜利目标、反馈学习与 Day 1 组织]]。
+
 ---
 
 ## 创新者的行动指南
@@ -93,6 +95,7 @@
 - [[Organizational_Renewal_and_Quality_Growth|组织更新与质量增长]] - 用风险清单、复盘和制度更新把失败转化为组织恢复力
 - [[Management_Boundary_Design|管理边界设计]] — 用品牌承诺评估创新失败的外溢风险
 - [[Commercial_Innovation_Reality_Constraints|商业创新的现实约束]] — 软件、硬件和公共基础设施需要不同试错方式
+- [[Winning_Feedback_and_Day1_Organization|胜利目标、反馈学习与 Day 1 组织]] — 区分失败结果与有效学习，补充幸存者偏差
 
 ## 来源
 

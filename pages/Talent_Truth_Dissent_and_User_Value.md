@@ -17,7 +17,7 @@ related:
   - "[[Understand_Before_Judging]]"
 tags: [关键人才, 调查, 事实, 建设性批评, 异议, 产品经理, 用户价值, 替换成本, 组织判断]
 created: 2026-08-21
-updated: 2026-08-21
+updated: 2026-08-26
 confidence: medium
 ---
 
@@ -140,6 +140,7 @@ confidence: medium
 - [[Growth_Authorization_and_Organizational_Judgment|增长、授权与组织判断]] — 组织判断系统的战略与授权侧
 - [[Management_Boundary_Design|管理边界设计]] — 规则与工作环境共同决定异议能否进入真实改进流程
 - [[Commercial_Innovation_Reality_Constraints|商业创新的现实约束]] — 从用户完整任务而非最终成交点识别价值
+- [[Winning_Feedback_and_Day1_Organization|胜利目标、反馈学习与 Day 1 组织]] — 用付费、使用和替代行为区分用户“想要”与真实需要
 
 ## 来源
 

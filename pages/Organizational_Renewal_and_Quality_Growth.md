@@ -12,7 +12,7 @@ related:
   - "[[Grey_Zone_Leadership]]"
 tags: [组织转型, 协作成本, 品牌, 恢复力, 质量增长, 第二曲线]
 created: 2026-08-20
-updated: 2026-08-20
+updated: 2026-08-26
 confidence: medium
 ---
 
@@ -142,6 +142,7 @@ SpaceX 在火箭连续发射失败后列出十大风险，建立预先检查程�
 - [[Grey_Zone_Leadership|模糊地带领导力]] — 在组织复杂性中横向推动并建设能力
 - [[Management_Boundary_Design|管理边界设计]] — 用品牌承诺和组织机制约束扩张冲动
 - [[Commercial_Innovation_Reality_Constraints|商业创新的现实约束]] — 把品牌风险、交付成本和公共责任纳入能力闸门
+- [[Winning_Feedback_and_Day1_Organization|胜利目标、反馈学习与 Day 1 组织]] — 防止流程取代目的，并识别防御性过度协作
 
 ## 来源
 

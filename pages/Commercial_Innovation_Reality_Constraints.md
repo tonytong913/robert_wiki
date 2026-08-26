@@ -15,7 +15,7 @@ related:
   - "[[Choice_Has_Cost]]"
 tags: [商业创新, 硬件, 线下渠道, 品牌真实性, 信用, 监管, 公共责任]
 created: 2026-08-21
-updated: 2026-08-21
+updated: 2026-08-26
 confidence: medium
 ---
 
@@ -132,6 +132,7 @@ confidence: medium
 - [[Talent_Truth_Dissent_and_User_Value|人才、事实、异议与用户价值]] — 用用户完整任务而非单一成交点理解价值
 - [[Innovation_Lessons_from_Failure|从失败中学习]] — 不同类型产品需要不同试错方式
 - [[Choice_Has_Cost|选择有代价]] — 免费、渠道和公共服务都存在成本转移
+- [[Winning_Feedback_and_Day1_Organization|胜利目标、反馈学习与 Day 1 组织]] — 用行为证据区分用户想要与真实需要
 
 ## 来源
 

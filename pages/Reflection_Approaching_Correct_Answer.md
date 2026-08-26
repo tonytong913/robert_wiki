@@ -120,6 +120,7 @@
 - [[L23_Four_Elements_of_Reflection|反思的四大要素]] - 刘澜领导力第23讲
 - [[L20_Smart_Failure|聪明的失败]] - 刘澜领导力第20讲
 - [[Innovation_Lessons_from_Failure|创新：从失败中学习]]
+- [[Winning_Feedback_and_Day1_Organization|胜利目标、反馈学习与 Day 1 组织]] - 失败只有进入假设、归因、调整与再验证的闭环才产生学习
 - [[True_Learning_Attitude|真正的学习态度]]
 - [[Adult_Learning_Guide|成年人学习指南]]
 

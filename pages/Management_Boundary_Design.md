@@ -16,7 +16,7 @@ related:
   - "[[Leadership/L10_Devils_Advocate]]"
 tags: [管理, 边界, 规则, 工作环境, 阅读, 品牌, 组织设计]
 created: 2026-08-21
-updated: 2026-08-21
+updated: 2026-08-26
 confidence: medium
 ---
 
@@ -147,6 +147,7 @@ confidence: medium
 - [[Internal_Institutionalization|内心的体制化]] — 防止规则从可靠边界变成认知牢笼
 - [[Leadership/L10_Devils_Advocate|培养唱反调的人]] — 工作环境需要保护基于事实的不同意见
 - [[Commercial_Innovation_Reality_Constraints|商业创新的现实约束]] — 物理成本、真实场景、身份信任与公共规则构成外部边界
+- [[Winning_Feedback_and_Day1_Organization|胜利目标、反馈学习与 Day 1 组织]] — 检查流程是否仍服务最终目的，而不是成为代理目标
 
 ## 来源
 

@@ -12,7 +12,7 @@ related:
   - "[[Organizational_Renewal_and_Quality_Growth]]"
 tags: [增长, 授权, 组织文化, 北极星, 飞轮, 决策, 失败]
 created: 2026-08-20
-updated: 2026-08-20
+updated: 2026-08-26
 confidence: medium
 ---
 
@@ -133,6 +133,7 @@ Uber 的增长优先文化曾庇护行为恶劣的高绩效者，并让性骚扰
 - [[Talent_Truth_Dissent_and_User_Value|人才、事实、异议与用户价值]] — 补足判断系统的人才入口、事实更新、异议通道与用户校验
 - [[Adaptive_Organization_Under_Complexity|复杂环境中的组织适应]] — 用前线决策、后台支持和短指挥链处理时间敏感任务
 - [[Commercial_Innovation_Reality_Constraints|商业创新的现实约束]] — 用成本与可逆性决定产品试错速度
+- [[Winning_Feedback_and_Day1_Organization|胜利目标、反馈学习与 Day 1 组织]] — 用 Day 1 原则连接客户价值、反馈学习与高速决策
 
 ## 来源
 

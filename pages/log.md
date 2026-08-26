@@ -44,6 +44,17 @@
 
 ---
 
+## [2026-08-26] ingest | 李翔商业内参：胜利目标、反馈学习与 Day 1 组织
+
+- 摄入 3 篇已从百度网盘获取的原始 Markdown：`20170408-要以胜利为中心 ，而不是以省钱为中心.md`、`20170411-被夸大的失败经验和失败学习.md`、`20170414-day1公司和day2公司.md`
+- 使用 `viewpoint-structure` 编译综合页：`pages/Winning_Feedback_and_Day1_Organization.md`
+- 核心结构：关键成果校准资源、行为验证真实需求、失败反馈闭环、抵制代理、高速决策与未来入场券
+- 明确标注 2017 年历史信息、OCR、二手研究转述和单案例证据边界
+- 更新 8 处交叉引用：`Innovation_Lessons_from_Failure.md`、`Talent_Truth_Dissent_and_User_Value.md`、`Organizational_Renewal_and_Quality_Growth.md`、`Growth_Authorization_and_Organizational_Judgment.md`、`Commercial_Innovation_Reality_Constraints.md`、`Management_Boundary_Design.md`、`Reflection_Approaching_Correct_Answer.md`、`Leadership/L20_Smart_Failure.md`
+- 更新 `pages/index.md` 与文章账本
+
+---
+
 ## [2026-08-24] refactor | 增加文章已读去重账本
 
 - 新增 `data/article_read_ledger.tsv`，回填 17 篇此前已摄入的李翔商业内参文章

@@ -1435,3 +1435,13 @@
 - 更新 `pages/index.md`
 
 ---
+## [2026-08-30] ingest | 李翔商业内参：分布式领导与组织效率
+
+- 从本地“李翔商业内参”资料库原样保存 4 篇 Markdown：`20170426-情景管理而非控制管理.md`、`20170315-把工作和压力同时分发出去.md`、`20170314-三个提高组织效率的建议.md`、`20160715-如果CEO花70%的时间在做事上说明团队不强.md`
+- 使用 `viewpoint-structure` 编译综合页：`pages/Distributed_Leadership_and_Organizational_Efficiency.md`
+- 核心结构：共享上下文、共同承担问题、自驱小单元与信任、CEO 角色边界
+- 将高质量授权归纳为四项条件：信息、能力、责任、支持，并明确紧急任务、新业务早期和岗位错配时仍需加强控制
+- 更新 5 处交叉引用：`Growth_Authorization_and_Organizational_Judgment.md`、`Adaptive_Organization_Under_Complexity.md`、`Abusive_Delegation.md`、`Leadership/L11_Mantra_3_What_Do_You_Think.md`、`Leadership/L15_Three_Actions_of_Great_Teachers.md`
+- 更新 `pages/index.md` 与已读账本
+
+---

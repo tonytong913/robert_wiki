@@ -3,14 +3,16 @@ title: Abusive_Delegation
 type: concept
 sources:
   - raw/articles/2026-05-15-职场操纵术向上责任转移与向下滥授权.md
+  - raw/articles/20170315-把工作和压力同时分发出去.md
 related:
   - "[[Upward_Responsibility_Shifting]]"
   - "[[Workplace_Manipulation_Tactics]]"
   - "[[Executive_Feet_in_the_Mud]]"
   - "[[Growth_Authorization_and_Organizational_Judgment]]"
+  - "[[Distributed_Leadership_and_Organizational_Efficiency]]"
 tags: [职场, 管理, 滥授权, 责任逃避, 员工培养, 操纵]
 created: 2026-05-15
-updated: 2026-08-20
+updated: 2026-08-30
 confidence: high
 ---
 

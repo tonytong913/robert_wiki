@@ -14,9 +14,10 @@ related:
   - "[[Intellectual_Humility]]"
   - "[[Leadership/Integrative_Thinking]]"
   - "[[Leadership/L10_Devils_Advocate]]"
+  - "[[Distributed_Leadership_and_Organizational_Efficiency]]"
 tags: [复杂性, 组织适应, 一线授权, 基本问题, 矛盾管理, 智识谦逊, 人机协作]
 created: 2026-08-21
-updated: 2026-08-21
+updated: 2026-08-30
 confidence: medium
 ---
 
@@ -118,6 +119,7 @@ confidence: medium
 - [[Intellectual_Humility|智识谦逊]] — 承认专业能力和预测都有边界
 - [[Leadership/Integrative_Thinking|整合思考]] — 把矛盾转化为设计条件
 - [[Leadership/L10_Devils_Advocate|培养唱反调的人]] — 用挑战者改善判断质量
+- [[Distributed_Leadership_and_Organizational_Efficiency|分布式领导与组织效率]] — 将前线决策扩展为信息、能力、责任与支持四项授权条件
 
 ## 来源
 

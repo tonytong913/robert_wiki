@@ -1445,3 +1445,12 @@
 - 更新 `pages/index.md` 与已读账本
 
 ---
+
+## [2026-08-31] query | 校订“分布式领导与组织效率”
+
+- 确认 4 篇《李翔商业内参》已编译为 `pages/Distributed_Leadership_and_Organizational_Efficiency.md`
+- 核对页面完整覆盖共享上下文、共同担责、组织效率与 CEO 角色边界四项结论
+- 依据原始文档，将“CEO 花 70% 时间做事”观点的归属由“傅盛”修正为“杨浩涌”
+- 更新 `pages/index.md` 的最后更新说明
+
+---

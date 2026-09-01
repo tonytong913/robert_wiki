@@ -500,3 +500,4 @@
 - [[Leadership/L21_Mantra_6_Congrats_on_Failure]] —— 失败管理与学习心态
 - [[Leadership/L20_Smart_Failure]] —— 从失败中学习的机制
 - _mantras —— 十句口诀速查手册
+- [[Leadership_Stage_and_Organizational_Focus|领导者角色升级与组织聚焦]] —— 把大反思用于企业阶段判断、CEO 角色切换与组织聚焦

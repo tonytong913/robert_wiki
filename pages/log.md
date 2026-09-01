@@ -1454,3 +1454,14 @@
 - 更新 `pages/index.md` 的最后更新说明
 
 ---
+
+## [2026-09-01] ingest | 李翔商业内参：领导者角色升级与组织聚焦
+
+- 从本地“李翔商业内参”资料库原样保存 4 篇 Markdown：`20160823-五种容易迷失的领导者.md`、`20170301-CEO的红舞鞋状态.md`、`20170322-不同阶段的CEO.md`、`20170323-苹果公司的三个管理特质.md`
+- 使用 `viewpoint-structure` 编译综合页：`pages/Leadership_Stage_and_Organizational_Focus.md`
+- 核心结构：校准个人英雄心态、在顺境中提前学习、依据企业阶段切换 CEO 角色、用组织机制避免局部最优
+- 明确区分原文事实、解释性归纳与实践启发，并标注 OCR、历史信息和单案例证据边界
+- 更新 5 处交叉引用：`Distributed_Leadership_and_Organizational_Efficiency.md`、`Adaptive_Organization_Under_Complexity.md`、`Organizational_Renewal_and_Quality_Growth.md`、`Leadership/L24_Mantra_7_What_Should_I_Change.md`、`Leadership/L22_Reflection_Essence.md`
+- 更新 `pages/index.md` 与已读账本
+
+---

@@ -15,9 +15,10 @@ related:
   - "[[Leadership/Integrative_Thinking]]"
   - "[[Leadership/L10_Devils_Advocate]]"
   - "[[Distributed_Leadership_and_Organizational_Efficiency]]"
+  - "[[Leadership_Stage_and_Organizational_Focus]]"
 tags: [复杂性, 组织适应, 一线授权, 基本问题, 矛盾管理, 智识谦逊, 人机协作]
 created: 2026-08-21
-updated: 2026-08-30
+updated: 2026-09-01
 confidence: medium
 ---
 
@@ -120,6 +121,7 @@ confidence: medium
 - [[Leadership/Integrative_Thinking|整合思考]] — 把矛盾转化为设计条件
 - [[Leadership/L10_Devils_Advocate|培养唱反调的人]] — 用挑战者改善判断质量
 - [[Distributed_Leadership_and_Organizational_Efficiency|分布式领导与组织效率]] — 将前线决策扩展为信息、能力、责任与支持四项授权条件
+- [[Leadership_Stage_and_Organizational_Focus|领导者角色升级与组织聚焦]] — 将环境变化连接到 CEO 角色切换与组织聚焦
 
 ## 来源
 

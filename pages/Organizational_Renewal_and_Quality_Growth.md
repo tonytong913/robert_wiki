@@ -10,9 +10,10 @@ related:
   - "[[Open_Mindset]]"
   - "[[Executive_Feet_in_the_Mud]]"
   - "[[Grey_Zone_Leadership]]"
+  - "[[Leadership_Stage_and_Organizational_Focus]]"
 tags: [组织转型, 协作成本, 品牌, 恢复力, 质量增长, 第二曲线]
 created: 2026-08-20
-updated: 2026-08-26
+updated: 2026-09-01
 confidence: medium
 ---
 
@@ -143,6 +144,7 @@ SpaceX 在火箭连续发射失败后列出十大风险，建立预先检查程�
 - [[Management_Boundary_Design|管理边界设计]] — 用品牌承诺和组织机制约束扩张冲动
 - [[Commercial_Innovation_Reality_Constraints|商业创新的现实约束]] — 把品牌风险、交付成本和公共责任纳入能力闸门
 - [[Winning_Feedback_and_Day1_Organization|胜利目标、反馈学习与 Day 1 组织]] — 防止流程取代目的，并识别防御性过度协作
+- [[Leadership_Stage_and_Organizational_Focus|领导者角色升级与组织聚焦]] — 从阶段判断、角色切换与整体最优补充组织更新路径
 
 ## 来源
 

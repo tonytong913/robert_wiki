@@ -12,9 +12,10 @@ related:
   - "[[Abusive_Delegation]]"
   - "[[Leadership/L11_Mantra_3_What_Do_You_Think]]"
   - "[[Leadership/L15_Three_Actions_of_Great_Teachers]]"
+  - "[[Leadership_Stage_and_Organizational_Focus]]"
 tags: [领导力, 授权, 情景管理, 组织效率, 自我驱动, 信任]
 created: 2026-08-30
-updated: 2026-08-31
+updated: 2026-09-01
 confidence: medium
 ---
 
@@ -120,6 +121,7 @@ confidence: medium
 - [[Abusive_Delegation|滥授权]] — 区分赋能与责任转嫁
 - [[Leadership/L11_Mantra_3_What_Do_You_Think|你觉得呢？]] — 用提问激活团队判断与责任
 - [[Leadership/L15_Three_Actions_of_Great_Teachers|伟大老师的三个动作]] — 领导者通过设计、教授和服务成就他人
+- [[Leadership_Stage_and_Organizational_Focus|领导者角色升级与组织聚焦]] — 说明 CEO 为什么要随阶段退出默认解题者角色
 
 ## 来源
 

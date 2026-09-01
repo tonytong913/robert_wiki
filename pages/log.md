@@ -1465,3 +1465,14 @@
 - 更新 `pages/index.md` 与已读账本
 
 ---
+
+## [2026-09-01] ingest | 李翔商业内参：组织执行纪律与决策速度
+
+- 从本地 `knowledge-base/李翔商业内参` 原样保存 4 篇 Markdown：`20160621-无论什么时代都要有工作纪律.md`、`20170215-万达如何高效开会.md`、`20160825-阿里CEO张勇要更快速更锋利地做决定.md`、`20170407-如何减少公司内部的过度合作.md`
+- 使用 `viewpoint-structure` 编译综合页：`pages/Execution_Discipline_and_Decision_Velocity.md`
+- 核心结构：结果纪律、决策者到场、可逆决定下沉、协作成本治理与反馈纠错
+- 明确区分原文案例、二手研究、解释性推断和实践启发，并标注 OCR、历史信息和适用边界
+- 更新 7 处交叉引用：`Distributed_Leadership_and_Organizational_Efficiency.md`、`Organizational_Renewal_and_Quality_Growth.md`、`Management_Boundary_Design.md`、`Growth_Authorization_and_Organizational_Judgment.md`、`Winning_Feedback_and_Day1_Organization.md`、`Freedom_and_Discipline.md`、`Leadership/L25_Decision_vs_Choice.md`
+- 更新 `pages/index.md` 与已读账本
+
+---

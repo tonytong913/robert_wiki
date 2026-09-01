@@ -6,6 +6,7 @@ sources:
   - raw/articles/20170411-被夸大的失败经验和失败学习.md
   - raw/articles/20170414-day1公司和day2公司.md
 related:
+  - "[[Execution_Discipline_and_Decision_Velocity]]"
   - "[[Talent_Truth_Dissent_and_User_Value]]"
   - "[[Innovation_Lessons_from_Failure]]"
   - "[[Reflection_Approaching_Correct_Answer]]"
@@ -16,7 +17,7 @@ related:
   - "[[Management_Boundary_Design]]"
 tags: [战略目标, 资源配置, 用户需求, 失败学习, 反馈循环, Day1, 组织活力, 决策速度]
 created: 2026-08-26
-updated: 2026-08-26
+updated: 2026-09-01
 confidence: medium
 ---
 
@@ -88,6 +89,8 @@ confidence: medium
 ### 启发
 
 每项跨部门工作先明确：谁负责结果、谁有最终决策权、谁提供意见、谁只需知情，以及什么结果算完成。
+
+关于会议时间银行、决策者到场和一线快速决策，参见 [[Execution_Discipline_and_Decision_Velocity|组织执行纪律与决策速度]]。
 
 ## 四、失败不会自动产生学习，反馈闭环才会
 

@@ -4,6 +4,7 @@ type: comparison
 sources:
   - raw/articles/2026-08-20-李翔商业内参-组织更新与质量增长.md
 related:
+  - "[[Execution_Discipline_and_Decision_Velocity]]"
   - "[[Growth_Authorization_and_Organizational_Judgment]]"
   - "[[Innovation_Lessons_from_Failure]]"
   - "[[Leadership/L20_Smart_Failure]]"
@@ -66,6 +67,8 @@ confidence: medium
 ### 启发
 
 每场会议前明确：是否必须同步讨论、谁负责决策、谁只需会后知情，以及新增会议要替代哪项旧协作。
+
+更完整的会议时间银行、决策者到场和协作成本治理，参见 [[Execution_Discipline_and_Decision_Velocity|组织执行纪律与决策速度]]。
 
 ## 三、品牌比产品组合更稳定
 

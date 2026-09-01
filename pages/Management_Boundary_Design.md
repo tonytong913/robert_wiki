@@ -7,6 +7,7 @@ sources:
   - "raw/articles/20170424-张瑞敏的读书方法和书单.md"
   - "raw/articles/20170427-维护品牌而不是盲目去做新产品.md"
 related:
+  - "[[Execution_Discipline_and_Decision_Velocity]]"
   - "[[Organizational_Renewal_and_Quality_Growth]]"
   - "[[Talent_Truth_Dissent_and_User_Value]]"
   - "[[Adult_Learning_Guide]]"
@@ -16,7 +17,7 @@ related:
   - "[[Leadership/L10_Devils_Advocate]]"
 tags: [管理, 边界, 规则, 工作环境, 阅读, 品牌, 组织设计]
 created: 2026-08-21
-updated: 2026-08-26
+updated: 2026-09-01
 confidence: medium
 ---
 
@@ -139,6 +140,7 @@ confidence: medium
 
 ## 相关页面
 
+- [[Execution_Discipline_and_Decision_Velocity|组织执行纪律与决策速度]] — 区分保护结果的纪律与满足控制感的形式要求
 - [[Organizational_Renewal_and_Quality_Growth|组织更新与质量增长]] — 品牌边界和独立机制约束扩张冲动
 - [[Talent_Truth_Dissent_and_User_Value|人才、事实、异议与用户价值]] — 规则与环境共同决定坏消息能否上行
 - [[Adult_Learning_Guide|成人学习指南]] — 学习应服务现实成长而非表演

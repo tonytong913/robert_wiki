@@ -7,6 +7,7 @@ sources:
   - "raw/articles/20170314-三个提高组织效率的建议.md"
   - "raw/articles/20160715-如果CEO花70%的时间在做事上说明团队不强.md"
 related:
+  - "[[Execution_Discipline_and_Decision_Velocity]]"
   - "[[Growth_Authorization_and_Organizational_Judgment]]"
   - "[[Adaptive_Organization_Under_Complexity]]"
   - "[[Abusive_Delegation]]"
@@ -116,6 +117,7 @@ confidence: medium
 
 ## 相关页面
 
+- [[Execution_Discipline_and_Decision_Velocity|组织执行纪律与决策速度]] — 用结果纪律、决策会议、一线授权和协作治理把分布式判断转化为行动速度
 - [[Growth_Authorization_and_Organizational_Judgment|增长、授权与组织判断]] — 授权需要上下文，增长需要方向和边界
 - [[Adaptive_Organization_Under_Complexity|复杂环境中的组织适应]] — 一线决定权必须配合强后台支持
 - [[Abusive_Delegation|滥授权]] — 区分赋能与责任转嫁

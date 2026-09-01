@@ -5,6 +5,7 @@ sources:
   - raw/articles/2026-08-20-李翔商业内参-增长授权与组织判断.md
   - raw/articles/20170426-情景管理而非控制管理.md
 related:
+  - "[[Execution_Discipline_and_Decision_Velocity]]"
   - "[[Leadership/L15_Three_Actions_of_Great_Teachers]]"
   - "[[Leadership/L11_Mantra_3_What_Do_You_Think]]"
   - "[[Leadership/L20_Smart_Failure]]"
@@ -14,7 +15,7 @@ related:
   - "[[Distributed_Leadership_and_Organizational_Efficiency]]"
 tags: [增长, 授权, 组织文化, 北极星, 飞轮, 决策, 失败]
 created: 2026-08-20
-updated: 2026-08-30
+updated: 2026-09-01
 confidence: medium
 ---
 
@@ -137,6 +138,7 @@ Uber 的增长优先文化曾庇护行为恶劣的高绩效者，并让性骚扰
 - [[Commercial_Innovation_Reality_Constraints|商业创新的现实约束]] — 用成本与可逆性决定产品试错速度
 - [[Winning_Feedback_and_Day1_Organization|胜利目标、反馈学习与 Day 1 组织]] — 用 Day 1 原则连接客户价值、反馈学习与高速决策
 - [[Distributed_Leadership_and_Organizational_Efficiency|分布式领导与组织效率]] — 补充共同担责、自驱小单元、信任成本与 CEO 角色边界
+- [[Execution_Discipline_and_Decision_Velocity|组织执行纪律与决策速度]] — 以可逆性、反馈速度和损失边界决定何时授权提速
 
 ## 来源
 

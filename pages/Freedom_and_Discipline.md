@@ -5,6 +5,7 @@ sources:
   - raw/articles/hct-0211-我问和菜头-我们该去了解什么程度的答案.md
   - raw/articles/hct-0421-32-叠桌子-你可以这样理解人世间.md
 related:
+  - "[[Execution_Discipline_and_Decision_Velocity]]"
   - "[[Self_Discipline_Illusion]]"
   - "[[Becoming_Yourself_True_Meaning]]"
   - "[[Freedom_from_Fear]]"
@@ -12,7 +13,7 @@ related:
   - "[[Self_Knowledge_Before_Change]]"
 tags: [自由, 自律, 概念之争, 切身感受, 内心自由, 叠桌子]
 created: 2026-05-02
-updated: 2026-05-25
+updated: 2026-09-01
 confidence: high
 ---
 
@@ -83,6 +84,7 @@ confidence: high
 
 ## 相关页面
 
+- [[Execution_Discipline_and_Decision_Velocity|组织执行纪律与决策速度]] — 区分个人内在自由与组织为协作结果设置的外部纪律
 - [[Table_Stacking|叠桌子：人世间的分层模型]] — 越往上个人空间和选择越大，自由与层级成正比
 - [[Self_Discipline_Illusion|自律：美好的假象]] — 自律只是内心自由的外在显现
 - [[Becoming_Yourself_True_Meaning|成为自己]] — 自由是成为自己的前提

@@ -7,6 +7,7 @@ sources:
   - "raw/articles/20170322-不同阶段的CEO.md"
   - "raw/articles/20170323-苹果公司的三个管理特质.md"
 related:
+  - "[[Strategic_Adaptation_and_Organizational_Resilience]]"
   - "[[Distributed_Leadership_and_Organizational_Efficiency]]"
   - "[[Adaptive_Organization_Under_Complexity]]"
   - "[[Organizational_Renewal_and_Quality_Growth]]"
@@ -109,6 +110,7 @@ CEO 没有一种永远正确的工作方式；企业从生存期进入发展期�
 
 ## 相关页面
 
+- [[Strategic_Adaptation_and_Organizational_Resilience|战略适应与组织恢复力]] — 从业务约束和文化更新解释领导者为什么必须切换阶段性角色
 - [[Distributed_Leadership_and_Organizational_Efficiency|分布式领导与组织效率]] — 把领导者角色转型落实为信息、能力、责任与支持
 - [[Adaptive_Organization_Under_Complexity|复杂环境中的组织适应]] — 用一线行动、系统复盘与认知开放响应变化
 - [[Organizational_Renewal_and_Quality_Growth|组织更新与质量增长]] — 用组织机制、品牌边界和能力闸门支持成熟企业更新

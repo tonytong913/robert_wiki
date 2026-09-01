@@ -4,6 +4,7 @@ type: comparison
 sources:
   - raw/articles/2026-08-20-李翔商业内参-组织更新与质量增长.md
 related:
+  - "[[Strategic_Adaptation_and_Organizational_Resilience]]"
   - "[[Execution_Discipline_and_Decision_Velocity]]"
   - "[[Growth_Authorization_and_Organizational_Judgment]]"
   - "[[Innovation_Lessons_from_Failure]]"
@@ -19,6 +20,8 @@ confidence: medium
 ---
 
 # 组织更新与质量增长
+
+> 延伸阅读：[[Strategic_Adaptation_and_Organizational_Resilience|战略适应与组织恢复力]]进一步连接业务约束、第二曲线、风险履历与增长文化底线。
 
 成熟企业真正的挑战，不是继续做大，而是在复杂度上升时保持创新能力、品牌一致性和自我修复能力。
 

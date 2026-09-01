@@ -5,6 +5,7 @@ sources:
   - raw/articles/2026-08-20-李翔商业内参-增长授权与组织判断.md
   - raw/articles/20170426-情景管理而非控制管理.md
 related:
+  - "[[Strategic_Adaptation_and_Organizational_Resilience]]"
   - "[[Execution_Discipline_and_Decision_Velocity]]"
   - "[[Leadership/L15_Three_Actions_of_Great_Teachers]]"
   - "[[Leadership/L11_Mantra_3_What_Do_You_Think]]"
@@ -127,6 +128,7 @@ Uber 的增长优先文化曾庇护行为恶劣的高绩效者，并让性骚扰
 
 ## 相关页面
 
+- [[Strategic_Adaptation_and_Organizational_Resilience|战略适应与组织恢复力]] — 说明增长底线如何与第二曲线、组织记忆和文化更新相连
 - [[Leadership/L15_Three_Actions_of_Great_Teachers|伟大老师的三个动作]] — 设计方向、培养能力、提供支持
 - [[Leadership/L11_Mantra_3_What_Do_You_Think|你觉得呢？]] — 用提问培养自主判断
 - [[Leadership/L20_Smart_Failure|组织要学会聪明的失败]] — 控制试验成本并沉淀学习

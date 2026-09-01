@@ -7,6 +7,7 @@ sources:
   - "raw/articles/20170513-经营就是与矛盾斗争.md"
   - "raw/articles/20170525-比尔盖茨的人生建议.md"
 related:
+  - "[[Strategic_Adaptation_and_Organizational_Resilience]]"
   - "[[Growth_Authorization_and_Organizational_Judgment]]"
   - "[[Grey_Zone_Leadership]]"
   - "[[Executive_Feet_in_the_Mud]]"
@@ -23,6 +24,8 @@ confidence: medium
 ---
 
 # 复杂环境中的组织适应
+
+> 延伸阅读：[[Strategic_Adaptation_and_Organizational_Resilience|战略适应与组织恢复力]]补充战略约束、独立转型机制与增长文化底线。
 
 复杂环境中的组织能力，不是让高层掌握全部答案，而是缩短信息到行动的距离、从现象追到基本问题、在矛盾中持续经营，并让不同能力与外部工具共同参与判断。
 

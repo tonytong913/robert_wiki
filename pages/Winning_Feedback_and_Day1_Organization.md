@@ -6,6 +6,7 @@ sources:
   - raw/articles/20170411-被夸大的失败经验和失败学习.md
   - raw/articles/20170414-day1公司和day2公司.md
 related:
+  - "[[Strategic_Adaptation_and_Organizational_Resilience]]"
   - "[[Execution_Discipline_and_Decision_Velocity]]"
   - "[[Talent_Truth_Dissent_and_User_Value]]"
   - "[[Innovation_Lessons_from_Failure]]"
@@ -203,6 +204,7 @@ confidence: medium
 
 ## 相关页面
 
+- [[Strategic_Adaptation_and_Organizational_Resilience|战略适应与组织恢复力]] — 把反馈学习扩展为风险履历、第二曲线和文化更新机制
 - [[Talent_Truth_Dissent_and_User_Value|人才、事实、异议与用户价值]] — 用用户相对旧方案的净价值校验需求
 - [[Innovation_Lessons_from_Failure|创新：从失败中学习]] — 补充失败经验的幸存者偏差与反馈闭环边界
 - [[Reflection_Approaching_Correct_Answer|反思：逼近正确答案]] — 把直接经验转化为可验证的间接经验

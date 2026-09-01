@@ -7,6 +7,7 @@ sources:
   - raw/articles/20160825-阿里CEO张勇要更快速更锋利地做决定.md
   - raw/articles/20170407-如何减少公司内部的过度合作.md
 related:
+  - "[[Strategic_Adaptation_and_Organizational_Resilience]]"
   - "[[Distributed_Leadership_and_Organizational_Efficiency]]"
   - "[[Organizational_Renewal_and_Quality_Growth]]"
   - "[[Management_Boundary_Design]]"
@@ -141,6 +142,7 @@ confidence: medium
 
 ## 相关页面
 
+- [[Strategic_Adaptation_and_Organizational_Resilience|战略适应与组织恢复力]] — 用战略假设、退出条件和组织记忆约束快速行动
 - [[Distributed_Leadership_and_Organizational_Efficiency|分布式领导与组织效率]] — 授权需要信息、能力、责任和支持
 - [[Organizational_Renewal_and_Quality_Growth|组织更新与质量增长]] — 协作成本、独立机制与能力成长
 - [[Management_Boundary_Design|管理边界设计]] — 规则和边界应保护信任与有效行为

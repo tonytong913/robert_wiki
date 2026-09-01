@@ -1476,3 +1476,15 @@
 - 更新 `pages/index.md` 与已读账本
 
 ---
+
+## [2026-09-01] ingest | 李翔商业内参：战略适应与组织恢复力
+
+- 从本地 `knowledge-base/李翔商业内参` 保存 4 篇较干净的 Markdown 原文：`2017-04-19-李翔商业内参-很多商业战略的出台是一种无奈甚至是被逼的.md`、`2017-04-28-李翔商业内参-如何建设恢复力.md`、`2017-05-03-李翔商业内参-成熟公司转型的经验和教训.md`、`2017-05-04-李翔商业内参-增长至上的文化和它的副作用.md`
+- 为避免覆盖工作树中已有的重 OCR 噪声版本，使用带连字符日期与来源名的新文件名保存事实源
+- 使用 `viewpoint-structure` 编译综合页：`pages/Strategic_Adaptation_and_Organizational_Resilience.md`
+- 核心结构：现实约束形成战略、风险履历形成恢复力、独立机制支持第二曲线、增长不能购买价值观豁免、旧文化必须随阶段更新
+- 明确区分原文案例、二手转述、解释性推断和实践启发，并标注 OCR、历史信息和单案例证据边界
+- 更新 6 处交叉引用：`Organizational_Renewal_and_Quality_Growth.md`、`Growth_Authorization_and_Organizational_Judgment.md`、`Leadership_Stage_and_Organizational_Focus.md`、`Winning_Feedback_and_Day1_Organization.md`、`Execution_Discipline_and_Decision_Velocity.md`、`Adaptive_Organization_Under_Complexity.md`
+- 更新 `pages/index.md` 与已读账本
+
+---
